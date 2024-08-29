@@ -21,7 +21,7 @@ function App() {
           <div className="take flex justify-center w-4/12">
             <TakeAtt />
           </div>
-          <div className="view flex justify-center w-4/12">
+          <div className="view flex justify-center w-4/12 z-0">
             <ViewAtt />
           </div>
         </div>

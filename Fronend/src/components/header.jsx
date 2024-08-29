@@ -22,7 +22,7 @@ const Header = () => {
         </div>
         <div className="dropdown-container relative z-40 bg-white bg-opacity-70 rounded-full">
           <button
-            className="dropdown-button text-3xl text-black p-2 rounded-full"
+            className="dropdown-button text-2xl text-black p-2 rounded-full"
             onClick={toggleDropdown}
           >
             {items}
