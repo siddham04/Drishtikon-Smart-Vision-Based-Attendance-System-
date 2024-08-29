@@ -14,14 +14,14 @@ function App() {
         <div className="header">
           <Header />
         </div>
-        <div className="mainpart w-full p-10 mt-10  justify-evenly rounded-lg flex">
+        <div className="mainpart w-full p-10 mt-10  justify-evenly rounded-lg flex z-0">
           <div className="register flex w-4/12 justify-center">
             <Register />
           </div>
           <div className="take flex justify-center w-4/12">
             <TakeAtt />
           </div>
-          <div className="view flex justify-center w-4/12 z-0">
+          <div className="view flex justify-center w-4/12">
             <ViewAtt />
           </div>
         </div>
