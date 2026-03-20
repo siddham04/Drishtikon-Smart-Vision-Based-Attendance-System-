@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+backend/env/
+
+# Node
+node_modules/
+dist/
+
+# Generated data (regenerated at runtime)
+backend/Data/*.pkl
+backend/Data/groups.json
+backend/Attendance/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env

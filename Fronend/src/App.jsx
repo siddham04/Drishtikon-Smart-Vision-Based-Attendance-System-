@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Header from './components/header';
 import Register from './components/register';
 import TakeAtt from './components/take';
@@ -7,28 +7,26 @@ import Footer from './components/footer';
 import './App.css'
 
 function App() {
+  const [selectedGroup, setSelectedGroup] = useState('');
 
   return (
-    <div className="">
-      <div className="body w-full h-full flex flex-col">
-        <div className="header">
-          <Header />
+    <div className="min-h-screen flex flex-col">
+      <Header selectedGroup={selectedGroup} onGroupChange={setSelectedGroup} />
+      {!selectedGroup && (
+        <div className="flex-1 flex items-center justify-center">
+          <p className="text-white/40 text-lg">Select a class group from the header to get started</p>
         </div>
-        <div className="mainpart w-full p-10 mt-10  justify-evenly rounded-lg flex z-0">
-          <div className="register flex w-4/12 justify-center">
-            <Register />
+      )}
+      {selectedGroup && (
+        <main className="flex-1 flex items-center justify-center px-6 py-16">
+          <div className="flex flex-wrap justify-center gap-16 max-w-6xl w-full">
+            <Register group={selectedGroup} />
+            <TakeAtt group={selectedGroup} />
+            <ViewAtt group={selectedGroup} />
           </div>
-          <div className="take flex justify-center w-4/12">
-            <TakeAtt />
-          </div>
-          <div className="view flex justify-center w-4/12">
-            <ViewAtt />
-          </div>
-        </div>
-      </div>
-      <div className="footer absolute bottom-0 w-screen p-5 bg-black bg-opacity-30">
-          <Footer />
-        </div>
+        </main>
+      )}
+      <Footer />
     </div>
   )
 }

@@ -1,0 +1,7 @@
+flask
+flask-cors
+opencv-python
+numpy
+scikit-learn
+pyttsx3
+openpyxl
