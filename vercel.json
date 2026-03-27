@@ -1,7 +1,7 @@
 {
-  "buildCommand": "cd Fronend && npm install && npm run build",
+  "installCommand": "cd Fronend && npm install",
+  "buildCommand": "cd Fronend && npm run build",
   "outputDirectory": "Fronend/dist",
-  "framework": "vite",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
