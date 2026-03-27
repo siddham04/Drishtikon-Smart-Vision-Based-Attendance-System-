@@ -1,8 +1,0 @@
-{
-  "installCommand": "cd Fronend && npm install",
-  "buildCommand": "cd Fronend && npm run build",
-  "outputDirectory": "Fronend/dist",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
-}
