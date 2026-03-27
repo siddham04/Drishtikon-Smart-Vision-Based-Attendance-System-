@@ -1,10 +1,12 @@
 services:
   - type: web
-    name: drishtikon
+    name: drishtikon-backend
     runtime: docker
-    dockerfilePath: ./Dockerfile
+    dockerfilePath: ./Dockerfile.backend
     envVars:
       - key: PORT
         value: "5000"
       - key: FLASK_DEBUG
         value: "false"
+      - key: CORS_ORIGINS
+        value: "https://your-app.vercel.app"

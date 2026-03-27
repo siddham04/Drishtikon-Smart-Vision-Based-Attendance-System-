@@ -141,23 +141,48 @@ npm run dev
 # Frontend runs on http://localhost:5173
 ```
 
-### Production Deployment
+### Production Deployment (Vercel + Render)
 
-#### Option 1: Docker (Recommended)
+The app is split across two services for optimal performance:
+
+| Service | Platform | What it runs |
+|---------|----------|-------------|
+| Frontend | **Vercel** | React SPA (global CDN, instant loads) |
+| Backend | **Render** | Flask API + ML models (GPU-capable, persistent filesystem) |
+
+#### Step 1: Deploy Backend to Render
+
+1. Go to [Render.com](https://render.com) → **New Web Service**
+2. Connect the GitHub repo: `siddham04/Drishtikon-Smart-Vision-Based-Attendance-System-`
+3. Render auto-detects `render.yaml` and uses `Dockerfile.backend`
+4. After deploy, copy your Render URL (e.g. `https://drishtikon-backend.onrender.com`)
+5. In Render dashboard → Environment, set:
+   - `CORS_ORIGINS` = `https://your-app.vercel.app` (update after Vercel deploy)
+
+#### Step 2: Deploy Frontend to Vercel
+
+1. Go to [Vercel](https://vercel.com) → **Add New Project**
+2. Import the GitHub repo: `siddham04/Drishtikon-Smart-Vision-Based-Attendance-System-`
+3. Vercel auto-detects `vercel.json` — no settings to change
+4. Add **Environment Variable** before deploying:
+   - `VITE_API_URL` = `https://drishtikon-backend.onrender.com` (your Render URL from Step 1)
+5. Click **Deploy**
+
+#### Step 3: Link them together
+
+1. Copy your Vercel URL (e.g. `https://drishtikon.vercel.app`)
+2. Go back to Render dashboard → Environment
+3. Update `CORS_ORIGINS` = `https://drishtikon.vercel.app`
+
+#### Alternative: Docker (self-hosted)
 
 ```bash
 docker build -t drishtikon .
 docker run -p 5000:5000 drishtikon
-# App available at http://localhost:5000
+# Full app at http://localhost:5000
 ```
 
-#### Option 2: Render.com
-
-1. Push to GitHub
-2. Connect repo on [Render.com](https://render.com)
-3. It auto-detects `render.yaml` and deploys
-
-#### Option 3: Manual
+#### Alternative: Manual
 
 ```bash
 cd Fronend && npm ci && npm run build && cd ..
