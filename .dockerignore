@@ -1,0 +1,10 @@
+node_modules
+backend/venv
+backend/env
+backend/__pycache__
+backend/Data/*.pkl
+backend/Attendance
+Fronend/dist
+.git
+.gitignore
+*.md

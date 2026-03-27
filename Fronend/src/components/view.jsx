@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { API_URL } from '../config';
 import ViewIcon from '../assets/view.svg';
 
 const ViewAtt = ({ group }) => {
@@ -9,11 +10,16 @@ const ViewAtt = ({ group }) => {
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState('');
 
+    const [showEmail, setShowEmail] = useState(false);
+    const [emailTo, setEmailTo] = useState('');
+    const [emailStatus, setEmailStatus] = useState('');
+    const [emailSending, setEmailSending] = useState(false);
+
     const fetchAttendance = async (date) => {
         setLoading(true);
         setError('');
         try {
-            let url = `http://localhost:5000/view-attendance?group=${group}`;
+            let url = `${API_URL}/view-attendance?group=${group}`;
             if (date) url += `&date=${date}`;
             const response = await fetch(url);
             const data = await response.json();
@@ -31,12 +37,41 @@ const ViewAtt = ({ group }) => {
 
     const handleViewClick = () => {
         setShowPopup(true);
+        setShowEmail(false);
+        setEmailStatus('');
         fetchAttendance();
     };
 
     const handleDownload = () => {
         if (!selectedDate) return;
-        window.open(`http://localhost:5000/download-attendance?group=${group}&date=${selectedDate}`, '_blank');
+        window.open(`${API_URL}/download-attendance?group=${group}&date=${selectedDate}`, '_blank');
+    };
+
+    const handleSendEmail = async () => {
+        if (!emailTo.trim() || !emailTo.includes('@')) {
+            setEmailStatus('Please enter a valid email address');
+            return;
+        }
+        setEmailSending(true);
+        setEmailStatus('');
+        try {
+            const res = await fetch(`${API_URL}/send-report`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ group, date: selectedDate, email: emailTo }),
+            });
+            const data = await res.json();
+            if (res.ok) {
+                setEmailStatus(`Sent to ${emailTo}!`);
+                setTimeout(() => { setShowEmail(false); setEmailStatus(''); }, 3000);
+            } else {
+                setEmailStatus(data.error || 'Failed to send');
+            }
+        } catch {
+            setEmailStatus('Server error');
+        } finally {
+            setEmailSending(false);
+        }
     };
 
     const presentCount = records.filter(r => r.Status === 'Present').length;
@@ -87,17 +122,59 @@ const ViewAtt = ({ group }) => {
                                 )}
                             </div>
                             {selectedDate && records.length > 0 && (
-                                <button
-                                    onClick={handleDownload}
-                                    className="text-sm bg-green-600 hover:bg-green-700 text-white px-4 py-1.5 rounded-lg transition flex items-center gap-2"
-                                >
-                                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                                    </svg>
-                                    Download Excel
-                                </button>
+                                <div className="flex gap-2">
+                                    <button
+                                        onClick={handleDownload}
+                                        className="text-sm bg-green-600 hover:bg-green-700 text-white px-4 py-1.5 rounded-lg transition flex items-center gap-2"
+                                    >
+                                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                                        </svg>
+                                        Download
+                                    </button>
+                                    <button
+                                        onClick={() => setShowEmail(!showEmail)}
+                                        className={`text-sm px-4 py-1.5 rounded-lg transition flex items-center gap-2 ${
+                                            showEmail ? 'bg-orange-600 hover:bg-orange-700 text-white' : 'bg-orange-600/20 hover:bg-orange-600/30 text-orange-400 border border-orange-500/30'
+                                        }`}
+                                    >
+                                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                                        </svg>
+                                        Email
+                                    </button>
+                                </div>
                             )}
                         </div>
+
+                        {/* Email panel */}
+                        {showEmail && (
+                            <div className="mx-5 mt-3 bg-orange-500/5 border border-orange-500/20 rounded-xl p-4">
+                                <p className="text-sm text-orange-300 mb-2 font-medium">Send Report via Email</p>
+                                <div className="flex gap-2">
+                                    <input
+                                        type="email"
+                                        value={emailTo}
+                                        onChange={(e) => setEmailTo(e.target.value)}
+                                        placeholder="teacher@school.com"
+                                        className="flex-1 bg-white/5 border border-white/10 text-white text-sm px-3 py-2 rounded-lg focus:outline-none focus:border-orange-500 transition"
+                                        onKeyDown={(e) => e.key === 'Enter' && handleSendEmail()}
+                                    />
+                                    <button
+                                        onClick={handleSendEmail}
+                                        disabled={emailSending}
+                                        className="bg-orange-600 hover:bg-orange-700 disabled:opacity-50 text-white text-sm px-4 py-2 rounded-lg transition"
+                                    >
+                                        {emailSending ? 'Sending...' : 'Send'}
+                                    </button>
+                                </div>
+                                {emailStatus && (
+                                    <p className={`text-xs mt-2 ${emailStatus.includes('Sent') ? 'text-green-400' : 'text-red-400'}`}>
+                                        {emailStatus}
+                                    </p>
+                                )}
+                            </div>
+                        )}
 
                         {records.length > 0 && !loading && (
                             <div className="px-5 pt-3 flex gap-3">

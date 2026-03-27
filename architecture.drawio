@@ -1,0 +1,281 @@
+<mxfile host="app.diagrams.net" modified="2026-03-27" agent="Drishtikon" version="24.0.0" type="device">
+  <diagram id="arch" name="System Architecture">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- Title -->
+        <mxCell id="title" value="Drishtikon — System Architecture" style="text;html=1;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="400" y="10" width="500" height="40" as="geometry" />
+        </mxCell>
+
+        <!-- ============ BROWSER LAYER ============ -->
+        <mxCell id="browser_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=8;dashed=0;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="1140" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="browser_label" value="Browser  (React 18 + Vite + Tailwind CSS)" style="text;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="100" y="65" width="400" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- User -->
+        <mxCell id="user" value="User&#xa;(Webcam)" style="shape=mxgraph.basic.smiley;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+
+        <!-- React Components -->
+        <mxCell id="register" value="Register Face&#xa;(4-step wizard)&#xa;&#xa;1. Name&#xa;2. UID&#xa;3. Liveness&#xa;4. Capture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="140" height="120" as="geometry" />
+        </mxCell>
+
+        <mxCell id="take_att" value="Take Attendance&#xa;&#xa;10s scan&#xa;Live face overlay&#xa;Real-time labels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="140" height="120" as="geometry" />
+        </mxCell>
+
+        <mxCell id="view_att" value="View Attendance&#xa;&#xa;Date picker&#xa;Download Excel&#xa;Email Report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="580" y="100" width="140" height="120" as="geometry" />
+        </mxCell>
+
+        <mxCell id="dashboard" value="Dashboard&#xa;&#xa;Line chart (trend)&#xa;Bar chart (students)&#xa;At-risk alerts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="760" y="100" width="140" height="120" as="geometry" />
+        </mxCell>
+
+        <mxCell id="regstatus" value="Registration Status&#xa;&#xa;Per-group table&#xa;Inline face register&#xa;Progress tracking" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;fontSize=10;fontStyle=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="940" y="100" width="140" height="120" as="geometry" />
+        </mxCell>
+
+        <!-- Config.js -->
+        <mxCell id="configjs" value="config.js&#xa;API_URL from .env" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="120" height="35" as="geometry" />
+        </mxCell>
+
+        <!-- Webcam arrow -->
+        <mxCell id="webcam_arrow1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#d6b656;strokeWidth=2;dashed=1;" edge="1" source="user" target="register" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="webcam_arrow2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#d6b656;strokeWidth=2;dashed=1;" edge="1" source="user" target="take_att" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- ============ API LAYER (arrows) ============ -->
+        <mxCell id="api_arrow_reg" value="POST /register-face&#xa;POST /liveness-check" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#9673a6;strokeWidth=2;fontSize=8;fontColor=#9673a6;labelBackgroundColor=#FFFFFF;" edge="1" source="register" target="flask_box" parent="1">
+          <mxGeometry relative="1" as="geometry"><mxPoint x="290" y="400" as="targetPoint" /></mxGeometry>
+        </mxCell>
+        <mxCell id="api_arrow_take" value="POST /take-attendance&#xa;POST /recognize-frame" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#82b366;strokeWidth=2;fontSize=8;fontColor=#82b366;labelBackgroundColor=#FFFFFF;" edge="1" source="take_att" target="flask_box" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="api_arrow_view" value="GET /view-attendance&#xa;GET /download&#xa;POST /send-report" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#b85450;strokeWidth=2;fontSize=8;fontColor=#b85450;labelBackgroundColor=#FFFFFF;" edge="1" source="view_att" target="flask_box" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="api_arrow_dash" value="GET /analytics" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#d6b656;strokeWidth=2;fontSize=8;fontColor=#d6b656;labelBackgroundColor=#FFFFFF;" edge="1" source="dashboard" target="flask_box" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="api_arrow_regst" value="GET /group-students&#xa;POST /register-face" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#996185;strokeWidth=2;fontSize=8;fontColor=#996185;labelBackgroundColor=#FFFFFF;" edge="1" source="regstatus" target="flask_box" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- ============ BACKEND LAYER ============ -->
+        <mxCell id="flask_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=8;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="80" y="380" width="1140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="flask_label" value="Flask Backend  (app.py — Python 3.10)" style="text;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="100" y="385" width="400" height="30" as="geometry" />
+        </mxCell>
+
+        <!-- Backend modules -->
+        <mxCell id="liveness_mod" value="Liveness Detection&#xa;&#xa;MediaPipe FaceLandmarker&#xa;EAR (Eye Aspect Ratio)&#xa;Blink counting&#xa;Min 2 blinks required" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="200" height="110" as="geometry" />
+        </mxCell>
+
+        <mxCell id="deepface_mod" value="Face Recognition&#xa;&#xa;DeepFace (SFace model)&#xa;128-D embedding extraction&#xa;Cosine similarity matching&#xa;Threshold: 0.40" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="200" height="110" as="geometry" />
+        </mxCell>
+
+        <mxCell id="attendance_mod" value="Attendance Manager&#xa;&#xa;Excel generation (openpyxl)&#xa;Per-group/date tracking&#xa;Majority voting&#xa;SMTP email reports" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="200" height="110" as="geometry" />
+        </mxCell>
+
+        <mxCell id="analytics_mod" value="Analytics Engine&#xa;&#xa;Daily attendance stats&#xa;Per-student breakdown&#xa;At-risk detection (&lt;75%)&#xa;Trend computation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="790" y="420" width="200" height="110" as="geometry" />
+        </mxCell>
+
+        <mxCell id="cors_mod" value="CORS + Waitress&#xa;Production WSGI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="420" width="130" height="45" as="geometry" />
+        </mxCell>
+
+        <mxCell id="static_mod" value="Static File Server&#xa;(serves React build)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=9;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="485" width="130" height="45" as="geometry" />
+        </mxCell>
+
+        <!-- ============ DATA LAYER ============ -->
+        <mxCell id="data_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=8;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="1140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="data_label" value="Data Layer  (File System)" style="text;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="100" y="645" width="300" height="30" as="geometry" />
+        </mxCell>
+
+        <mxCell id="pkl_enc" value="face_encodings.pkl&#xa;128-D SFace vectors" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="150" height="70" as="geometry" />
+        </mxCell>
+
+        <mxCell id="pkl_names" value="names.pkl&#xa;name,uid labels" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="310" y="680" width="150" height="70" as="geometry" />
+        </mxCell>
+
+        <mxCell id="groups_json" value="groups.json&#xa;Student data by group" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="500" y="680" width="150" height="70" as="geometry" />
+        </mxCell>
+
+        <mxCell id="xlsx" value="Attendance/*.xlsx&#xa;Per-group Excel reports" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="690" y="680" width="160" height="70" as="geometry" />
+        </mxCell>
+
+        <mxCell id="models" value="face_landmarker.task&#xa;haarcascade_*.xml&#xa;SFace ONNX model" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="890" y="680" width="160" height="70" as="geometry" />
+        </mxCell>
+
+        <!-- Data arrows -->
+        <mxCell id="data_arrow1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#9673a6;strokeWidth=1;" edge="1" source="deepface_mod" target="pkl_enc" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="data_arrow2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#82b366;strokeWidth=1;" edge="1" source="attendance_mod" target="xlsx" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="data_arrow3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#d6b656;strokeWidth=1;" edge="1" source="analytics_mod" target="xlsx" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="data_arrow4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=#9673a6;strokeWidth=1;" edge="1" source="liveness_mod" target="models" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- ============ DEPLOYMENT LAYER ============ -->
+        <mxCell id="deploy_box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=8;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="80" y="810" width="1140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="deploy_label" value="Deployment Options" style="text;html=1;fontSize=14;fontStyle=1;align=left;verticalAlign=middle;fillColor=none;strokeColor=none;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="100" y="820" width="200" height="25" as="geometry" />
+        </mxCell>
+
+        <mxCell id="docker" value="Docker&#xa;(multi-stage build)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="850" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="render" value="Render.com&#xa;(render.yaml)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="850" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="heroku" value="Heroku / Railway&#xa;(Procfile)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="850" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="manual" value="Manual Deploy&#xa;(waitress / gunicorn)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="850" width="160" height="30" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="flow" name="Registration Flow">
+    <mxGraphModel dx="1200" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="ftitle" value="Face Registration &amp; Attendance Workflow" style="text;html=1;fontSize=20;fontStyle=1;align=center;fillColor=none;strokeColor=none;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="250" y="10" width="500" height="35" as="geometry" />
+        </mxCell>
+
+        <!-- Registration flow -->
+        <mxCell id="s1" value="Enter Name" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" value="Enter UID&#xa;(10 digits)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s3" value="Liveness Check&#xa;(5 sec blink)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s4" value="Face Capture&#xa;(10 photos)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="70" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s5" value="DeepFace&#xa;SFace Embed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s6" value="Save to .pkl" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a12" style="strokeColor=#9673a6;strokeWidth=2;" edge="1" source="s1" target="s2" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="a23" style="strokeColor=#9673a6;strokeWidth=2;" edge="1" source="s2" target="s3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="a34" style="strokeColor=#d6b656;strokeWidth=2;" edge="1" source="s3" target="s4" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="a45" style="strokeColor=#82b366;strokeWidth=2;" edge="1" source="s4" target="s5" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="a56" style="strokeColor=#6c8ebf;strokeWidth=2;" edge="1" source="s5" target="s6" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+        <!-- Liveness detail -->
+        <mxCell id="ld1" value="Webcam captures&#xa;~33 frames (5s)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ld2" value="MediaPipe extracts&#xa;478 face landmarks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ld3" value="Compute EAR&#xa;per frame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ld4" value="Count blinks&#xa;(EAR &lt; 0.21)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="770" y="155" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ld5_pass" value="PASS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ld5_fail" value="FAIL&#xa;(retry)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+
+        <mxCell id="ald1" style="strokeColor=#d6b656;strokeWidth=1;" edge="1" source="ld1" target="ld2" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="ald2" style="strokeColor=#d6b656;strokeWidth=1;" edge="1" source="ld2" target="ld3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="ald3" style="strokeColor=#d6b656;strokeWidth=1;" edge="1" source="ld3" target="ld4" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="ald4p" value=">=2" style="strokeColor=#82b366;strokeWidth=2;fontSize=9;" edge="1" source="ld4" target="ld5_pass" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="ald4f" value="&lt;2" style="strokeColor=#b85450;strokeWidth=2;fontSize=9;" edge="1" source="ld4" target="ld5_fail" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+        <!-- Attendance flow -->
+        <mxCell id="att_title" value="Attendance Taking Flow" style="text;html=1;fontSize=16;fontStyle=1;align=left;fillColor=none;strokeColor=none;fontColor=#1a1a2e;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="300" height="30" as="geometry" />
+        </mxCell>
+
+        <mxCell id="a1" value="Start Scan&#xa;(10 seconds)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" value="Capture frame&#xa;every 900ms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a3" value="DeepFace extract&#xa;embeddings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="410" y="320" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a4" value="Cosine similarity&#xa;vs registered faces" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a5" value="Majority vote&#xa;per person" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="780" y="310" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a6" value="Save .xlsx&#xa;Mark Present" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+
+        <mxCell id="aa12" style="strokeColor=#82b366;strokeWidth=2;" edge="1" source="a1" target="a2" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="aa23" style="strokeColor=#82b366;strokeWidth=2;" edge="1" source="a2" target="a3" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="aa34" style="strokeColor=#6c8ebf;strokeWidth=2;" edge="1" source="a3" target="a4" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="aa45" style="strokeColor=#6c8ebf;strokeWidth=2;" edge="1" source="a4" target="a5" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="aa56" style="strokeColor=#d6b656;strokeWidth=2;" edge="1" source="a5" target="a6" parent="1"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+        <!-- Live overlay box -->
+        <mxCell id="live_overlay" value="Meanwhile: Each frame also sent to&#xa;/recognize-frame for LIVE bounding box overlay&#xa;(green = known, red = unknown)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;dashed=1;dashPattern=4 4;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="350" height="50" as="geometry" />
+        </mxCell>
+
+        <!-- Anti-spoofing note -->
+        <mxCell id="spoof_note" value="Anti-Spoofing: Photos/videos cannot pass the liveness check&#xa;because they don't produce real eye blinks (EAR variation)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;dashed=1;dashPattern=4 4;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="380" height="45" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -48,33 +48,36 @@ body {
 
 /* ── Card system ── */
 .action-card {
-  width: 260px;
+  width: 220px;
   flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .card-circle {
-  width: 220px;
-  height: 220px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   position: relative;
   cursor: pointer;
 }
 
 .circle-main {
-  width: 220px;
-  height: 220px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-  z-index: 30;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
+  z-index: 3;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
   transition: 0.35s ease-in-out;
 }
 .circle-main img {
-  width: 90px;
-  height: 90px;
+  width: 72px;
+  height: 72px;
   filter: brightness(0) invert(1);
 }
 
@@ -85,51 +88,53 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 40;
+  z-index: 4;
   opacity: 0;
   transition: 0.35s ease-in-out;
   cursor: pointer;
 }
 
-.circle-ring-1 {
-  position: absolute;
-  width: 220px;
-  height: 220px;
-  border-radius: 50%;
-  z-index: 20;
-  transform: translateY(-12px);
-  transition: 0.35s ease-in-out;
-}
-
+.circle-ring-1,
 .circle-ring-2 {
   position: absolute;
-  width: 220px;
-  height: 220px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
-  z-index: 10;
-  transform: translateY(-24px);
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: 0.4s ease-in-out;
+}
+.circle-ring-1 {
+  z-index: 2;
+}
+.circle-ring-2 {
+  z-index: 1;
   box-shadow: 0 2px 15px rgba(255, 255, 255, 0.1);
-  transition: 0.35s ease-in-out;
 }
 
 .card-circle:hover .circle-main {
   opacity: 0;
+  transform: scale(0.95);
 }
 .card-circle:hover .circle-hover {
   opacity: 1;
-  transform: scale(1.08);
+  transform: scale(1.05);
 }
 .card-circle:hover .circle-ring-1 {
-  transform: translateX(-35px) rotate(-8deg);
-  box-shadow: 0 2px 20px rgba(255, 255, 255, 0.15);
+  opacity: 1;
+  transform: translateX(-22px) translateY(8px) rotate(-6deg) scale(0.92);
+  box-shadow: 0 2px 20px rgba(255, 255, 255, 0.12);
 }
 .card-circle:hover .circle-ring-2 {
-  transform: translateX(35px) rotate(8deg);
+  opacity: 1;
+  transform: translateX(22px) translateY(8px) rotate(6deg) scale(0.92);
+  box-shadow: 0 2px 20px rgba(255, 255, 255, 0.08);
 }
 
 .card-label {
   transition: 0.3s ease-in-out;
-  margin-top: 1.25rem;
+  margin-top: 1rem;
 }
 .card-circle:hover + .card-label {
   opacity: 0;
@@ -183,11 +188,14 @@ body {
 /* ── Responsive ── */
 @media (max-width: 900px) {
   .card-circle, .circle-main, .circle-ring-1, .circle-ring-2 {
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 150px;
   }
   .circle-main img {
-    width: 70px;
-    height: 70px;
+    width: 56px;
+    height: 56px;
+  }
+  .action-card {
+    width: 180px;
   }
 }

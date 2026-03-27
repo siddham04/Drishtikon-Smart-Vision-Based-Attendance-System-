@@ -1,0 +1,8326 @@
+{
+  "G01": [
+    {
+      "name": "AARYAMAN JINDAL",
+      "uid": "2210991119"
+    },
+    {
+      "name": "AAYUSH",
+      "uid": "2210991134"
+    },
+    {
+      "name": "ABHAY KUMAR SINGH",
+      "uid": "2210991146"
+    },
+    {
+      "name": "ABHAY SINGH",
+      "uid": "2210991147"
+    },
+    {
+      "name": "ABHEY SANGWAN",
+      "uid": "2210991149"
+    },
+    {
+      "name": "ABHIJEET",
+      "uid": "2210991150"
+    },
+    {
+      "name": "ABHIMANYU",
+      "uid": "2210991152"
+    },
+    {
+      "name": "ABHISHEK DHIMAN",
+      "uid": "2210991162"
+    },
+    {
+      "name": "ABHISHEK KUMAR",
+      "uid": "2210991167"
+    },
+    {
+      "name": "ADARSH RANJAN",
+      "uid": "2210991179"
+    },
+    {
+      "name": "ADITYA BHARDWAJ",
+      "uid": "2210991187"
+    },
+    {
+      "name": "AKASH CHAUDHARY",
+      "uid": "2210991213"
+    },
+    {
+      "name": "AKSHIT GARG",
+      "uid": "2210991237"
+    },
+    {
+      "name": "AKSHIT SACHDEVA",
+      "uid": "2210991240"
+    },
+    {
+      "name": "ALOK RANJAN",
+      "uid": "2210991242"
+    },
+    {
+      "name": "AMIT KUMAR SAH",
+      "uid": "2210991253"
+    },
+    {
+      "name": "ANANYA GOEL",
+      "uid": "2210991257"
+    },
+    {
+      "name": "ANEES KUMAR",
+      "uid": "2210991261"
+    },
+    {
+      "name": "ANIKET ARORA",
+      "uid": "2210991263"
+    },
+    {
+      "name": "ANIL KUMAR",
+      "uid": "2210991265"
+    },
+    {
+      "name": "ANIRUDH SHARMA",
+      "uid": "2210991269"
+    },
+    {
+      "name": "ANIRUDH THAKUR",
+      "uid": "2210991270"
+    },
+    {
+      "name": "ANKIT KUMAR KALOYA",
+      "uid": "2210991279"
+    },
+    {
+      "name": "ANMOL GOYAL",
+      "uid": "2210991284"
+    },
+    {
+      "name": "ANMOL SHARMA",
+      "uid": "2210991285"
+    },
+    {
+      "name": "ANSH GOYAL",
+      "uid": "2210991294"
+    },
+    {
+      "name": "ANSH POPLI",
+      "uid": "2210991298"
+    },
+    {
+      "name": "ANSH REHAN",
+      "uid": "2210991299"
+    },
+    {
+      "name": "ANSHUL BHATT",
+      "uid": "2210991308"
+    },
+    {
+      "name": "ANUJ SINGLA",
+      "uid": "2210991317"
+    },
+    {
+      "name": "ARNAV RAJPUT",
+      "uid": "2210991350"
+    },
+    {
+      "name": "ARPIT BHARGAVA",
+      "uid": "2210991353"
+    },
+    {
+      "name": "ARSHDEEP SINGH",
+      "uid": "2210991365"
+    },
+    {
+      "name": "ARYAN",
+      "uid": "2210991374"
+    },
+    {
+      "name": "ARYAN RANA",
+      "uid": "2210991384"
+    },
+    {
+      "name": "ARYAN SHARMA",
+      "uid": "2210991386"
+    },
+    {
+      "name": "ARYAN SIHAG",
+      "uid": "2210991388"
+    },
+    {
+      "name": "ARYAN SINGH",
+      "uid": "2210991389"
+    },
+    {
+      "name": "ARYDEEP SAH",
+      "uid": "2210991395"
+    },
+    {
+      "name": "ASHISH JADON",
+      "uid": "2210991400"
+    },
+    {
+      "name": "ASHISH KUMAR",
+      "uid": "2210991401"
+    },
+    {
+      "name": "ASHISH RANJAN",
+      "uid": "2210991402"
+    },
+    {
+      "name": "ASHISH SHARMA",
+      "uid": "2210991403"
+    },
+    {
+      "name": "ASHISH YADAV",
+      "uid": "2210991404"
+    },
+    {
+      "name": "ASHITA CHHABRA",
+      "uid": "2210991405"
+    },
+    {
+      "name": "ASHMIT GALHOTRA",
+      "uid": "2210991407"
+    },
+    {
+      "name": "ASHUTOSH RANA",
+      "uid": "2210991409"
+    },
+    {
+      "name": "ASTITVA RAJ",
+      "uid": "2210991411"
+    },
+    {
+      "name": "AYUSH",
+      "uid": "2210991416"
+    },
+    {
+      "name": "AYUSH",
+      "uid": "2210991418"
+    },
+    {
+      "name": "AYUSH BHROUTA",
+      "uid": "2210991421"
+    },
+    {
+      "name": "AYUSH CHOPRA",
+      "uid": "2210991422"
+    },
+    {
+      "name": "AYUSH PRATAP SINGH",
+      "uid": "2210991427"
+    },
+    {
+      "name": "BHAVYA GARG",
+      "uid": "2210991442"
+    },
+    {
+      "name": "BHOOMIKA",
+      "uid": "2210991446"
+    },
+    {
+      "name": "BHUVAN KUMAR",
+      "uid": "2210991448"
+    },
+    {
+      "name": "CHHAVI GUPTA",
+      "uid": "2210991459"
+    },
+    {
+      "name": "DAKSH BHARDWAJ",
+      "uid": "2210991471"
+    },
+    {
+      "name": "DAKSH MEHTA",
+      "uid": "2210991474"
+    },
+    {
+      "name": "DAVISH ANEJA",
+      "uid": "2210991478"
+    },
+    {
+      "name": "DEVANSH SHARMA",
+      "uid": "2210991495"
+    },
+    {
+      "name": "DEVANSH SHARMA",
+      "uid": "2210991496"
+    },
+    {
+      "name": "DHRUV SEHAL",
+      "uid": "2210991511"
+    },
+    {
+      "name": "DIVESH THAPA",
+      "uid": "2210991528"
+    },
+    {
+      "name": "DIVYANSHI",
+      "uid": "2210991536"
+    },
+    {
+      "name": "GAGANDEEP SINGH",
+      "uid": "2210991559"
+    },
+    {
+      "name": "GAURAV PANDEY",
+      "uid": "2210991571"
+    },
+    {
+      "name": "GAURI GUPTA",
+      "uid": "2210991574"
+    },
+    {
+      "name": "HRIDYESH MAHENDRU",
+      "uid": "2210991671"
+    },
+    {
+      "name": "KANAK JINDAL",
+      "uid": "2210991731"
+    },
+    {
+      "name": "KARAN",
+      "uid": "2210991747"
+    },
+    {
+      "name": "Test User",
+      "uid": "9999999999"
+    }
+  ],
+  "G02": [
+    {
+      "name": "GUNPREET KOUR",
+      "uid": "2210991593"
+    },
+    {
+      "name": "ISHA SETIA",
+      "uid": "2210991680"
+    },
+    {
+      "name": "JASHAN GIR",
+      "uid": "2210991698"
+    },
+    {
+      "name": "JATIN KATOCH",
+      "uid": "2210991711"
+    },
+    {
+      "name": "KANISHK CHAUHAN",
+      "uid": "2210991739"
+    },
+    {
+      "name": "KESHAV KUMAR",
+      "uid": "2210991783"
+    },
+    {
+      "name": "KIRTI",
+      "uid": "2210991805"
+    },
+    {
+      "name": "KRISHNA GROVER",
+      "uid": "2210991810"
+    },
+    {
+      "name": "KRISHNA KUMAR",
+      "uid": "2210991814"
+    },
+    {
+      "name": "KRISHNA MEHTA",
+      "uid": "2210991815"
+    },
+    {
+      "name": "KUMAR SAURAV",
+      "uid": "2210991823"
+    },
+    {
+      "name": "LAVISHA",
+      "uid": "2210991852"
+    },
+    {
+      "name": "LOVE",
+      "uid": "2210991856"
+    },
+    {
+      "name": "MADHAV SOOD",
+      "uid": "2210991864"
+    },
+    {
+      "name": "MANISH YADAV",
+      "uid": "2210991883"
+    },
+    {
+      "name": "MANYA JAIN",
+      "uid": "2210991900"
+    },
+    {
+      "name": "MD SHAYANUR RAHMAN",
+      "uid": "2210991912"
+    },
+    {
+      "name": "MEHAK",
+      "uid": "2210991916"
+    },
+    {
+      "name": "MEHAK BUDHIRAJA",
+      "uid": "2210991917"
+    },
+    {
+      "name": "MEHAK SHARMA",
+      "uid": "2210991918"
+    },
+    {
+      "name": "MHD ALI",
+      "uid": "2210991923"
+    },
+    {
+      "name": "MRIGENDRA KUMAR",
+      "uid": "2210991941"
+    },
+    {
+      "name": "MUSKAN BANDTA",
+      "uid": "2210991947"
+    },
+    {
+      "name": "MUSKAN SHARMA",
+      "uid": "2210991948"
+    },
+    {
+      "name": "NANDINI SHARMA",
+      "uid": "2210991959"
+    },
+    {
+      "name": "NAVDEEP KAUR",
+      "uid": "2210991962"
+    },
+    {
+      "name": "NIKHIL KANWAL",
+      "uid": "2210991979"
+    },
+    {
+      "name": "NISHTHA",
+      "uid": "2210991993"
+    },
+    {
+      "name": "NISHTHA NANDA",
+      "uid": "2210991994"
+    },
+    {
+      "name": "PALAK",
+      "uid": "2210992013"
+    },
+    {
+      "name": "PANKAJ THAKUR",
+      "uid": "2210992017"
+    },
+    {
+      "name": "PARAS SANSERWAL",
+      "uid": "2210992021"
+    },
+    {
+      "name": "PARAS VASHIST",
+      "uid": "2210992022"
+    },
+    {
+      "name": "PARTH GARG",
+      "uid": "2210992027"
+    },
+    {
+      "name": "PIYUSH",
+      "uid": "2210992039"
+    },
+    {
+      "name": "PIYUSH PANDEY",
+      "uid": "2210992046"
+    },
+    {
+      "name": "PORUSH YADAV",
+      "uid": "2210992047"
+    },
+    {
+      "name": "PRABHAT RANJAN KHAN",
+      "uid": "2210992049"
+    },
+    {
+      "name": "PRACHI",
+      "uid": "2210992052"
+    },
+    {
+      "name": "PRANSHU",
+      "uid": "2210992065"
+    },
+    {
+      "name": "PRIYANSHI",
+      "uid": "2210992101"
+    },
+    {
+      "name": "PUSHPENDER THAKUR",
+      "uid": "2210992109"
+    },
+    {
+      "name": "RAGHAV",
+      "uid": "2210992114"
+    },
+    {
+      "name": "RAGHAV VERMA",
+      "uid": "2210992124"
+    },
+    {
+      "name": "RAGHWENDRA PRATAP SINGH",
+      "uid": "2210992125"
+    },
+    {
+      "name": "RAKSHIT SHARMA",
+      "uid": "2210992135"
+    },
+    {
+      "name": "RISHABH MEHRA",
+      "uid": "2210992154"
+    },
+    {
+      "name": "RISHAV NATH KAURA",
+      "uid": "2210992160"
+    },
+    {
+      "name": "SANYA BANSAL",
+      "uid": "2210992256"
+    }
+  ],
+  "G03": [
+    {
+      "name": "AADIT BAGGA",
+      "uid": "2210990001"
+    },
+    {
+      "name": "AADIT WADHWA",
+      "uid": "2210990002"
+    },
+    {
+      "name": "AADITI",
+      "uid": "2210990003"
+    },
+    {
+      "name": "AAKANKSHA SHARMA",
+      "uid": "2210990006"
+    },
+    {
+      "name": "AAKASH GOSAIN",
+      "uid": "2210990007"
+    },
+    {
+      "name": "AAKASH JAIN",
+      "uid": "2210990008"
+    },
+    {
+      "name": "AARAV SHARMA",
+      "uid": "2210990009"
+    },
+    {
+      "name": "AARUSH DHAWAN",
+      "uid": "2210990011"
+    },
+    {
+      "name": "AARYA RISHI",
+      "uid": "2210990012"
+    },
+    {
+      "name": "AARYAN BAHL",
+      "uid": "2210990013"
+    },
+    {
+      "name": "AASTHA BHATIA",
+      "uid": "2210990020"
+    },
+    {
+      "name": "AAYUSH MEHTA",
+      "uid": "2210990022"
+    },
+    {
+      "name": "ABHAVYA",
+      "uid": "2210990024"
+    },
+    {
+      "name": "ABHAVYA GUPTA",
+      "uid": "2210990025"
+    },
+    {
+      "name": "ABHAY CHAUHAN",
+      "uid": "2210990027"
+    },
+    {
+      "name": "ABHAY SINGH",
+      "uid": "2210990029"
+    },
+    {
+      "name": "ABHAYJEET SINGH",
+      "uid": "2210990031"
+    },
+    {
+      "name": "ABHISHEK TAYAL",
+      "uid": "2210990052"
+    },
+    {
+      "name": "AKSHAY SACHDEVA",
+      "uid": "2210990089"
+    },
+    {
+      "name": "SARGAM NARANG",
+      "uid": "2210992259"
+    },
+    {
+      "name": "SHALESH THAKUR",
+      "uid": "2210992283"
+    },
+    {
+      "name": "SHALINI KUMARI",
+      "uid": "2210992284"
+    },
+    {
+      "name": "SHASHWAT RANA",
+      "uid": "2210992291"
+    },
+    {
+      "name": "SHIVAM KUMAR",
+      "uid": "2210992312"
+    },
+    {
+      "name": "SHIVAM PARMAR",
+      "uid": "2210992315"
+    },
+    {
+      "name": "SHIVANSH JAISWAL",
+      "uid": "2210992323"
+    },
+    {
+      "name": "SHIVANSH PANDEY",
+      "uid": "2210992326"
+    },
+    {
+      "name": "SHIVANSHU SAINI",
+      "uid": "2210992331"
+    },
+    {
+      "name": "SHRI RAM KUMAR",
+      "uid": "2210992349"
+    },
+    {
+      "name": "SHUBHAM",
+      "uid": "2210992359"
+    },
+    {
+      "name": "SHUBHAM SHARMA",
+      "uid": "2210992368"
+    },
+    {
+      "name": "SHUBHAM SHARMA",
+      "uid": "2210992369"
+    },
+    {
+      "name": "SIDHARTH THAKUR",
+      "uid": "2210992380"
+    },
+    {
+      "name": "SIMRAN JASWAL",
+      "uid": "2210992383"
+    },
+    {
+      "name": "SONU KUMAR",
+      "uid": "2210992399"
+    },
+    {
+      "name": "SRISHTI GARG",
+      "uid": "2210992406"
+    },
+    {
+      "name": "STUTI SHARMA",
+      "uid": "2210992409"
+    },
+    {
+      "name": "SUMIT LOHANI",
+      "uid": "2210992419"
+    },
+    {
+      "name": "SUNNY KUMAR",
+      "uid": "2210992421"
+    },
+    {
+      "name": "SUSEN NARAYAN",
+      "uid": "2210992428"
+    },
+    {
+      "name": "TANISHQ CHOUDHARY",
+      "uid": "2210992445"
+    },
+    {
+      "name": "TARANPREET SINGH",
+      "uid": "2210992454"
+    },
+    {
+      "name": "TEJASVI JHAMTA",
+      "uid": "2210992464"
+    },
+    {
+      "name": "UDAY THAKUR",
+      "uid": "2210992474"
+    },
+    {
+      "name": "UDHAV VINAIK",
+      "uid": "2210992476"
+    },
+    {
+      "name": "UJWAL SHARMA",
+      "uid": "2210992481"
+    },
+    {
+      "name": "VARUN JINDAL",
+      "uid": "2210992516"
+    },
+    {
+      "name": "VASU",
+      "uid": "2210992517"
+    },
+    {
+      "name": "VINAY",
+      "uid": "2210992527"
+    },
+    {
+      "name": "VISHAL KUMAR",
+      "uid": "2210992536"
+    },
+    {
+      "name": "VISHESH KUMAR",
+      "uid": "2210992539"
+    },
+    {
+      "name": "VIVEK",
+      "uid": "2210992546"
+    },
+    {
+      "name": "YASHAN BHARDWAJ",
+      "uid": "2210992561"
+    }
+  ],
+  "G04": [
+    {
+      "name": "ABHINANDAN JAIN",
+      "uid": "2210990035"
+    },
+    {
+      "name": "ABHINAV BHAR",
+      "uid": "2210990036"
+    },
+    {
+      "name": "ABHINAV MAHAJAN",
+      "uid": "2210990037"
+    },
+    {
+      "name": "ABHINAV SAINI",
+      "uid": "2210990039"
+    },
+    {
+      "name": "ABHINAV SAVARNI",
+      "uid": "2210990040"
+    },
+    {
+      "name": "ABHISHEK",
+      "uid": "2210990042"
+    },
+    {
+      "name": "ABHISHEK",
+      "uid": "2210990043"
+    },
+    {
+      "name": "ABHISHEK DHAWAN",
+      "uid": "2210990045"
+    },
+    {
+      "name": "ABHISHEK DHIMAN",
+      "uid": "2210990046"
+    },
+    {
+      "name": "ABHISHEK GARG",
+      "uid": "2210990047"
+    },
+    {
+      "name": "ABHISHEK RAJ",
+      "uid": "2210990051"
+    },
+    {
+      "name": "ADITI GOEL",
+      "uid": "2210990053"
+    },
+    {
+      "name": "ADITI GUPTA",
+      "uid": "2210990054"
+    },
+    {
+      "name": "ADITYA",
+      "uid": "2210990055"
+    },
+    {
+      "name": "ADITYA BHARDWAJ",
+      "uid": "2210990060"
+    },
+    {
+      "name": "ADITYA BISHT",
+      "uid": "2210990061"
+    },
+    {
+      "name": "ADITYA CHAWLA",
+      "uid": "2210990062"
+    },
+    {
+      "name": "ADITYA CHHABRA",
+      "uid": "2210990063"
+    },
+    {
+      "name": "ADITYA JHA",
+      "uid": "2210990065"
+    },
+    {
+      "name": "ADITYA KUMAR",
+      "uid": "2210990067"
+    },
+    {
+      "name": "ADITYA MEHTA",
+      "uid": "2210990068"
+    },
+    {
+      "name": "ADITYA MITTAL",
+      "uid": "2210990069"
+    },
+    {
+      "name": "ADITYA SACHDEVA",
+      "uid": "2210990070"
+    },
+    {
+      "name": "ADITYA SHANKER",
+      "uid": "2210990071"
+    },
+    {
+      "name": "ADITYA SHARMA",
+      "uid": "2210990072"
+    },
+    {
+      "name": "ADITYA SINGH",
+      "uid": "2210990073"
+    },
+    {
+      "name": "ADITYA VASHISHT",
+      "uid": "2210990074"
+    },
+    {
+      "name": "ADVITYA HANS",
+      "uid": "2210990076"
+    },
+    {
+      "name": "AGAM GARG",
+      "uid": "2210990077"
+    },
+    {
+      "name": "AKASH",
+      "uid": "2210990081"
+    },
+    {
+      "name": "AKASHDEEP PAL",
+      "uid": "2210990082"
+    },
+    {
+      "name": "AKASHDEEP SINGH",
+      "uid": "2210990083"
+    },
+    {
+      "name": "AKHILESH KALRA",
+      "uid": "2210990084"
+    },
+    {
+      "name": "AKHILESH YADAV",
+      "uid": "2210990085"
+    },
+    {
+      "name": "AKSHIT SHARMA",
+      "uid": "2210990094"
+    },
+    {
+      "name": "AKUL CHOPRA",
+      "uid": "2210990096"
+    },
+    {
+      "name": "AMANDEEP SINGH",
+      "uid": "2210990099"
+    },
+    {
+      "name": "AMOGH HANDA",
+      "uid": "2210990104"
+    },
+    {
+      "name": "ANAND KAUSHIK",
+      "uid": "2210990107"
+    },
+    {
+      "name": "ANANT SINGH",
+      "uid": "2210990108"
+    },
+    {
+      "name": "ANANYA SHARMA",
+      "uid": "2210990111"
+    },
+    {
+      "name": "ANIKA KAUSHISH",
+      "uid": "2210990113"
+    },
+    {
+      "name": "ANIKET",
+      "uid": "2210990114"
+    },
+    {
+      "name": "ANISH SINGAL",
+      "uid": "2210990116"
+    },
+    {
+      "name": "ANKIT GOEL",
+      "uid": "2210990117"
+    },
+    {
+      "name": "ANMOL KAUSHIK",
+      "uid": "2210990121"
+    },
+    {
+      "name": "ANMOL KUMAR",
+      "uid": "2210990122"
+    },
+    {
+      "name": "ANMOL PANDHI",
+      "uid": "2210990123"
+    },
+    {
+      "name": "ANMOL SHARMA",
+      "uid": "2210990125"
+    },
+    {
+      "name": "ADITYA JAISWAL",
+      "uid": "2210990990"
+    },
+    {
+      "name": "SARTHAK MIDHA",
+      "uid": "2210992263"
+    },
+    {
+      "name": "TANISHA CHOPRA",
+      "uid": "2210992441"
+    },
+    {
+      "name": "VISHWAMANY",
+      "uid": "2210992543"
+    }
+  ],
+  "G05": [
+    {
+      "name": "AKSHITA SHARDA",
+      "uid": "2210990095"
+    },
+    {
+      "name": "ANMOL SHARMA",
+      "uid": "2210990126"
+    },
+    {
+      "name": "ANMOL SHARMA",
+      "uid": "2210990127"
+    },
+    {
+      "name": "ANMOL SINGLA",
+      "uid": "2210990129"
+    },
+    {
+      "name": "ANNANYA",
+      "uid": "2210990130"
+    },
+    {
+      "name": "ANSH BANSAL",
+      "uid": "2210990131"
+    },
+    {
+      "name": "ANSH CHAUHAN",
+      "uid": "2210990132"
+    },
+    {
+      "name": "ANSH GUPTA",
+      "uid": "2210990135"
+    },
+    {
+      "name": "ANSH OBEROI",
+      "uid": "2210990138"
+    },
+    {
+      "name": "ANSH PURI",
+      "uid": "2210990139"
+    },
+    {
+      "name": "ANSH SHARMA",
+      "uid": "2210990140"
+    },
+    {
+      "name": "ANSHUL ARORA",
+      "uid": "2210990141"
+    },
+    {
+      "name": "ANUBHAV BANSAL",
+      "uid": "2210990144"
+    },
+    {
+      "name": "ANUJ KUMAR SINGH",
+      "uid": "2210990145"
+    },
+    {
+      "name": "ANUSHKA GUPTA",
+      "uid": "2210990146"
+    },
+    {
+      "name": "APOORVA",
+      "uid": "2210990147"
+    },
+    {
+      "name": "APRAM JOT SINGH SAINI",
+      "uid": "2210990148"
+    },
+    {
+      "name": "ARAYANA SINGH",
+      "uid": "2210990149"
+    },
+    {
+      "name": "ARCHI GANDHI",
+      "uid": "2210990150"
+    },
+    {
+      "name": "ARGHADEEP NATH",
+      "uid": "2210990152"
+    },
+    {
+      "name": "ARIN LAMA",
+      "uid": "2210990153"
+    },
+    {
+      "name": "ARJUN",
+      "uid": "2210990154"
+    },
+    {
+      "name": "ARJUN KHUSHU",
+      "uid": "2210990155"
+    },
+    {
+      "name": "ARJUN SEN",
+      "uid": "2210990156"
+    },
+    {
+      "name": "ARJUN SINGH SAINI",
+      "uid": "2210990157"
+    },
+    {
+      "name": "ARMAAN SHARMA",
+      "uid": "2210990158"
+    },
+    {
+      "name": "ARMAAN SINGH",
+      "uid": "2210990159"
+    },
+    {
+      "name": "ARMAAN SOOD",
+      "uid": "2210990160"
+    },
+    {
+      "name": "ARNAV NAITHANI",
+      "uid": "2210990162"
+    },
+    {
+      "name": "ARNAV NEGI",
+      "uid": "2210990163"
+    },
+    {
+      "name": "ARPIT GARG",
+      "uid": "2210990164"
+    },
+    {
+      "name": "ARPIT MANCHANDA",
+      "uid": "2210990165"
+    },
+    {
+      "name": "RAJIV KUWAR PAL",
+      "uid": "2210990708"
+    },
+    {
+      "name": "RAJKIRAT SINGH",
+      "uid": "2210990709"
+    },
+    {
+      "name": "RAJVEER SINGH",
+      "uid": "2210990711"
+    },
+    {
+      "name": "RAKSHIT",
+      "uid": "2210990712"
+    },
+    {
+      "name": "RAMANDEEP SINGH",
+      "uid": "2210990714"
+    },
+    {
+      "name": "RANINDER SINGH",
+      "uid": "2210990715"
+    },
+    {
+      "name": "RANJAN PALYAL",
+      "uid": "2210990716"
+    },
+    {
+      "name": "RANVEER SINGH",
+      "uid": "2210990717"
+    },
+    {
+      "name": "RAVINDER SINGH",
+      "uid": "2210990719"
+    },
+    {
+      "name": "RAVNEET KAUR",
+      "uid": "2210990720"
+    },
+    {
+      "name": "RHYTHM",
+      "uid": "2210990721"
+    },
+    {
+      "name": "RHYTHM TREHAN",
+      "uid": "2210990722"
+    },
+    {
+      "name": "RIDUM SHARMA",
+      "uid": "2210990723"
+    },
+    {
+      "name": "RISHAB PAHWA",
+      "uid": "2210990724"
+    },
+    {
+      "name": "RISHABH JAIN",
+      "uid": "2210990725"
+    },
+    {
+      "name": "RISHI CHAUDHARY",
+      "uid": "2210990726"
+    },
+    {
+      "name": "RISHIT CHADHA",
+      "uid": "2210990728"
+    },
+    {
+      "name": "RITESH BHAWANI",
+      "uid": "2210990729"
+    },
+    {
+      "name": "RITIK SHARMA",
+      "uid": "2210990730"
+    },
+    {
+      "name": "RITIKA",
+      "uid": "2210990731"
+    },
+    {
+      "name": "RITTIKA TYAGI",
+      "uid": "2210990732"
+    },
+    {
+      "name": "RITVIK SACHDEVA",
+      "uid": "2210990733"
+    },
+    {
+      "name": "RIYA KUNDRA",
+      "uid": "2210990735"
+    },
+    {
+      "name": "RIYA SHARMA",
+      "uid": "2210990736"
+    },
+    {
+      "name": "ROHAN KUMAR",
+      "uid": "2210990739"
+    },
+    {
+      "name": "ROHAN KUMAR",
+      "uid": "2210990740"
+    },
+    {
+      "name": "ROHAN LAKHANPAL",
+      "uid": "2210990741"
+    },
+    {
+      "name": "ROHIT KUMAR",
+      "uid": "2210990742"
+    },
+    {
+      "name": "ROOHANI SETHI",
+      "uid": "2210990744"
+    },
+    {
+      "name": "AYUSH SINGH",
+      "uid": "2210990992"
+    }
+  ],
+  "G06": [
+    {
+      "name": "ARSHAAN SINGH BABRAH",
+      "uid": "2210990168"
+    },
+    {
+      "name": "ARSHDEEP KAUR",
+      "uid": "2210990169"
+    },
+    {
+      "name": "ARSHDEEP SINGH",
+      "uid": "2210990171"
+    },
+    {
+      "name": "ARSHIA SAPRA",
+      "uid": "2210990172"
+    },
+    {
+      "name": "ARYAN KAMBOJ",
+      "uid": "2210990178"
+    },
+    {
+      "name": "ARYAN SHARMA",
+      "uid": "2210990181"
+    },
+    {
+      "name": "ASHISH KARAKOTI",
+      "uid": "2210990186"
+    },
+    {
+      "name": "ASHISH RANA",
+      "uid": "2210990187"
+    },
+    {
+      "name": "ASHMIT SINGH",
+      "uid": "2210990189"
+    },
+    {
+      "name": "ASHMITA",
+      "uid": "2210990190"
+    },
+    {
+      "name": "ASHUTOSH SINGH",
+      "uid": "2210990192"
+    },
+    {
+      "name": "ASMITA DEY",
+      "uid": "2210990193"
+    },
+    {
+      "name": "ASMITA KONDAL",
+      "uid": "2210990194"
+    },
+    {
+      "name": "ATIN BHARDWAJ",
+      "uid": "2210990195"
+    },
+    {
+      "name": "AVIKAM BIR",
+      "uid": "2210990198"
+    },
+    {
+      "name": "AVIREET KAUR",
+      "uid": "2210990202"
+    },
+    {
+      "name": "AVLEEN KAUR",
+      "uid": "2210990203"
+    },
+    {
+      "name": "AYUSH THAKUR",
+      "uid": "2210990205"
+    },
+    {
+      "name": "AYUSHI",
+      "uid": "2210990206"
+    },
+    {
+      "name": "BAHAAR SHARMA",
+      "uid": "2210990209"
+    },
+    {
+      "name": "BHARAT",
+      "uid": "2210990212"
+    },
+    {
+      "name": "BHARAT JAKHAR",
+      "uid": "2210990213"
+    },
+    {
+      "name": "BHARGAV SINGLA",
+      "uid": "2210990214"
+    },
+    {
+      "name": "BHAUMIK LUTHRA",
+      "uid": "2210990215"
+    },
+    {
+      "name": "BHAVIKA ARORA",
+      "uid": "2210990220"
+    },
+    {
+      "name": "BHAVIKA CHOPRA",
+      "uid": "2210990221"
+    },
+    {
+      "name": "BHAVLEEN SINGH",
+      "uid": "2210990222"
+    },
+    {
+      "name": "BHAWNA",
+      "uid": "2210990223"
+    },
+    {
+      "name": "BHOMYA SHARMA",
+      "uid": "2210990224"
+    },
+    {
+      "name": "BHUMI AHLAWAT",
+      "uid": "2210990225"
+    },
+    {
+      "name": "BIRINDER SINGH",
+      "uid": "2210990229"
+    },
+    {
+      "name": "BISMAN SINGH DHILLON",
+      "uid": "2210990230"
+    },
+    {
+      "name": "CHAHAT",
+      "uid": "2210990231"
+    },
+    {
+      "name": "CHANDRESH KUMAR PANDEY",
+      "uid": "2210990234"
+    },
+    {
+      "name": "CHARVI BANSAL",
+      "uid": "2210990236"
+    },
+    {
+      "name": "CHIRAG BHATIA",
+      "uid": "2210990238"
+    },
+    {
+      "name": "CHIRAG SHARMA",
+      "uid": "2210990241"
+    },
+    {
+      "name": "DAKSH JOSHI",
+      "uid": "2210990244"
+    },
+    {
+      "name": "DAKSH RANA",
+      "uid": "2210990246"
+    },
+    {
+      "name": "DAPINDER SINGH",
+      "uid": "2210990248"
+    },
+    {
+      "name": "DEEPAK",
+      "uid": "2210990249"
+    },
+    {
+      "name": "DEEPAK KUMAR",
+      "uid": "2210990250"
+    },
+    {
+      "name": "DEEPANSH",
+      "uid": "2210990251"
+    },
+    {
+      "name": "DEEPANSHU AGGARWAL",
+      "uid": "2210990254"
+    },
+    {
+      "name": "DEEPANSHU JINDAL",
+      "uid": "2210990255"
+    },
+    {
+      "name": "DEVANSH AGGARWAL",
+      "uid": "2210990258"
+    },
+    {
+      "name": "DEVANSH BHAGANIA",
+      "uid": "2210990259"
+    },
+    {
+      "name": "DEVANSH SHANDILYA",
+      "uid": "2210990261"
+    },
+    {
+      "name": "DEVASHISH SINGH THAPA",
+      "uid": "2210990264"
+    },
+    {
+      "name": "DEVESH SHARMA",
+      "uid": "2210990265"
+    },
+    {
+      "name": "DHRUV AGGARWAL",
+      "uid": "2210990270"
+    },
+    {
+      "name": "DHRUV BANSAL",
+      "uid": "2210990271"
+    },
+    {
+      "name": "DHRUV GROVER",
+      "uid": "2210990274"
+    },
+    {
+      "name": "DHRUV KUNDRAI",
+      "uid": "2210990276"
+    },
+    {
+      "name": "DHRUV SHUKLA",
+      "uid": "2210990278"
+    },
+    {
+      "name": "DHRUV WALIA",
+      "uid": "2210990280"
+    },
+    {
+      "name": "DIKSHA",
+      "uid": "2210990282"
+    },
+    {
+      "name": "DIKSHIT SINGLA",
+      "uid": "2210990284"
+    },
+    {
+      "name": "DILJOT KAUR",
+      "uid": "2210990285"
+    },
+    {
+      "name": "DIPANSHU SAINI",
+      "uid": "2210990288"
+    },
+    {
+      "name": "ARYAN NADAAN",
+      "uid": "2210990991"
+    },
+    {
+      "name": "Harkirat Singh Saluja",
+      "uid": "2210990993"
+    }
+  ],
+  "G08": [
+    {
+      "name": "ANSHUMAN SINGH",
+      "uid": "2210990143"
+    },
+    {
+      "name": "DIVANSHU GARG",
+      "uid": "2210990289"
+    },
+    {
+      "name": "DIVANSHU KAUSHIK",
+      "uid": "2210990290"
+    },
+    {
+      "name": "DIVESH GUPTA",
+      "uid": "2210990291"
+    },
+    {
+      "name": "DIVIJ SURI",
+      "uid": "2210990292"
+    },
+    {
+      "name": "DIVYA BHORIA",
+      "uid": "2210990293"
+    },
+    {
+      "name": "DIVYAM PURI",
+      "uid": "2210990294"
+    },
+    {
+      "name": "DIVYAN RAI",
+      "uid": "2210990295"
+    },
+    {
+      "name": "DIVYANSH",
+      "uid": "2210990298"
+    },
+    {
+      "name": "DIYA GUPTA",
+      "uid": "2210990303"
+    },
+    {
+      "name": "DIYA RAINA",
+      "uid": "2210990304"
+    },
+    {
+      "name": "GRACY GULATI",
+      "uid": "2210990331"
+    },
+    {
+      "name": "GUNJAN",
+      "uid": "2210990332"
+    },
+    {
+      "name": "GUNN ARORA",
+      "uid": "2210990333"
+    },
+    {
+      "name": "GUNTAS SINGH",
+      "uid": "2210990334"
+    },
+    {
+      "name": "GURANSH SINGH",
+      "uid": "2210990335"
+    },
+    {
+      "name": "GURDEEP SINGH",
+      "uid": "2210990336"
+    },
+    {
+      "name": "GURMANPREET KAUR",
+      "uid": "2210990341"
+    },
+    {
+      "name": "GURNIMRAT SINGH",
+      "uid": "2210990343"
+    },
+    {
+      "name": "MUKUND",
+      "uid": "2210990587"
+    },
+    {
+      "name": "MUSKAN",
+      "uid": "2210990588"
+    },
+    {
+      "name": "OJASVA RAGHAV",
+      "uid": "2210990628"
+    },
+    {
+      "name": "P N GOKUL",
+      "uid": "2210990629"
+    },
+    {
+      "name": "PALAK BISHT",
+      "uid": "2210990631"
+    },
+    {
+      "name": "PALKIT DHIMAN",
+      "uid": "2210990633"
+    },
+    {
+      "name": "PARAG PRATIM PAN",
+      "uid": "2210990635"
+    },
+    {
+      "name": "PARAMVEER KANSAL",
+      "uid": "2210990636"
+    },
+    {
+      "name": "PARAS KAPOOR",
+      "uid": "2210990637"
+    },
+    {
+      "name": "PAREEN KHIRBAT",
+      "uid": "2210990639"
+    },
+    {
+      "name": "PARI GUPTA",
+      "uid": "2210990640"
+    },
+    {
+      "name": "PARTH GERA",
+      "uid": "2210990643"
+    },
+    {
+      "name": "PARUL ARORA",
+      "uid": "2210990645"
+    },
+    {
+      "name": "PHALYA JHAMB",
+      "uid": "2210990649"
+    },
+    {
+      "name": "PIYUSH KAPOOR",
+      "uid": "2210990651"
+    },
+    {
+      "name": "PIYUSH SACHER",
+      "uid": "2210990653"
+    },
+    {
+      "name": "POORVA",
+      "uid": "2210990656"
+    },
+    {
+      "name": "PRABAL RAI",
+      "uid": "2210990657"
+    },
+    {
+      "name": "PRABHJOT SINGH",
+      "uid": "2210990658"
+    },
+    {
+      "name": "PRACHI MALIK",
+      "uid": "2210990661"
+    },
+    {
+      "name": "PRACHI SINGLA",
+      "uid": "2210990662"
+    },
+    {
+      "name": "PRANAV BANSAL",
+      "uid": "2210990665"
+    },
+    {
+      "name": "PRANSH MAURYA",
+      "uid": "2210990668"
+    },
+    {
+      "name": "PRATHAM KHANNA",
+      "uid": "2210990673"
+    },
+    {
+      "name": "PRATHAM TANDON",
+      "uid": "2210990676"
+    },
+    {
+      "name": "PRATHAMVIR SINGH LUTHRA",
+      "uid": "2210990677"
+    },
+    {
+      "name": "PRATISTHA NEGI",
+      "uid": "2210990678"
+    },
+    {
+      "name": "PRATYUKT NAG",
+      "uid": "2210990679"
+    },
+    {
+      "name": "PRERNA DUA",
+      "uid": "2210990680"
+    },
+    {
+      "name": "PRIANSHU KUMAR",
+      "uid": "2210990681"
+    },
+    {
+      "name": "PRISHA AGGARWAL",
+      "uid": "2210990682"
+    },
+    {
+      "name": "PRIYANSH ARORA",
+      "uid": "2210990684"
+    },
+    {
+      "name": "PRIYANSHU",
+      "uid": "2210990685"
+    },
+    {
+      "name": "PRIYANSHU BINDAL",
+      "uid": "2210990686"
+    },
+    {
+      "name": "PRIYANSHU GUPTA",
+      "uid": "2210990687"
+    },
+    {
+      "name": "PRIYANSHU SAINI",
+      "uid": "2210990688"
+    },
+    {
+      "name": "PUNAL",
+      "uid": "2210990690"
+    },
+    {
+      "name": "PUNEET CHAUHAN",
+      "uid": "2210990691"
+    },
+    {
+      "name": "PUSHPINDER SINGH",
+      "uid": "2210990693"
+    },
+    {
+      "name": "RACHIT MUNJAL",
+      "uid": "2210990694"
+    },
+    {
+      "name": "RACHIT WALIA",
+      "uid": "2210990695"
+    },
+    {
+      "name": "RAGHAV BALUNI",
+      "uid": "2210990696"
+    },
+    {
+      "name": "RAGHAV DUA",
+      "uid": "2210990697"
+    },
+    {
+      "name": "RAGHAV KAKKAR",
+      "uid": "2210990698"
+    },
+    {
+      "name": "RAGHAV KAUSHAL",
+      "uid": "2210990699"
+    },
+    {
+      "name": "RAGHAV NAGI",
+      "uid": "2210990700"
+    },
+    {
+      "name": "RAGHAV THAKUR",
+      "uid": "2210990701"
+    },
+    {
+      "name": "RAHUL",
+      "uid": "2210990702"
+    },
+    {
+      "name": "RAHUL SINGH",
+      "uid": "2210990704"
+    },
+    {
+      "name": "RAJAT SAINI",
+      "uid": "2210990706"
+    },
+    {
+      "name": "RAJAT SHARMA",
+      "uid": "2210990707"
+    },
+    {
+      "name": "PALAK SINGLA",
+      "uid": "2210990994"
+    },
+    {
+      "name": "PRANAV MANGAL",
+      "uid": "2210990995"
+    }
+  ],
+  "G09": [
+    {
+      "name": "AKSHIT GARG",
+      "uid": "2210990091"
+    },
+    {
+      "name": "AKSHIT NANDA",
+      "uid": "2210990093"
+    },
+    {
+      "name": "ESHAAN GARG",
+      "uid": "2210990308"
+    },
+    {
+      "name": "GAGANDEEP",
+      "uid": "2210990312"
+    },
+    {
+      "name": "GARIMA",
+      "uid": "2210990313"
+    },
+    {
+      "name": "GARIMA",
+      "uid": "2210990314"
+    },
+    {
+      "name": "GARV SAINI",
+      "uid": "2210990315"
+    },
+    {
+      "name": "GARVIT SETIA",
+      "uid": "2210990316"
+    },
+    {
+      "name": "GAURAV",
+      "uid": "2210990317"
+    },
+    {
+      "name": "GAURAV",
+      "uid": "2210990318"
+    },
+    {
+      "name": "GAURAV KUMAIN",
+      "uid": "2210990319"
+    },
+    {
+      "name": "GURNOOR DHALIWAL",
+      "uid": "2210990344"
+    },
+    {
+      "name": "GURNOOR KAUR",
+      "uid": "2210990345"
+    },
+    {
+      "name": "GURPREET SINGH",
+      "uid": "2210990347"
+    },
+    {
+      "name": "GURSAHAJ SINGH",
+      "uid": "2210990349"
+    },
+    {
+      "name": "GURSIMRAN SINGH",
+      "uid": "2210990351"
+    },
+    {
+      "name": "HARDIK GARG",
+      "uid": "2210990355"
+    },
+    {
+      "name": "HARDIK RANA",
+      "uid": "2210990356"
+    },
+    {
+      "name": "HARJOT KAUR",
+      "uid": "2210990362"
+    },
+    {
+      "name": "HARJOT SINGH",
+      "uid": "2210990363"
+    },
+    {
+      "name": "HARLEEN KAUR",
+      "uid": "2210990366"
+    },
+    {
+      "name": "HARMAN PRIAY SETIA",
+      "uid": "2210990367"
+    },
+    {
+      "name": "HARMANAVJEET SINGH",
+      "uid": "2210990369"
+    },
+    {
+      "name": "HARMANJEET SINGH",
+      "uid": "2210990371"
+    },
+    {
+      "name": "HARMEET SINGH",
+      "uid": "2210990373"
+    },
+    {
+      "name": "HARSH BANSAL",
+      "uid": "2210990376"
+    },
+    {
+      "name": "HARSH CHAUHAN",
+      "uid": "2210990377"
+    },
+    {
+      "name": "HARSH DHIMAN",
+      "uid": "2210990378"
+    },
+    {
+      "name": "HARSH GULERI",
+      "uid": "2210990379"
+    },
+    {
+      "name": "HARSH OBEROI",
+      "uid": "2210990381"
+    },
+    {
+      "name": "HARSH WADHWA",
+      "uid": "2210990382"
+    },
+    {
+      "name": "HARSHDEEP SINGH",
+      "uid": "2210990384"
+    },
+    {
+      "name": "HARSHIT MANI TRIPATHI",
+      "uid": "2210990389"
+    },
+    {
+      "name": "HARSHIT RAWAT",
+      "uid": "2210990390"
+    },
+    {
+      "name": "HARSHITA BANSAL",
+      "uid": "2210990392"
+    },
+    {
+      "name": "HARSIMRAT SINGH",
+      "uid": "2210990395"
+    },
+    {
+      "name": "HEENA",
+      "uid": "2210990397"
+    },
+    {
+      "name": "HEMANG RATHORE",
+      "uid": "2210990399"
+    },
+    {
+      "name": "HIMANSHU",
+      "uid": "2210990405"
+    },
+    {
+      "name": "HIMANSHU SINGH",
+      "uid": "2210990409"
+    },
+    {
+      "name": "HIMESH SAINI",
+      "uid": "2210990410"
+    },
+    {
+      "name": "HINDVEER SINGH",
+      "uid": "2210990411"
+    },
+    {
+      "name": "HIRDESH MITTAL",
+      "uid": "2210990412"
+    },
+    {
+      "name": "HITESH BATRA",
+      "uid": "2210990413"
+    },
+    {
+      "name": "ILLU SAINI",
+      "uid": "2210990418"
+    },
+    {
+      "name": "ISHAN SANDHU",
+      "uid": "2210990419"
+    },
+    {
+      "name": "ISHAN SHARMA",
+      "uid": "2210990420"
+    },
+    {
+      "name": "ISHIKA",
+      "uid": "2210990421"
+    },
+    {
+      "name": "ISHPREET SINGH",
+      "uid": "2210990425"
+    },
+    {
+      "name": "KIRTI SHARMA",
+      "uid": "2210990516"
+    },
+    {
+      "name": "KOUSTUBH KUKRETI",
+      "uid": "2210990517"
+    },
+    {
+      "name": "KRISHAN KANT",
+      "uid": "2210990519"
+    },
+    {
+      "name": "KRISHNA SHARMA",
+      "uid": "2210990520"
+    },
+    {
+      "name": "KRITHIK SAINI",
+      "uid": "2210990522"
+    }
+  ],
+  "G10": [
+    {
+      "name": "GAUTAM MISHRA",
+      "uid": "2210990320"
+    },
+    {
+      "name": "GEETIKA MEHTA",
+      "uid": "2210990325"
+    },
+    {
+      "name": "GOURAV RANA",
+      "uid": "2210990330"
+    },
+    {
+      "name": "JASHAN PREET SINGH",
+      "uid": "2210990439"
+    },
+    {
+      "name": "JASHANJIT KAUR",
+      "uid": "2210990440"
+    },
+    {
+      "name": "JASHANJOT SINGH MEHTA",
+      "uid": "2210990441"
+    },
+    {
+      "name": "JASKIRAT SINGH",
+      "uid": "2210990444"
+    },
+    {
+      "name": "JASLEEN KAUR",
+      "uid": "2210990447"
+    },
+    {
+      "name": "JASMEET SINGH",
+      "uid": "2210990449"
+    },
+    {
+      "name": "JASMINE RATHOR",
+      "uid": "2210990450"
+    },
+    {
+      "name": "JASNEET ARORA",
+      "uid": "2210990451"
+    },
+    {
+      "name": "JASNEET SINGH",
+      "uid": "2210990452"
+    },
+    {
+      "name": "JATIN",
+      "uid": "2210990456"
+    },
+    {
+      "name": "JATIN JAGLAN",
+      "uid": "2210990458"
+    },
+    {
+      "name": "JATIN KUMAR",
+      "uid": "2210990459"
+    },
+    {
+      "name": "JATIN SAINI",
+      "uid": "2210990460"
+    },
+    {
+      "name": "JAY ARINDAM MAITY",
+      "uid": "2210990461"
+    },
+    {
+      "name": "JIYA GABA",
+      "uid": "2210990464"
+    },
+    {
+      "name": "JUGAL KISHOR",
+      "uid": "2210990467"
+    },
+    {
+      "name": "KAMALJEET KAUR",
+      "uid": "2210990470"
+    },
+    {
+      "name": "JINNY KAPUR",
+      "uid": "2210990462"
+    },
+    {
+      "name": "KANISHK KHARBANDA",
+      "uid": "2210990472"
+    },
+    {
+      "name": "KAPIL MALHOTRA",
+      "uid": "2210990475"
+    },
+    {
+      "name": "KAPISH AGGARWAL",
+      "uid": "2210990476"
+    },
+    {
+      "name": "KARANPREET SINGH",
+      "uid": "2210990482"
+    },
+    {
+      "name": "KARISHMA DHAWAN",
+      "uid": "2210990483"
+    },
+    {
+      "name": "KARTAVYA TOMAR",
+      "uid": "2210990484"
+    },
+    {
+      "name": "KARTIK ARORA",
+      "uid": "2210990486"
+    },
+    {
+      "name": "KARTIK GROVER",
+      "uid": "2210990488"
+    },
+    {
+      "name": "KARTIK SHARMA",
+      "uid": "2210990489"
+    },
+    {
+      "name": "KARTIK VERMA",
+      "uid": "2210990490"
+    },
+    {
+      "name": "KARTIKAY BHATLA",
+      "uid": "2210990491"
+    },
+    {
+      "name": "KASHIKA",
+      "uid": "2210990493"
+    },
+    {
+      "name": "KASHISH MAHANA",
+      "uid": "2210990497"
+    },
+    {
+      "name": "KASHISH VERMA",
+      "uid": "2210990498"
+    },
+    {
+      "name": "KASHVI SHARMA",
+      "uid": "2210990499"
+    },
+    {
+      "name": "KAVYAM SACHDEVA",
+      "uid": "2210990501"
+    },
+    {
+      "name": "KESHAV",
+      "uid": "2210990502"
+    },
+    {
+      "name": "KESHAV GOEL",
+      "uid": "2210990504"
+    },
+    {
+      "name": "KRITICA",
+      "uid": "2210990523"
+    },
+    {
+      "name": "KSHITIJ GULATI",
+      "uid": "2210990525"
+    },
+    {
+      "name": "KSHITIJ RAJ SHUKLA",
+      "uid": "2210990526"
+    },
+    {
+      "name": "KUNAL GHAI",
+      "uid": "2210990527"
+    },
+    {
+      "name": "KUNSH BHANDARI",
+      "uid": "2210990529"
+    },
+    {
+      "name": "KUSH",
+      "uid": "2210990530"
+    },
+    {
+      "name": "KUSH",
+      "uid": "2210990531"
+    },
+    {
+      "name": "KUSHANK JAIN",
+      "uid": "2210990534"
+    },
+    {
+      "name": "LAKSHAY SURI",
+      "uid": "2210990537"
+    },
+    {
+      "name": "LALITESH BHAWANI",
+      "uid": "2210990539"
+    },
+    {
+      "name": "LAVIKA SINGLA",
+      "uid": "2210990540"
+    },
+    {
+      "name": "LOKESH VAID",
+      "uid": "2210990545"
+    },
+    {
+      "name": "ARUSHI CHAWLA",
+      "uid": "2210990999"
+    }
+  ],
+  "G11": [
+    {
+      "name": "KESHAV WADHWA",
+      "uid": "2210990506"
+    },
+    {
+      "name": "KHUSHDEEP SHARMA",
+      "uid": "2210990509"
+    },
+    {
+      "name": "KHUSHI BANSAL",
+      "uid": "2210990511"
+    },
+    {
+      "name": "KHUSHI GUPTA",
+      "uid": "2210990512"
+    },
+    {
+      "name": "MADHAV DHAWAN",
+      "uid": "2210990547"
+    },
+    {
+      "name": "MALIKA",
+      "uid": "2210990549"
+    },
+    {
+      "name": "MANAN JAIN",
+      "uid": "2210990551"
+    },
+    {
+      "name": "MANAN MAGU",
+      "uid": "2210990552"
+    },
+    {
+      "name": "MANAV SINGH",
+      "uid": "2210990553"
+    },
+    {
+      "name": "MANNAT",
+      "uid": "2210990557"
+    },
+    {
+      "name": "MANRAJ SINGH",
+      "uid": "2210990560"
+    },
+    {
+      "name": "MANYA",
+      "uid": "2210990561"
+    },
+    {
+      "name": "MAUSAM",
+      "uid": "2210990564"
+    },
+    {
+      "name": "MAYANK",
+      "uid": "2210990565"
+    },
+    {
+      "name": "MAYANK BISHT",
+      "uid": "2210990566"
+    },
+    {
+      "name": "MAYANK KUMAR",
+      "uid": "2210990568"
+    },
+    {
+      "name": "MAYANK TIWARI",
+      "uid": "2210990570"
+    },
+    {
+      "name": "MEHAK",
+      "uid": "2210990571"
+    },
+    {
+      "name": "MEHAK GARG",
+      "uid": "2210990572"
+    },
+    {
+      "name": "MEHAK GOEL",
+      "uid": "2210990573"
+    },
+    {
+      "name": "MEHAK KHARBANDA",
+      "uid": "2210990574"
+    },
+    {
+      "name": "MEHAK SHARMA",
+      "uid": "2210990575"
+    },
+    {
+      "name": "MIKKI",
+      "uid": "2210990576"
+    },
+    {
+      "name": "MILAN SHARMA",
+      "uid": "2210990577"
+    },
+    {
+      "name": "MOHAMMAD ARSHAD MALIK",
+      "uid": "2210990580"
+    },
+    {
+      "name": "MONALIKA",
+      "uid": "2210990582"
+    },
+    {
+      "name": "MONU KUMAR",
+      "uid": "2210990583"
+    },
+    {
+      "name": "MRIDUL GOYAL",
+      "uid": "2210990584"
+    },
+    {
+      "name": "MUSKAN REHNI",
+      "uid": "2210990591"
+    },
+    {
+      "name": "NAMAN BASSI",
+      "uid": "2210990594"
+    },
+    {
+      "name": "NAMIT GULATI",
+      "uid": "2210990595"
+    },
+    {
+      "name": "NAMPREET SINGH",
+      "uid": "2210990596"
+    },
+    {
+      "name": "NANDINI BAKSHI",
+      "uid": "2210990597"
+    },
+    {
+      "name": "NARINDER SINGH",
+      "uid": "2210990598"
+    },
+    {
+      "name": "NAVKARAN SINGH",
+      "uid": "2210990599"
+    },
+    {
+      "name": "NAVNEET KAUR BAJWA",
+      "uid": "2210990600"
+    },
+    {
+      "name": "NAVPREET KAUR",
+      "uid": "2210990601"
+    },
+    {
+      "name": "NAVYA SHARMA",
+      "uid": "2210990602"
+    },
+    {
+      "name": "NEESHU DEVI",
+      "uid": "2210990603"
+    },
+    {
+      "name": "NEHARIKA .",
+      "uid": "2210990605"
+    },
+    {
+      "name": "NIDHISH KAMBOJ",
+      "uid": "2210990606"
+    },
+    {
+      "name": "NIHAR SAI BANSAL",
+      "uid": "2210990607"
+    },
+    {
+      "name": "NIKHIL",
+      "uid": "2210990609"
+    },
+    {
+      "name": "NIKHIL GULERIA",
+      "uid": "2210990610"
+    },
+    {
+      "name": "NIKHIL VERMA",
+      "uid": "2210990612"
+    },
+    {
+      "name": "NIPUN KUMAR",
+      "uid": "2210990615"
+    },
+    {
+      "name": "NISHANT PURI",
+      "uid": "2210990618"
+    },
+    {
+      "name": "NISHTHA BANSAL",
+      "uid": "2210990620"
+    },
+    {
+      "name": "NITYA GAUTAM",
+      "uid": "2210990626"
+    },
+    {
+      "name": "YASHIKA GAUR",
+      "uid": "2210990977"
+    },
+    {
+      "name": "GAURAV ANAND",
+      "uid": "2210991570"
+    },
+    {
+      "name": "GAUTAM KUMAR",
+      "uid": "2210991577"
+    },
+    {
+      "name": "GURSEERAT SINGH SIDHU",
+      "uid": "2210991599"
+    },
+    {
+      "name": "HANISH MITTAL",
+      "uid": "2210991604"
+    },
+    {
+      "name": "HARSH",
+      "uid": "2210991612"
+    },
+    {
+      "name": "HARSH .",
+      "uid": "2210991614"
+    },
+    {
+      "name": "HARSH SINHA",
+      "uid": "2210991625"
+    },
+    {
+      "name": "HARSHIT SHARMA",
+      "uid": "2210991641"
+    },
+    {
+      "name": "HARSHITA",
+      "uid": "2210991643"
+    },
+    {
+      "name": "HARSHVARDHAN SINGH",
+      "uid": "2210991647"
+    },
+    {
+      "name": "HIMANSHU KUMAR",
+      "uid": "2210991661"
+    },
+    {
+      "name": "HIMANSHU MALHOTRA",
+      "uid": "2210991663"
+    },
+    {
+      "name": "HIMANSHU RAI",
+      "uid": "2210991664"
+    },
+    {
+      "name": "HRITIK RAUSHAN",
+      "uid": "2210991673"
+    },
+    {
+      "name": "HRITURAJ BHOWMIK",
+      "uid": "2210991674"
+    },
+    {
+      "name": "ILHAN QAYOOM DAR",
+      "uid": "2210991676"
+    }
+  ],
+  "G12": [
+    {
+      "name": "DIVYANSH KALRA",
+      "uid": "2210931005"
+    },
+    {
+      "name": "KARTIK TANEJA",
+      "uid": "2210931007"
+    },
+    {
+      "name": "RUDRAKSH KAPOOR",
+      "uid": "2210990746"
+    },
+    {
+      "name": "RUDRAKSHI",
+      "uid": "2210990747"
+    },
+    {
+      "name": "RUPESH SINGLA",
+      "uid": "2210990749"
+    },
+    {
+      "name": "SAAMYA SINGLA",
+      "uid": "2210990754"
+    },
+    {
+      "name": "SAARTHAK GOYAL",
+      "uid": "2210990756"
+    },
+    {
+      "name": "SAHIL SIKRI",
+      "uid": "2210990758"
+    },
+    {
+      "name": "SAI MADHAV BHALLA",
+      "uid": "2210990760"
+    },
+    {
+      "name": "SAKSHAM BHARTI",
+      "uid": "2210990762"
+    },
+    {
+      "name": "SAKSHAM DOGRA",
+      "uid": "2210990763"
+    },
+    {
+      "name": "SAKSHAM KATYAL",
+      "uid": "2210990764"
+    },
+    {
+      "name": "SAKSHAM TYAGI",
+      "uid": "2210990767"
+    },
+    {
+      "name": "SAKSHAM VASHISHT",
+      "uid": "2210990768"
+    },
+    {
+      "name": "SAKSHI RANA",
+      "uid": "2210990769"
+    },
+    {
+      "name": "SALONI GARG",
+      "uid": "2210990770"
+    },
+    {
+      "name": "SAMANYU SHARMA",
+      "uid": "2210990771"
+    },
+    {
+      "name": "SAMAR SAINI",
+      "uid": "2210990772"
+    },
+    {
+      "name": "SAMARTH SEHDEV",
+      "uid": "2210990773"
+    },
+    {
+      "name": "SAMBHAV YADAV",
+      "uid": "2210990774"
+    },
+    {
+      "name": "SAMEER",
+      "uid": "2210990775"
+    },
+    {
+      "name": "SAMEER KUMAR SAHU",
+      "uid": "2210990777"
+    },
+    {
+      "name": "SAMEER SIKRI",
+      "uid": "2210990778"
+    },
+    {
+      "name": "SANCHITA DUTT",
+      "uid": "2210990784"
+    },
+    {
+      "name": "SANIDHYA CHAUHAN",
+      "uid": "2210990786"
+    },
+    {
+      "name": "SANIYA AHUJA",
+      "uid": "2210990787"
+    },
+    {
+      "name": "SANPREET SINGH",
+      "uid": "2210990790"
+    },
+    {
+      "name": "SANYA",
+      "uid": "2210990791"
+    },
+    {
+      "name": "SANYA KANSAL",
+      "uid": "2210990793"
+    },
+    {
+      "name": "SANYAM BHATIA",
+      "uid": "2210990795"
+    },
+    {
+      "name": "SARANSH SHARMA",
+      "uid": "2210990797"
+    },
+    {
+      "name": "SARTHAK GUPTA",
+      "uid": "2210990800"
+    },
+    {
+      "name": "SARTHAK JYOTI MISHRA",
+      "uid": "2210990801"
+    },
+    {
+      "name": "SARTHAK SAMBHAV",
+      "uid": "2210990803"
+    },
+    {
+      "name": "SATYAM RATTAN",
+      "uid": "2210990804"
+    },
+    {
+      "name": "SAUMYA JAIN",
+      "uid": "2210990805"
+    },
+    {
+      "name": "SAUMYA MEHTA",
+      "uid": "2210990806"
+    },
+    {
+      "name": "SAURAV PRAKASH",
+      "uid": "2210990807"
+    },
+    {
+      "name": "SAURAV SIRSWAL",
+      "uid": "2210990808"
+    },
+    {
+      "name": "SHASHWAT SHARMA",
+      "uid": "2210990813"
+    },
+    {
+      "name": "SHASHWAT SINGH",
+      "uid": "2210990814"
+    },
+    {
+      "name": "SHAURYA ABROL",
+      "uid": "2210990815"
+    },
+    {
+      "name": "SHAURYA GUPTA",
+      "uid": "2210990816"
+    },
+    {
+      "name": "SHAURYA THAKUR",
+      "uid": "2210990817"
+    },
+    {
+      "name": "SHIKHAR GUSAIN",
+      "uid": "2210990820"
+    },
+    {
+      "name": "SHIV GAUTAM MEHAR",
+      "uid": "2210990821"
+    },
+    {
+      "name": "SHIVAM GOYAL",
+      "uid": "2210990822"
+    },
+    {
+      "name": "SHIVAM KUMAR",
+      "uid": "2210990823"
+    },
+    {
+      "name": "SHIVAM MAINRO",
+      "uid": "2210990825"
+    },
+    {
+      "name": "SHIVAM PANDEY",
+      "uid": "2210990826"
+    },
+    {
+      "name": "SHIVANGI SISODIA",
+      "uid": "2210990828"
+    },
+    {
+      "name": "SHWETA WADHWA",
+      "uid": "2210990847"
+    },
+    {
+      "name": "TANISH NAG",
+      "uid": "2210990890"
+    },
+    {
+      "name": "UDAY KALRA",
+      "uid": "2210990918"
+    },
+    {
+      "name": "UDAY MALHOTRA",
+      "uid": "2210990919"
+    },
+    {
+      "name": "UDAY SINGH CHAUHAN",
+      "uid": "2210990920"
+    },
+    {
+      "name": "UDAY SINGH RANA",
+      "uid": "2210990921"
+    },
+    {
+      "name": "UJJWAL SHARMA",
+      "uid": "2210990924"
+    },
+    {
+      "name": "UMANG SHAKYA",
+      "uid": "2210990925"
+    },
+    {
+      "name": "UMARPREET SINGH",
+      "uid": "2210990926"
+    },
+    {
+      "name": "UPINDER KAUR",
+      "uid": "2210990927"
+    },
+    {
+      "name": "VANSH",
+      "uid": "2210990932"
+    },
+    {
+      "name": "VANSH GARG",
+      "uid": "2210990936"
+    },
+    {
+      "name": "VANSH SHARMA",
+      "uid": "2210990939"
+    },
+    {
+      "name": "VANSHIKA JINDAL",
+      "uid": "2210990947"
+    },
+    {
+      "name": "VANSHITA GARG",
+      "uid": "2210990949"
+    },
+    {
+      "name": "VEDANT HANDA",
+      "uid": "2210990954"
+    },
+    {
+      "name": "YUKTI",
+      "uid": "2210990988"
+    }
+  ],
+  "G13": [
+    {
+      "name": "SHIVANSH RANA",
+      "uid": "2210990831"
+    },
+    {
+      "name": "SHIVANSH SHARMA",
+      "uid": "2210990832"
+    },
+    {
+      "name": "SHIVANSH SHARMA",
+      "uid": "2210990833"
+    },
+    {
+      "name": "SHREYA TEWARI",
+      "uid": "2210990839"
+    },
+    {
+      "name": "SHREYA VASHISHT",
+      "uid": "2210990840"
+    },
+    {
+      "name": "SHREYA YADAV",
+      "uid": "2210990841"
+    },
+    {
+      "name": "SHRUTI KARWAL",
+      "uid": "2210990842"
+    },
+    {
+      "name": "SHUBHAM GOYAL",
+      "uid": "2210990845"
+    },
+    {
+      "name": "SHUBHAM GUGLANI",
+      "uid": "2210990846"
+    },
+    {
+      "name": "SIDHARTH GARG",
+      "uid": "2210990849"
+    },
+    {
+      "name": "SIMRAN DORA",
+      "uid": "2210990851"
+    },
+    {
+      "name": "SIMRAN KAUR",
+      "uid": "2210990852"
+    },
+    {
+      "name": "SIMRANPREET KAUR",
+      "uid": "2210990854"
+    },
+    {
+      "name": "SIYA KAUSHIK",
+      "uid": "2210990855"
+    },
+    {
+      "name": "SNEHA SHARMA",
+      "uid": "2210990859"
+    },
+    {
+      "name": "SNEHAL DEVRANI",
+      "uid": "2210990860"
+    },
+    {
+      "name": "SOUBHAGYA RANJAN",
+      "uid": "2210990863"
+    },
+    {
+      "name": "SPARSH KATHAYAT",
+      "uid": "2210990864"
+    },
+    {
+      "name": "SUHAVI JINDAL",
+      "uid": "2210990867"
+    },
+    {
+      "name": "SUJAL",
+      "uid": "2210990868"
+    },
+    {
+      "name": "SUJAL RASTOGI",
+      "uid": "2210990869"
+    },
+    {
+      "name": "SUMIT PARSAD",
+      "uid": "2210990873"
+    },
+    {
+      "name": "SUMIT THAKUR",
+      "uid": "2210990874"
+    },
+    {
+      "name": "SUNAINA",
+      "uid": "2210990875"
+    },
+    {
+      "name": "SURAJ ADDE",
+      "uid": "2210990876"
+    },
+    {
+      "name": "SURAJ KUMAR",
+      "uid": "2210990877"
+    },
+    {
+      "name": "SURAJ VEER",
+      "uid": "2210990878"
+    },
+    {
+      "name": "SUYASH KUMAR DUBEY",
+      "uid": "2210990880"
+    },
+    {
+      "name": "SWASTIK VERMA",
+      "uid": "2210990882"
+    },
+    {
+      "name": "TAMANNA .",
+      "uid": "2210990885"
+    },
+    {
+      "name": "TAMANNA SHARMA",
+      "uid": "2210990886"
+    },
+    {
+      "name": "TANEY SHARMA",
+      "uid": "2210990887"
+    },
+    {
+      "name": "TANISH DALAL",
+      "uid": "2210990888"
+    },
+    {
+      "name": "TANISHA",
+      "uid": "2210990892"
+    },
+    {
+      "name": "TANISHA SINGLA",
+      "uid": "2210990893"
+    },
+    {
+      "name": "TANISHKA KAUTISH",
+      "uid": "2210990894"
+    },
+    {
+      "name": "TANISHPREET KAUR",
+      "uid": "2210990895"
+    },
+    {
+      "name": "TANISHQ ARYA",
+      "uid": "2210990896"
+    },
+    {
+      "name": "TANISHQ DUGGAL",
+      "uid": "2210990898"
+    },
+    {
+      "name": "TANISHQ TYAGI",
+      "uid": "2210990901"
+    },
+    {
+      "name": "TANYA BATRA",
+      "uid": "2210990907"
+    },
+    {
+      "name": "TARANPREET KAUR",
+      "uid": "2210990908"
+    },
+    {
+      "name": "THIRZA BEHAL",
+      "uid": "2210990912"
+    },
+    {
+      "name": "VEDESH BENIWAL",
+      "uid": "2210990955"
+    },
+    {
+      "name": "VIDHI ANAND",
+      "uid": "2210990957"
+    },
+    {
+      "name": "VIKAS VERMA",
+      "uid": "2210990959"
+    },
+    {
+      "name": "VINAYAK JHINGAN",
+      "uid": "2210990960"
+    },
+    {
+      "name": "VINAYAK SHARMA",
+      "uid": "2210990962"
+    },
+    {
+      "name": "VINEET SAINI",
+      "uid": "2210990963"
+    },
+    {
+      "name": "VIPASH ARORA",
+      "uid": "2210990964"
+    },
+    {
+      "name": "VIREN SODHI",
+      "uid": "2210990966"
+    },
+    {
+      "name": "VIVEK GOYAL",
+      "uid": "2210990968"
+    },
+    {
+      "name": "VRINDA VERMA",
+      "uid": "2210990969"
+    },
+    {
+      "name": "YAJAT DUREJA",
+      "uid": "2210990970"
+    },
+    {
+      "name": "YAJUR HARIT",
+      "uid": "2210990971"
+    },
+    {
+      "name": "YASH",
+      "uid": "2210990973"
+    },
+    {
+      "name": "YASH KAUSHIK",
+      "uid": "2210990974"
+    },
+    {
+      "name": "YASHASVI NAG",
+      "uid": "2210990975"
+    },
+    {
+      "name": "YASHIKA TANEJA",
+      "uid": "2210990979"
+    },
+    {
+      "name": "YASHITA PRAJAPATI",
+      "uid": "2210990980"
+    },
+    {
+      "name": "YAZVI BALOONI",
+      "uid": "2210990985"
+    },
+    {
+      "name": "YUGAM SHARMA",
+      "uid": "2210990987"
+    },
+    {
+      "name": "SNEHA PAL",
+      "uid": "2210990996"
+    },
+    {
+      "name": "Suyash Kumar Sharma",
+      "uid": "2210991000"
+    },
+    {
+      "name": "PULKIT VASHISHT",
+      "uid": "2210992594"
+    }
+  ],
+  "G32": [
+    {
+      "name": "HARINDER SINGH DHANOA",
+      "uid": "2210990361"
+    },
+    {
+      "name": "HARSHIT BEHAL",
+      "uid": "2210990386"
+    },
+    {
+      "name": "HIMANSHU SHUKLA",
+      "uid": "2210990408"
+    },
+    {
+      "name": "KARAN KAPOOR",
+      "uid": "2210990477"
+    },
+    {
+      "name": "KHEYANSHU GARG",
+      "uid": "2210990508"
+    },
+    {
+      "name": "SAI LOHITH D V S",
+      "uid": "2210990759"
+    },
+    {
+      "name": "SIMRANDEEP SINGH",
+      "uid": "2210990853"
+    },
+    {
+      "name": "UDAYAN SHARMA",
+      "uid": "2210990922"
+    },
+    {
+      "name": "ANUSHKA MALIK",
+      "uid": "2210991323"
+    },
+    {
+      "name": "ARYAN CHOPRA",
+      "uid": "2210991378"
+    },
+    {
+      "name": "CHIRAG",
+      "uid": "2210991462"
+    },
+    {
+      "name": "DEVASHISH CHAUHAN",
+      "uid": "2210991499"
+    },
+    {
+      "name": "GAGAN BANSAL",
+      "uid": "2210991558"
+    },
+    {
+      "name": "GOPI YADAV",
+      "uid": "2210991582"
+    },
+    {
+      "name": "GURSEWAK SINGH",
+      "uid": "2210991601"
+    },
+    {
+      "name": "JITENDRA KUMAR YADAV",
+      "uid": "2210991720"
+    },
+    {
+      "name": "KARTIK THAKUR",
+      "uid": "2210991760"
+    },
+    {
+      "name": "SAHIL POONIA",
+      "uid": "2210992212"
+    },
+    {
+      "name": "SHIVAM BAJPAI",
+      "uid": "2210992306"
+    },
+    {
+      "name": "SHIVAM MAHAJAN",
+      "uid": "2210992314"
+    },
+    {
+      "name": "SHOIB KHAN",
+      "uid": "2210992337"
+    },
+    {
+      "name": "SHRESHTH VERMA",
+      "uid": "2210992339"
+    },
+    {
+      "name": "SURYANSH SINGH",
+      "uid": "2210992426"
+    },
+    {
+      "name": "VISHNU BANSAL",
+      "uid": "2210992542"
+    }
+  ],
+  "G33": [
+    {
+      "name": "GAURAV ARORA",
+      "uid": "2110994816"
+    },
+    {
+      "name": "JAHANVI SHARMA",
+      "uid": "2210991692"
+    },
+    {
+      "name": "RITESH KAUSHIK",
+      "uid": "2210992166"
+    },
+    {
+      "name": "RUDHRA PARTAP SINGH CHADHA",
+      "uid": "2210992190"
+    },
+    {
+      "name": "SACHIN BIJALWAN",
+      "uid": "2210992203"
+    },
+    {
+      "name": "SAHIBJOT SINGH BENIPAL",
+      "uid": "2210992207"
+    },
+    {
+      "name": "SAHIL",
+      "uid": "2210992209"
+    },
+    {
+      "name": "SAKSHAM JOHAR",
+      "uid": "2210992223"
+    },
+    {
+      "name": "SAKSHAM SABHARWAL",
+      "uid": "2210992226"
+    },
+    {
+      "name": "SAKSHI GUPTA",
+      "uid": "2210992228"
+    },
+    {
+      "name": "SAMPAN KUMAR",
+      "uid": "2210992239"
+    },
+    {
+      "name": "SAMRIDHI",
+      "uid": "2210992241"
+    },
+    {
+      "name": "SANCHITA",
+      "uid": "2210992245"
+    },
+    {
+      "name": "Aadarsh khanna",
+      "uid": "2210994751"
+    },
+    {
+      "name": "Ankit Kumar Singh",
+      "uid": "2210994758"
+    },
+    {
+      "name": "Ankita Bansal",
+      "uid": "2210994759"
+    },
+    {
+      "name": "Bhawna",
+      "uid": "2210994775"
+    },
+    {
+      "name": "chinar Gupta",
+      "uid": "2210994778"
+    },
+    {
+      "name": "Hardik Bajaj",
+      "uid": "2210994786"
+    },
+    {
+      "name": "Harshita Sanan",
+      "uid": "2210994789"
+    },
+    {
+      "name": "Jhanvi",
+      "uid": "2210994797"
+    },
+    {
+      "name": "Kritika Garg",
+      "uid": "2210994805"
+    },
+    {
+      "name": "Mahi Gupta",
+      "uid": "2210994809"
+    },
+    {
+      "name": "Matangini Gupta",
+      "uid": "2210994810"
+    },
+    {
+      "name": "Moksh",
+      "uid": "2210994814"
+    },
+    {
+      "name": "Pragati",
+      "uid": "2210994823"
+    },
+    {
+      "name": "Rachit Singh",
+      "uid": "2210994824"
+    },
+    {
+      "name": "Sarthak Sandal",
+      "uid": "2210994838"
+    },
+    {
+      "name": "Shravan Khandelwal",
+      "uid": "2210994841"
+    },
+    {
+      "name": "Sujal Jain",
+      "uid": "2210994845"
+    },
+    {
+      "name": "Tanya Bansal",
+      "uid": "2210994849"
+    },
+    {
+      "name": "Uday gupta",
+      "uid": "2210994852"
+    },
+    {
+      "name": "Vansh Tomer",
+      "uid": "2210994857"
+    },
+    {
+      "name": "Vipin kumar",
+      "uid": "2210994861"
+    },
+    {
+      "name": "Vriti Jaitley",
+      "uid": "2210994862"
+    },
+    {
+      "name": "Yashmit gauba",
+      "uid": "2210994863"
+    },
+    {
+      "name": "Ankush Singla",
+      "uid": "2210994864"
+    },
+    {
+      "name": "Nirmit Arora",
+      "uid": "2210994868"
+    },
+    {
+      "name": "Khushi Vohra",
+      "uid": "2210994875"
+    },
+    {
+      "name": "Khushi",
+      "uid": "2210994876"
+    },
+    {
+      "name": "Diya Goyal",
+      "uid": "2210994878"
+    }
+  ],
+  "G34": [
+    {
+      "name": "BRAHMJOT SINGH TATLA",
+      "uid": "2210931003"
+    },
+    {
+      "name": "AARYAN SAINI",
+      "uid": "2210990016"
+    },
+    {
+      "name": "ABHAY SINGH",
+      "uid": "2210990030"
+    },
+    {
+      "name": "ABHISHEK BHARDWAJ",
+      "uid": "2210990044"
+    },
+    {
+      "name": "CHETAN PURI",
+      "uid": "2210990237"
+    },
+    {
+      "name": "DEVANSHU SINGH",
+      "uid": "2210990263"
+    },
+    {
+      "name": "HIMANSHU",
+      "uid": "2210990404"
+    },
+    {
+      "name": "KARAN LAMBA",
+      "uid": "2210990479"
+    },
+    {
+      "name": "KESHAV",
+      "uid": "2210990503"
+    },
+    {
+      "name": "NISHTHA TANDON",
+      "uid": "2210990621"
+    },
+    {
+      "name": "RAHUL CHOUDHARY",
+      "uid": "2210990703"
+    },
+    {
+      "name": "SHRAVAN RAJPUT",
+      "uid": "2210990836"
+    },
+    {
+      "name": "SIMRAN",
+      "uid": "2210990850"
+    },
+    {
+      "name": "TAKSH JOSHI",
+      "uid": "2210990884"
+    },
+    {
+      "name": "TANISHQ MALIK",
+      "uid": "2210990900"
+    },
+    {
+      "name": "TUSHITA SRIVASTAVA",
+      "uid": "2210990915"
+    },
+    {
+      "name": "UDAIBIR SINGH BHATHAL",
+      "uid": "2210990916"
+    },
+    {
+      "name": "UDAYVEER SINGH CHHINA",
+      "uid": "2210990923"
+    },
+    {
+      "name": "VAIBHAV",
+      "uid": "2210990931"
+    },
+    {
+      "name": "VANSH VIG",
+      "uid": "2210990940"
+    },
+    {
+      "name": "YATIN KALRA",
+      "uid": "2210990983"
+    },
+    {
+      "name": "VANSHIKA CHOUDHARY",
+      "uid": "2210990998"
+    },
+    {
+      "name": "ADITYA PRASAD",
+      "uid": "2210991194"
+    },
+    {
+      "name": "AGAM",
+      "uid": "2210991207"
+    },
+    {
+      "name": "AISHWARY CHAUHAN",
+      "uid": "2210991209"
+    },
+    {
+      "name": "AKRITI PATIAL",
+      "uid": "2210991221"
+    },
+    {
+      "name": "ANKUSH SHARMA",
+      "uid": "2210991283"
+    },
+    {
+      "name": "ARJUN SINGH KONDAL",
+      "uid": "2210991341"
+    },
+    {
+      "name": "BHAVKIRAT SINGH",
+      "uid": "2210991439"
+    },
+    {
+      "name": "BHUVESH KUMAR",
+      "uid": "2210991449"
+    },
+    {
+      "name": "DAKSHDEEP SINGH",
+      "uid": "2210991476"
+    },
+    {
+      "name": "DEEPANKAR GARG",
+      "uid": "2210991484"
+    },
+    {
+      "name": "DHRUV GOYAL",
+      "uid": "2210991506"
+    },
+    {
+      "name": "DHRUV JAIN",
+      "uid": "2210991508"
+    },
+    {
+      "name": "DIVYANSHU SHARMA",
+      "uid": "2210991537"
+    },
+    {
+      "name": "DURGESH KUMAR",
+      "uid": "2210991551"
+    },
+    {
+      "name": "GAURAV SINGH",
+      "uid": "2210991572"
+    },
+    {
+      "name": "HARDIK BHARDWAJ",
+      "uid": "2210991607"
+    },
+    {
+      "name": "HARSHIT MALIK",
+      "uid": "2210991637"
+    },
+    {
+      "name": "HIMANI BEDI",
+      "uid": "2210991653"
+    },
+    {
+      "name": "KINSHUK GARG",
+      "uid": "2210991803"
+    },
+    {
+      "name": "KUSHAGRA GROVER",
+      "uid": "2210991833"
+    },
+    {
+      "name": "LAVANYA KAPOOR",
+      "uid": "2210991850"
+    },
+    {
+      "name": "MAANIT",
+      "uid": "2210991860"
+    },
+    {
+      "name": "MAKUL MALHOTRA",
+      "uid": "2210991867"
+    },
+    {
+      "name": "MANISH KUMAR",
+      "uid": "2210991882"
+    },
+    {
+      "name": "NAMAN SHARMA",
+      "uid": "2210991956"
+    },
+    {
+      "name": "NITIN CHAUDHARY",
+      "uid": "2210991998"
+    },
+    {
+      "name": "PALAK GOYAL",
+      "uid": "2210992015"
+    },
+    {
+      "name": "PRINCE KUMAR",
+      "uid": "2210992089"
+    },
+    {
+      "name": "RISHABH RAJ",
+      "uid": "2210992155"
+    },
+    {
+      "name": "ROHAN JAIN",
+      "uid": "2210992175"
+    },
+    {
+      "name": "SANIA",
+      "uid": "2210992246"
+    },
+    {
+      "name": "SHIVAM DUBEY",
+      "uid": "2210992308"
+    },
+    {
+      "name": "SUVOGYAN CHAKRABORTY",
+      "uid": "2210992429"
+    },
+    {
+      "name": "TANIKA",
+      "uid": "2210992437"
+    },
+    {
+      "name": "TANISHQ BIRANIA",
+      "uid": "2210992444"
+    },
+    {
+      "name": "TANISHQ GOYAL",
+      "uid": "2210992446"
+    },
+    {
+      "name": "TEJANSHU SETHI",
+      "uid": "2210992462"
+    },
+    {
+      "name": "TUSHAR",
+      "uid": "2210992469"
+    },
+    {
+      "name": "UDDESHYA SINGH",
+      "uid": "2210992475"
+    },
+    {
+      "name": "VANSH",
+      "uid": "2210992497"
+    },
+    {
+      "name": "VANSHIKA",
+      "uid": "2210992504"
+    },
+    {
+      "name": "VANSHIKA GARG",
+      "uid": "2210992507"
+    },
+    {
+      "name": "YANKIT KUMAR",
+      "uid": "2210992552"
+    },
+    {
+      "name": "YUKTIKA SOOD",
+      "uid": "2210992572"
+    },
+    {
+      "name": "Azeem Ahmad Ansari",
+      "uid": "2210994773"
+    },
+    {
+      "name": "Mayank Dhankar",
+      "uid": "2210994811"
+    },
+    {
+      "name": "Rakshit Panjeta",
+      "uid": "2210994880"
+    },
+    {
+      "name": "Kanishq Mehta",
+      "uid": "2210995001"
+    },
+    {
+      "name": "AYUSH",
+      "uid": "2210991415"
+    }
+  ],
+  "G35": [
+    {
+      "name": "NISHANT",
+      "uid": "2210931009"
+    },
+    {
+      "name": "PRATIBHA MEHTA",
+      "uid": "2210931011"
+    },
+    {
+      "name": "VANDANA KUMARI",
+      "uid": "2210931016"
+    },
+    {
+      "name": "ADITYA VASUDEVA",
+      "uid": "2210990075"
+    },
+    {
+      "name": "AMITESH AGGARWAL",
+      "uid": "2210990102"
+    },
+    {
+      "name": "AVINANDAN",
+      "uid": "2210990199"
+    },
+    {
+      "name": "DRISHYA SOOD",
+      "uid": "2210990307"
+    },
+    {
+      "name": "GURMEHAK KAUR",
+      "uid": "2210990342"
+    },
+    {
+      "name": "HARKARAN SINGH",
+      "uid": "2210990364"
+    },
+    {
+      "name": "HEENA",
+      "uid": "2210990398"
+    },
+    {
+      "name": "MAYANK SHEKHAR TIRKEY",
+      "uid": "2210990569"
+    },
+    {
+      "name": "SAKSHAM PANJLA",
+      "uid": "2210990766"
+    },
+    {
+      "name": "SANCHIT PRASHAR",
+      "uid": "2210990783"
+    },
+    {
+      "name": "VANSHAK BHARDWAJ",
+      "uid": "2210990942"
+    },
+    {
+      "name": "VEER SINGH",
+      "uid": "2210990956"
+    },
+    {
+      "name": "YASHIKA",
+      "uid": "2210990976"
+    },
+    {
+      "name": "AAHAN ARORA",
+      "uid": "2210991107"
+    },
+    {
+      "name": "AASHISH SHARMA",
+      "uid": "2210991124"
+    },
+    {
+      "name": "ABHAY CHAUHAN",
+      "uid": "2210991142"
+    },
+    {
+      "name": "ADITI BHAT",
+      "uid": "2210991181"
+    },
+    {
+      "name": "CHITTEJ SINGH",
+      "uid": "2210991468"
+    },
+    {
+      "name": "DHRUV MEHTA",
+      "uid": "2210991510"
+    },
+    {
+      "name": "DIVYAM KUMAR",
+      "uid": "2210991533"
+    },
+    {
+      "name": "DIWAKAR KUMAR",
+      "uid": "2210991540"
+    },
+    {
+      "name": "GURNOOR SINGH",
+      "uid": "2210991596"
+    },
+    {
+      "name": "HARMANDEEP SINGH",
+      "uid": "2210991610"
+    },
+    {
+      "name": "HARSH MATOLIA",
+      "uid": "2210991622"
+    },
+    {
+      "name": "HITESH HARSH VARDHAN THAKUR",
+      "uid": "2210991669"
+    },
+    {
+      "name": "KANAN GUPTA",
+      "uid": "2210991733"
+    },
+    {
+      "name": "KIRITEN",
+      "uid": "2210991804"
+    },
+    {
+      "name": "KRISHNANSHU",
+      "uid": "2210991817"
+    },
+    {
+      "name": "MANAN KAUSHIK",
+      "uid": "2210991872"
+    },
+    {
+      "name": "MAYANK KUMAR",
+      "uid": "2210991906"
+    },
+    {
+      "name": "MRIDHUL GUPTA",
+      "uid": "2210991939"
+    },
+    {
+      "name": "MUSKAN",
+      "uid": "2210991945"
+    },
+    {
+      "name": "NAMAN",
+      "uid": "2210991952"
+    },
+    {
+      "name": "NISHANT",
+      "uid": "2210991989"
+    },
+    {
+      "name": "PRANSHU BHARDWAJ",
+      "uid": "2210992066"
+    },
+    {
+      "name": "PRANZAL YADAV",
+      "uid": "2210992067"
+    },
+    {
+      "name": "PRATEEK KHACHI",
+      "uid": "2210992071"
+    },
+    {
+      "name": "PRATHAM PATHANIA",
+      "uid": "2210992077"
+    },
+    {
+      "name": "PRATIK KUMAR TIWARI",
+      "uid": "2210992081"
+    },
+    {
+      "name": "PRIYANSHI JAIN",
+      "uid": "2210992102"
+    },
+    {
+      "name": "RAHUL GAURAV",
+      "uid": "2210992129"
+    },
+    {
+      "name": "RHYTHM SINGH",
+      "uid": "2210992149"
+    },
+    {
+      "name": "SAKSHAM KANSAL",
+      "uid": "2210992224"
+    },
+    {
+      "name": "SAMEER CHANDRA",
+      "uid": "2210992237"
+    },
+    {
+      "name": "SANYAM MITTAL",
+      "uid": "2210992257"
+    },
+    {
+      "name": "SHARAD JINDAL",
+      "uid": "2210992286"
+    },
+    {
+      "name": "SNEHA RANI",
+      "uid": "2210992391"
+    },
+    {
+      "name": "SOMIL PATHANIA",
+      "uid": "2210992396"
+    },
+    {
+      "name": "SURYANSH SINGH",
+      "uid": "2210992427"
+    },
+    {
+      "name": "VISHESH KUMAR",
+      "uid": "2210992540"
+    },
+    {
+      "name": "VISHWASH BHARTI",
+      "uid": "2210992544"
+    },
+    {
+      "name": "YAKSHIT SINGLA",
+      "uid": "2210992551"
+    },
+    {
+      "name": "Abhijeet Bhardwaj",
+      "uid": "2211981007"
+    },
+    {
+      "name": "Abhishek Guleria",
+      "uid": "2211981012"
+    },
+    {
+      "name": "Anish Dogra",
+      "uid": "2211981058"
+    },
+    {
+      "name": "Harsh",
+      "uid": "2211981165"
+    },
+    {
+      "name": "Ishan Bhardwaj",
+      "uid": "2211981176"
+    },
+    {
+      "name": "Kartik Thakur",
+      "uid": "2211981195"
+    },
+    {
+      "name": "Madhurima",
+      "uid": "2211981215"
+    },
+    {
+      "name": "Manjeet",
+      "uid": "2211981218"
+    },
+    {
+      "name": "Nikhil Thakur",
+      "uid": "2211981246"
+    },
+    {
+      "name": "Nishith Dwivedi",
+      "uid": "2211981254"
+    },
+    {
+      "name": "Tanishq",
+      "uid": "2211981430"
+    },
+    {
+      "name": "Tushar Poonga",
+      "uid": "2211981441"
+    },
+    {
+      "name": "Vansh Jindal",
+      "uid": "2211981450"
+    }
+  ],
+  "G36": [
+    {
+      "name": "AADITYA BHALLA",
+      "uid": "2210990004"
+    },
+    {
+      "name": "AADITYA SHARMA",
+      "uid": "2210990005"
+    },
+    {
+      "name": "AARYAN PRATAP KALRA",
+      "uid": "2210990015"
+    },
+    {
+      "name": "AAYUSHI SWAMI",
+      "uid": "2210990023"
+    },
+    {
+      "name": "ADITYA",
+      "uid": "2210990056"
+    },
+    {
+      "name": "ADITYA KUMAR",
+      "uid": "2210990066"
+    },
+    {
+      "name": "ANIKET SINHA",
+      "uid": "2210990115"
+    },
+    {
+      "name": "ANSH KHURANA",
+      "uid": "2210990136"
+    },
+    {
+      "name": "BHAVESH KHULLAR",
+      "uid": "2210990216"
+    },
+    {
+      "name": "CHAITANYA GARG",
+      "uid": "2210990233"
+    },
+    {
+      "name": "DRISHTI BHARDWAJ",
+      "uid": "2210990306"
+    },
+    {
+      "name": "GAUTAM NAGPAL",
+      "uid": "2210990321"
+    },
+    {
+      "name": "GEETANSH SOOD",
+      "uid": "2210990323"
+    },
+    {
+      "name": "GEETANSHU MANTRO",
+      "uid": "2210990324"
+    },
+    {
+      "name": "GOPIKA ASHUTOSH GOYAL",
+      "uid": "2210990328"
+    },
+    {
+      "name": "GURKEERAT SINGH",
+      "uid": "2210990338"
+    },
+    {
+      "name": "GURVEER SINGH MULTANI",
+      "uid": "2210990352"
+    },
+    {
+      "name": "HARGUN SINGH",
+      "uid": "2210990360"
+    },
+    {
+      "name": "HARMAN SAINI",
+      "uid": "2210990368"
+    },
+    {
+      "name": "HIMANSHU SHARMA",
+      "uid": "2210990407"
+    },
+    {
+      "name": "HITESH KUMAR BAIRAGI",
+      "uid": "2210990414"
+    },
+    {
+      "name": "HONEY BANSAL",
+      "uid": "2210990416"
+    },
+    {
+      "name": "ISHIKA BEDI",
+      "uid": "2210990422"
+    },
+    {
+      "name": "JAIKIRAT DEV",
+      "uid": "2210990428"
+    },
+    {
+      "name": "JAIVARDHAN KHANNA",
+      "uid": "2210990429"
+    },
+    {
+      "name": "JANVI SETHI",
+      "uid": "2210990431"
+    },
+    {
+      "name": "JAPNEET SINGH",
+      "uid": "2210990434"
+    },
+    {
+      "name": "JASKIRAT SINGH",
+      "uid": "2210990445"
+    },
+    {
+      "name": "JASPREET KAUR SANDHU",
+      "uid": "2210990453"
+    },
+    {
+      "name": "KANWARDEEP SINGH MARZARA",
+      "uid": "2210990473"
+    },
+    {
+      "name": "KANWARJEET SINGH SAINI",
+      "uid": "2210990474"
+    },
+    {
+      "name": "KHUSHI VERMA",
+      "uid": "2210990514"
+    },
+    {
+      "name": "NISHANT DINESH RAMNATH",
+      "uid": "2210990617"
+    },
+    {
+      "name": "NISHTHA",
+      "uid": "2210990619"
+    },
+    {
+      "name": "OJAS GUPTA",
+      "uid": "2210990627"
+    },
+    {
+      "name": "PARV KAPOOR",
+      "uid": "2210990646"
+    },
+    {
+      "name": "PEARL",
+      "uid": "2210990648"
+    },
+    {
+      "name": "PRACHI ANAND",
+      "uid": "2210990660"
+    },
+    {
+      "name": "PRATHAM KHATKAR",
+      "uid": "2210990674"
+    },
+    {
+      "name": "RANVEER SINGH WALIA",
+      "uid": "2210990718"
+    },
+    {
+      "name": "SIDDHARTH MALHOTRA",
+      "uid": "2210990848"
+    },
+    {
+      "name": "UDAY AGGARWAL",
+      "uid": "2210990917"
+    },
+    {
+      "name": "VANSH ALAWADHI",
+      "uid": "2210990933"
+    },
+    {
+      "name": "VANSH DUGGAL",
+      "uid": "2210990935"
+    },
+    {
+      "name": "VANSH JANGRA",
+      "uid": "2210990937"
+    },
+    {
+      "name": "VANSHIKA KOLI",
+      "uid": "2210990948"
+    },
+    {
+      "name": "VIDUSHI KAUSHIK",
+      "uid": "2210990958"
+    },
+    {
+      "name": "VINAYAK SHARMA",
+      "uid": "2210990961"
+    },
+    {
+      "name": "VIPIN SHARMA",
+      "uid": "2210990965"
+    },
+    {
+      "name": "VISHALI",
+      "uid": "2210990967"
+    },
+    {
+      "name": "YUVRAJ SINGH",
+      "uid": "2210990989"
+    },
+    {
+      "name": "HARSH",
+      "uid": "2210991613"
+    },
+    {
+      "name": "JOBAN SINGH",
+      "uid": "2210991724"
+    },
+    {
+      "name": "KARTIK",
+      "uid": "2210991751"
+    },
+    {
+      "name": "KAVYANJALI SINGH",
+      "uid": "2210991779"
+    },
+    {
+      "name": "KHUSHI",
+      "uid": "2210991797"
+    },
+    {
+      "name": "PRATHAM CHHETRI",
+      "uid": "2210992075"
+    },
+    {
+      "name": "RAVI INDER SINGH TIWANA",
+      "uid": "2210992142"
+    },
+    {
+      "name": "TARNVEER SINGH MANN",
+      "uid": "2210992456"
+    },
+    {
+      "name": "YASH KOCHAR",
+      "uid": "2210992556"
+    },
+    {
+      "name": "Janvi",
+      "uid": "2210994794"
+    },
+    {
+      "name": "Nishant",
+      "uid": "2210994820"
+    },
+    {
+      "name": "Sarangdhar",
+      "uid": "2210994837"
+    },
+    {
+      "name": "Tina Rani",
+      "uid": "2210994851"
+    },
+    {
+      "name": "Varun bhardwaj",
+      "uid": "2210994858"
+    },
+    {
+      "name": "Atul Semwal",
+      "uid": "2211981113"
+    },
+    {
+      "name": "Bhanupratap Singh Batyal",
+      "uid": "2211981124"
+    },
+    {
+      "name": "Paras Pauriyal",
+      "uid": "2211981261"
+    },
+    {
+      "name": "Pawan Bista",
+      "uid": "2211981482"
+    },
+    {
+      "name": "Suman Yadav",
+      "uid": "2211981489"
+    },
+    {
+      "name": "Amit Sahoo",
+      "uid": "2211985006"
+    }
+  ],
+  "G38": [
+    {
+      "name": "TANMAY VERMA",
+      "uid": "2210931015"
+    },
+    {
+      "name": "AASHVI CHAWLA",
+      "uid": "2210990019"
+    },
+    {
+      "name": "ANCHAL GUPTA",
+      "uid": "2210990112"
+    },
+    {
+      "name": "ANSH DUA",
+      "uid": "2210990134"
+    },
+    {
+      "name": "ARYAN SHARMA",
+      "uid": "2210990179"
+    },
+    {
+      "name": "ARYAN SONKAR",
+      "uid": "2210990182"
+    },
+    {
+      "name": "CHIRAG DAHIYA",
+      "uid": "2210990239"
+    },
+    {
+      "name": "DHRUV DATTA",
+      "uid": "2210990272"
+    },
+    {
+      "name": "DHRUV GARG",
+      "uid": "2210990273"
+    },
+    {
+      "name": "DILPREET SINGH",
+      "uid": "2210990286"
+    },
+    {
+      "name": "DIYA",
+      "uid": "2210990300"
+    },
+    {
+      "name": "GAGAN DEEP",
+      "uid": "2210990310"
+    },
+    {
+      "name": "HARSHDEEP SINGH",
+      "uid": "2210990383"
+    },
+    {
+      "name": "JATIN GOEL",
+      "uid": "2210990457"
+    },
+    {
+      "name": "KAJAL",
+      "uid": "2210990469"
+    },
+    {
+      "name": "KARAN SAINI",
+      "uid": "2210990481"
+    },
+    {
+      "name": "KARTIK BHARDWAJ",
+      "uid": "2210990487"
+    },
+    {
+      "name": "LIV ARPIT SINGH",
+      "uid": "2210990543"
+    },
+    {
+      "name": "NITISH MITTAL",
+      "uid": "2210990624"
+    },
+    {
+      "name": "PARTH BATRA",
+      "uid": "2210990642"
+    },
+    {
+      "name": "PRANYA",
+      "uid": "2210990670"
+    },
+    {
+      "name": "RAJAT GUPTA",
+      "uid": "2210990705"
+    },
+    {
+      "name": "RIYA",
+      "uid": "2210990734"
+    },
+    {
+      "name": "SANCHIT GUSAIN",
+      "uid": "2210990782"
+    },
+    {
+      "name": "YASHIKA KHANNA",
+      "uid": "2210990978"
+    },
+    {
+      "name": "YASHNOOR KAUR",
+      "uid": "2210990982"
+    },
+    {
+      "name": "ADNAN SIDDIQUI",
+      "uid": "2210991204"
+    },
+    {
+      "name": "Adarash Kumar Singh",
+      "uid": "2210991205"
+    },
+    {
+      "name": "AGRIMA",
+      "uid": "2210991208"
+    },
+    {
+      "name": "AKIRA SINGH",
+      "uid": "2210991219"
+    },
+    {
+      "name": "AMUL ARORA",
+      "uid": "2210991256"
+    },
+    {
+      "name": "ANIRUDH PAL KAUSHIK",
+      "uid": "2210991268"
+    },
+    {
+      "name": "ARCHITA",
+      "uid": "2210991335"
+    },
+    {
+      "name": "ARYAN TUTNEJA",
+      "uid": "2210991394"
+    },
+    {
+      "name": "DEVANSH KAUSHAL",
+      "uid": "2210991494"
+    },
+    {
+      "name": "DIPTI MISHRA",
+      "uid": "2210991520"
+    },
+    {
+      "name": "DRISHTI",
+      "uid": "2210991548"
+    },
+    {
+      "name": "GAUTAM ARYA",
+      "uid": "2210991576"
+    },
+    {
+      "name": "GUNJAN",
+      "uid": "2210991587"
+    },
+    {
+      "name": "HARSHUL",
+      "uid": "2210991645"
+    },
+    {
+      "name": "KARAN",
+      "uid": "2210991746"
+    },
+    {
+      "name": "KASHISH",
+      "uid": "2210991766"
+    },
+    {
+      "name": "KHUSHVIR SINGH MAAN",
+      "uid": "2210991802"
+    },
+    {
+      "name": "KUNAL ARYAN",
+      "uid": "2210991824"
+    },
+    {
+      "name": "LAKSH MAHAJAN",
+      "uid": "2210991837"
+    },
+    {
+      "name": "MEHAK SHARMA",
+      "uid": "2210991919"
+    },
+    {
+      "name": "MEHAKPREET KAUR",
+      "uid": "2210991920"
+    },
+    {
+      "name": "MUSKAN",
+      "uid": "2210991944"
+    },
+    {
+      "name": "OSHEEN",
+      "uid": "2210992009"
+    },
+    {
+      "name": "PARTH GOYAL",
+      "uid": "2210992028"
+    },
+    {
+      "name": "PRANAV MEHROTRA",
+      "uid": "2210992062"
+    },
+    {
+      "name": "RAVINDER SINGH",
+      "uid": "2210992144"
+    },
+    {
+      "name": "ROUNAK RAJ",
+      "uid": "2210992187"
+    },
+    {
+      "name": "RUDHAR SHARMA",
+      "uid": "2210992189"
+    },
+    {
+      "name": "SHREYA SHARMA",
+      "uid": "2210992342"
+    },
+    {
+      "name": "Vanshika Garg",
+      "uid": "2210992593"
+    },
+    {
+      "name": "Akshit Mehta",
+      "uid": "2211981043"
+    },
+    {
+      "name": "Ansh Bareja",
+      "uid": "2211981073"
+    },
+    {
+      "name": "Sachit Rajpal",
+      "uid": "2211981328"
+    },
+    {
+      "name": "Sahil Vashisht",
+      "uid": "2211981332"
+    }
+  ],
+  "G39": [
+    {
+      "name": "AUGUSTYA",
+      "uid": "2210990196"
+    },
+    {
+      "name": "DIYANSHI GUPTA",
+      "uid": "2210990305"
+    },
+    {
+      "name": "GAGAN SHARMA",
+      "uid": "2210990311"
+    },
+    {
+      "name": "GORANSH HANDA",
+      "uid": "2210990329"
+    },
+    {
+      "name": "GURPREET SINGH",
+      "uid": "2210990348"
+    },
+    {
+      "name": "HARDIK SINGH",
+      "uid": "2210990358"
+    },
+    {
+      "name": "HENSI SONI",
+      "uid": "2210990400"
+    },
+    {
+      "name": "JAPISH BAGGA",
+      "uid": "2210990432"
+    },
+    {
+      "name": "KHUSHI BANSAL",
+      "uid": "2210990510"
+    },
+    {
+      "name": "LAKSHAY GOEL",
+      "uid": "2210990535"
+    },
+    {
+      "name": "PRATHAM GARG",
+      "uid": "2210990672"
+    },
+    {
+      "name": "TANMOL KAUR",
+      "uid": "2210990902"
+    },
+    {
+      "name": "AAYUSHI MITTAL",
+      "uid": "2210991139"
+    },
+    {
+      "name": "ABHINAV RANA",
+      "uid": "2210991154"
+    },
+    {
+      "name": "ABHISHEK RANA",
+      "uid": "2210991172"
+    },
+    {
+      "name": "ARHAM JAIN",
+      "uid": "2210991338"
+    },
+    {
+      "name": "DEEPTI TIWARI",
+      "uid": "2210991486"
+    },
+    {
+      "name": "EKLAVYA",
+      "uid": "2210991553"
+    },
+    {
+      "name": "KUSHAAL BINDAL",
+      "uid": "2210991832"
+    },
+    {
+      "name": "LAKSHYA YADAV",
+      "uid": "2210991846"
+    },
+    {
+      "name": "NAMAN SUTHAR",
+      "uid": "2210991957"
+    },
+    {
+      "name": "NAYAJA ARORA",
+      "uid": "2210991968"
+    },
+    {
+      "name": "NEHAL CHADHA",
+      "uid": "2210991971"
+    },
+    {
+      "name": "NOOVI BEDI",
+      "uid": "2210992004"
+    },
+    {
+      "name": "PRATHAM CHAUDHARY",
+      "uid": "2210992073"
+    },
+    {
+      "name": "PURUSHOTAM KUMAR",
+      "uid": "2210992108"
+    },
+    {
+      "name": "RAGHAV",
+      "uid": "2210992116"
+    },
+    {
+      "name": "SAANVI BHAT",
+      "uid": "2210992200"
+    },
+    {
+      "name": "SALIL",
+      "uid": "2210992230"
+    },
+    {
+      "name": "SATVIK TIWARI",
+      "uid": "2210992267"
+    },
+    {
+      "name": "SEHAJ GOYAL",
+      "uid": "2210992277"
+    },
+    {
+      "name": "SHERIL DUTTA",
+      "uid": "2210992299"
+    },
+    {
+      "name": "SHUBHAM KUMAR GOSWAMI",
+      "uid": "2210992366"
+    },
+    {
+      "name": "SOHAM AGGARWAL",
+      "uid": "2210992394"
+    },
+    {
+      "name": "TANYA LAKHINA",
+      "uid": "2210992453"
+    },
+    {
+      "name": "VISHESH SINGAL",
+      "uid": "2210992541"
+    },
+    {
+      "name": "Aryan Singh",
+      "uid": "2210994768"
+    },
+    {
+      "name": "Nishant sadwal",
+      "uid": "2210994821"
+    },
+    {
+      "name": "Raman sharma",
+      "uid": "2210994873"
+    },
+    {
+      "name": "Vanshaj Raizada Vaid",
+      "uid": "2210994883"
+    },
+    {
+      "name": "Adarsh Priyadarshi",
+      "uid": "2211981017"
+    },
+    {
+      "name": "Arnav Gupta",
+      "uid": "2211981092"
+    },
+    {
+      "name": "Deepak Uniyal",
+      "uid": "2211981138"
+    },
+    {
+      "name": "Karan Kaushik",
+      "uid": "2211981189"
+    },
+    {
+      "name": "Mehak",
+      "uid": "2211981222"
+    },
+    {
+      "name": "Shreyansh",
+      "uid": "2211981378"
+    },
+    {
+      "name": "Apoorv",
+      "uid": "2211985011"
+    }
+  ],
+  "G37": [
+    {
+      "name": "PRANAV KUMAR",
+      "uid": "2210990667"
+    },
+    {
+      "name": "AARYAN SHYAM",
+      "uid": "2210991121"
+    },
+    {
+      "name": "AAYUSH",
+      "uid": "2210991135"
+    },
+    {
+      "name": "ABHAY AGGARWAL",
+      "uid": "2210991141"
+    },
+    {
+      "name": "ABHAY CHAUHAN",
+      "uid": "2210991143"
+    },
+    {
+      "name": "ABHISHEK KUMAR CHAURASIA",
+      "uid": "2210991168"
+    },
+    {
+      "name": "ADITYA VATS",
+      "uid": "2210991202"
+    },
+    {
+      "name": "AKSHAT KHURANA",
+      "uid": "2210991227"
+    },
+    {
+      "name": "ANKIT",
+      "uid": "2210991275"
+    },
+    {
+      "name": "APOORAV VERMA",
+      "uid": "2210991326"
+    },
+    {
+      "name": "ARCHIT SANORIA",
+      "uid": "2210991334"
+    },
+    {
+      "name": "AZIMUSSHAN KHAN",
+      "uid": "2210991432"
+    },
+    {
+      "name": "BHAVYA BIBRA",
+      "uid": "2210991441"
+    },
+    {
+      "name": "CHIRANJIT SINGH LAMBA",
+      "uid": "2210991467"
+    },
+    {
+      "name": "DAANUSHI SHARMA",
+      "uid": "2210991469"
+    },
+    {
+      "name": "GANGADHAR VERMA",
+      "uid": "2210991560"
+    },
+    {
+      "name": "HARSH JAIN",
+      "uid": "2210991619"
+    },
+    {
+      "name": "HARSHIT MALHOTRA",
+      "uid": "2210991636"
+    },
+    {
+      "name": "HARSHVARDHAN SINGH",
+      "uid": "2210991646"
+    },
+    {
+      "name": "JAPIT ARORA",
+      "uid": "2210991695"
+    },
+    {
+      "name": "MANAN MUNJAL",
+      "uid": "2210991873"
+    },
+    {
+      "name": "MANSHPREET KAUR",
+      "uid": "2210991890"
+    },
+    {
+      "name": "MOKSH GOYAL",
+      "uid": "2210991933"
+    },
+    {
+      "name": "MUDDIT PAHWA",
+      "uid": "2210991942"
+    },
+    {
+      "name": "PARISHA",
+      "uid": "2210992023"
+    },
+    {
+      "name": "PAWAN GAMBHIR",
+      "uid": "2210992035"
+    },
+    {
+      "name": "RUDRANEEL PAL BANIK",
+      "uid": "2210992193"
+    },
+    {
+      "name": "SAURAV SINGH",
+      "uid": "2210992274"
+    },
+    {
+      "name": "SHRIYA CHOUDHARY",
+      "uid": "2210992352"
+    },
+    {
+      "name": "SIDDHARTH PATEL",
+      "uid": "2210992376"
+    },
+    {
+      "name": "SONALI",
+      "uid": "2210992397"
+    },
+    {
+      "name": "SOUBHAGYA SHARMA",
+      "uid": "2210992400"
+    },
+    {
+      "name": "SURBHI GARG",
+      "uid": "2210992422"
+    },
+    {
+      "name": "VARDHMAN JAIN",
+      "uid": "2210992513"
+    },
+    {
+      "name": "VARSHA KUMARI",
+      "uid": "2210992514"
+    },
+    {
+      "name": "YASHASVI",
+      "uid": "2210992562"
+    },
+    {
+      "name": "YASHIKA BAJAJ",
+      "uid": "2210992564"
+    }
+  ],
+  "AI": [
+    {
+      "name": "AADITYA BAKSHI",
+      "uid": "2210993751"
+    },
+    {
+      "name": "AAKASH YADAV",
+      "uid": "2210993753"
+    },
+    {
+      "name": "ABHINAV SHARMA",
+      "uid": "2210993755"
+    },
+    {
+      "name": "ABHYUDAY SINGH PATHANIA",
+      "uid": "2210993757"
+    },
+    {
+      "name": "ADHYAN JAIN",
+      "uid": "2210993758"
+    },
+    {
+      "name": "ADITYA",
+      "uid": "2210993759"
+    },
+    {
+      "name": "AKSHAY MAKHIJA",
+      "uid": "2210993761"
+    },
+    {
+      "name": "AMRITASH GUNDEV",
+      "uid": "2210993762"
+    },
+    {
+      "name": "AMRITESHWAR SINGH",
+      "uid": "2210993763"
+    },
+    {
+      "name": "ANIKET SAINI",
+      "uid": "2210993764"
+    },
+    {
+      "name": "ANMOL SHARMA",
+      "uid": "2210993765"
+    },
+    {
+      "name": "ANSHU",
+      "uid": "2210993766"
+    },
+    {
+      "name": "ANTARIKSH SHARMA",
+      "uid": "2210993767"
+    },
+    {
+      "name": "ANUSHA DHIMAN",
+      "uid": "2210993768"
+    },
+    {
+      "name": "ANUSHKA TEWARI",
+      "uid": "2210993769"
+    },
+    {
+      "name": "APOORV GROVER",
+      "uid": "2210993770"
+    },
+    {
+      "name": "ARADHYA TREHAN",
+      "uid": "2210993771"
+    },
+    {
+      "name": "ASHMIT",
+      "uid": "2210993773"
+    },
+    {
+      "name": "ATISHAY JAIN",
+      "uid": "2210993774"
+    },
+    {
+      "name": "AVIRAL SRIVASTAVA",
+      "uid": "2210993775"
+    },
+    {
+      "name": "AVNI",
+      "uid": "2210993776"
+    },
+    {
+      "name": "AVNI SHARMA",
+      "uid": "2210993777"
+    },
+    {
+      "name": "AYUSH BANSAL",
+      "uid": "2210993778"
+    },
+    {
+      "name": "BHAVESH JINDAL",
+      "uid": "2210993779"
+    },
+    {
+      "name": "CHIRAG SHARMA",
+      "uid": "2210993780"
+    },
+    {
+      "name": "DHRUV KAJLA",
+      "uid": "2210993781"
+    },
+    {
+      "name": "DHRUV MALHOTRA",
+      "uid": "2210993782"
+    },
+    {
+      "name": "DIPESH",
+      "uid": "2210993783"
+    },
+    {
+      "name": "DISHA HOODA",
+      "uid": "2210993784"
+    },
+    {
+      "name": "GHANSHAM MANGLA",
+      "uid": "2210993786"
+    },
+    {
+      "name": "GOTAM ARORA",
+      "uid": "2210993787"
+    },
+    {
+      "name": "GUNTAAS SINGH BARSAL",
+      "uid": "2210993788"
+    },
+    {
+      "name": "HITESH SINGLA",
+      "uid": "2210993790"
+    },
+    {
+      "name": "ISHAAN MALHOTRA",
+      "uid": "2210993791"
+    },
+    {
+      "name": "ISHAAN SHARMA",
+      "uid": "2210993792"
+    },
+    {
+      "name": "ISHAN GOYAL",
+      "uid": "2210993793"
+    },
+    {
+      "name": "JAGJIT SINGH",
+      "uid": "2210993794"
+    },
+    {
+      "name": "JANNAT KAUR CHEEMA",
+      "uid": "2210993796"
+    },
+    {
+      "name": "JASKARAN SINGH",
+      "uid": "2210993797"
+    },
+    {
+      "name": "JESSICA",
+      "uid": "2210993798"
+    },
+    {
+      "name": "KANAN",
+      "uid": "2210993799"
+    },
+    {
+      "name": "KARTAR SINGH",
+      "uid": "2210993800"
+    },
+    {
+      "name": "KHUSHAL M HINGORANI",
+      "uid": "2210993802"
+    },
+    {
+      "name": "KHUSHBOO",
+      "uid": "2210993803"
+    },
+    {
+      "name": "KHUSHI ANAND",
+      "uid": "2210993804"
+    },
+    {
+      "name": "KIRAT KAUR",
+      "uid": "2210993805"
+    },
+    {
+      "name": "KRISH CHAUDHARY",
+      "uid": "2210993807"
+    },
+    {
+      "name": "KRISHNA PAHUJA",
+      "uid": "2210993808"
+    },
+    {
+      "name": "KRITI",
+      "uid": "2210993810"
+    },
+    {
+      "name": "MAANVI BANSAL",
+      "uid": "2210993811"
+    },
+    {
+      "name": "MANNAT VERMA",
+      "uid": "2210993812"
+    },
+    {
+      "name": "MANPREET SINGH GOINDI",
+      "uid": "2210993813"
+    },
+    {
+      "name": "MANYA SAINI",
+      "uid": "2210993814"
+    },
+    {
+      "name": "MAYANK PRAJAPATI",
+      "uid": "2210993816"
+    },
+    {
+      "name": "MRIDULA GUPTA",
+      "uid": "2210993817"
+    },
+    {
+      "name": "MUKUND MALIK",
+      "uid": "2210993818"
+    },
+    {
+      "name": "NAVROOP",
+      "uid": "2210993819"
+    },
+    {
+      "name": "NIDHI",
+      "uid": "2210993820"
+    },
+    {
+      "name": "OJASVI",
+      "uid": "2210993821"
+    },
+    {
+      "name": "PARTH THAKUR",
+      "uid": "2210993823"
+    },
+    {
+      "name": "PRABHPREET SINGH",
+      "uid": "2210993824"
+    },
+    {
+      "name": "PRANAV MISHRA",
+      "uid": "2210993825"
+    },
+    {
+      "name": "PRANJAL PANDEY",
+      "uid": "2210993826"
+    },
+    {
+      "name": "PRATHAM SHARMA",
+      "uid": "2210993828"
+    },
+    {
+      "name": "PRISHA",
+      "uid": "2210993829"
+    },
+    {
+      "name": "RAMAN RUDRAKSH",
+      "uid": "2210993832"
+    },
+    {
+      "name": "RANBIR JUNEJA",
+      "uid": "2210993833"
+    },
+    {
+      "name": "RITIKA JAIN",
+      "uid": "2210993836"
+    },
+    {
+      "name": "SHAIL SHARMA",
+      "uid": "2210993837"
+    },
+    {
+      "name": "SAKSHAM KESHLA",
+      "uid": "2210993838"
+    },
+    {
+      "name": "SAMBHAV SINGH",
+      "uid": "2210993840"
+    },
+    {
+      "name": "SANYAM GUPTA",
+      "uid": "2210993842"
+    },
+    {
+      "name": "SARTHAK KALA",
+      "uid": "2210993843"
+    },
+    {
+      "name": "SAYAN DEBNATH",
+      "uid": "2210993844"
+    },
+    {
+      "name": "SHIVAM AGGARWAL",
+      "uid": "2210993845"
+    },
+    {
+      "name": "SONALI SAINI",
+      "uid": "2210993848"
+    },
+    {
+      "name": "TARANJIT SINGH MALHOTRA",
+      "uid": "2210993850"
+    },
+    {
+      "name": "TEJAS VEER SINGH",
+      "uid": "2210993851"
+    },
+    {
+      "name": "VAIBHAV CHANDRA",
+      "uid": "2210993852"
+    },
+    {
+      "name": "VAIBHAV GARG",
+      "uid": "2210993853"
+    },
+    {
+      "name": "VAIBHAV TEJPAL",
+      "uid": "2210993854"
+    },
+    {
+      "name": "VANCHHITA",
+      "uid": "2210993855"
+    },
+    {
+      "name": "VASUDEV RAI",
+      "uid": "2210993857"
+    },
+    {
+      "name": "VIDHI",
+      "uid": "2210993858"
+    },
+    {
+      "name": "VINAYAK ARORA",
+      "uid": "2210993859"
+    },
+    {
+      "name": "VIPAN KUMAR",
+      "uid": "2210993860"
+    },
+    {
+      "name": "VIRENDER GARG",
+      "uid": "2210993861"
+    },
+    {
+      "name": "VISHNU KUMAR",
+      "uid": "2210993862"
+    },
+    {
+      "name": "YOGESH JINDAL",
+      "uid": "2210993863"
+    },
+    {
+      "name": "VRINDA VIRMANI",
+      "uid": "2210993866"
+    }
+  ],
+  "ECE": [
+    {
+      "name": "AAROHI TULI",
+      "uid": "2210993501"
+    },
+    {
+      "name": "ABHISHEK ARUN TIWARI",
+      "uid": "2210993505"
+    },
+    {
+      "name": "ALOKIT",
+      "uid": "2210993508"
+    },
+    {
+      "name": "ANKUSH KUMAR",
+      "uid": "2210993515"
+    },
+    {
+      "name": "ANSHUL AGGARWAL",
+      "uid": "2210993517"
+    },
+    {
+      "name": "BHAVYA SHARMA",
+      "uid": "2210993524"
+    },
+    {
+      "name": "GIRESH DATTA",
+      "uid": "2210993528"
+    },
+    {
+      "name": "HRIDYANSHU GOYAL",
+      "uid": "2210993532"
+    },
+    {
+      "name": "NAMAN GARG",
+      "uid": "2210993541"
+    },
+    {
+      "name": "NAVAM KAKRIA",
+      "uid": "2210993542"
+    },
+    {
+      "name": "RADHIKA MAHESHWARI",
+      "uid": "2210993549"
+    },
+    {
+      "name": "RIYA TAYAL",
+      "uid": "2210993554"
+    },
+    {
+      "name": "SANIDHYA BHARDWAJ",
+      "uid": "2210993557"
+    },
+    {
+      "name": "SUHAIL ZAIDI",
+      "uid": "2210993560"
+    }
+  ],
+  "G15": [
+    {
+      "name": "DIPASHA",
+      "uid": "2210991519"
+    },
+    {
+      "name": "AADIL VERMA",
+      "uid": "2210991102"
+    },
+    {
+      "name": "AADITYA SINGH",
+      "uid": "2210991105"
+    },
+    {
+      "name": "AAKASH THAKUR",
+      "uid": "2210991108"
+    },
+    {
+      "name": "AAKRITI SHORY",
+      "uid": "2210991110"
+    },
+    {
+      "name": "AARAV JAIN",
+      "uid": "2210991113"
+    },
+    {
+      "name": "AARAV THAKRAN",
+      "uid": "2210991114"
+    },
+    {
+      "name": "AARCHI GOYAL",
+      "uid": "2210991115"
+    },
+    {
+      "name": "AARGYA SHARMA",
+      "uid": "2210991116"
+    },
+    {
+      "name": "AARUSH",
+      "uid": "2210991117"
+    },
+    {
+      "name": "AASHWIN GARG",
+      "uid": "2210991125"
+    },
+    {
+      "name": "AASTHA",
+      "uid": "2210991126"
+    },
+    {
+      "name": "AASTIK SHARMA",
+      "uid": "2210991132"
+    },
+    {
+      "name": "AAYUSH",
+      "uid": "2210991133"
+    },
+    {
+      "name": "AAYUSH SHARMA",
+      "uid": "2210991138"
+    },
+    {
+      "name": "ABHAY",
+      "uid": "2210991140"
+    },
+    {
+      "name": "ABHAY KATOCH",
+      "uid": "2210991144"
+    },
+    {
+      "name": "ABHAY KUMAR",
+      "uid": "2210991145"
+    },
+    {
+      "name": "ABHAY SINGH MANKOTIA",
+      "uid": "2210991148"
+    },
+    {
+      "name": "ABHIMA RATHOR",
+      "uid": "2210991151"
+    },
+    {
+      "name": "ABHINAV SHARMA",
+      "uid": "2210991155"
+    },
+    {
+      "name": "ABHINAV THAKUR",
+      "uid": "2210991156"
+    },
+    {
+      "name": "ABHISHEK",
+      "uid": "2210991158"
+    },
+    {
+      "name": "ABHISHEK BANSAL",
+      "uid": "2210991159"
+    },
+    {
+      "name": "ABHISHEK CHOUDHARY",
+      "uid": "2210991160"
+    },
+    {
+      "name": "ABHISHEK CHOUDHARY",
+      "uid": "2210991161"
+    },
+    {
+      "name": "ABHISHEK DUGGAL",
+      "uid": "2210991163"
+    },
+    {
+      "name": "ABHISHEK KACHHAP",
+      "uid": "2210991165"
+    },
+    {
+      "name": "ABHISHEK KUMAR",
+      "uid": "2210991166"
+    },
+    {
+      "name": "ABHISHEK KUMAR RAI",
+      "uid": "2210991169"
+    },
+    {
+      "name": "ABHISHEK PAL",
+      "uid": "2210991170"
+    },
+    {
+      "name": "ABHISHEK RAGHUVANSHI",
+      "uid": "2210991171"
+    },
+    {
+      "name": "ABU EZAAN ANJUM",
+      "uid": "2210991174"
+    },
+    {
+      "name": "ADAMYA GULERIA",
+      "uid": "2210991175"
+    },
+    {
+      "name": "ADARSH GAUR",
+      "uid": "2210991176"
+    },
+    {
+      "name": "ADARSH KUMAR GUPTA",
+      "uid": "2210991177"
+    },
+    {
+      "name": "ADARSH KUMAR PATHAK",
+      "uid": "2210991178"
+    },
+    {
+      "name": "ADITI",
+      "uid": "2210991180"
+    },
+    {
+      "name": "ADITI SINGH",
+      "uid": "2210991182"
+    },
+    {
+      "name": "ADITYA AGGARWAL",
+      "uid": "2210991184"
+    },
+    {
+      "name": "ADITYA BHARDWAJ",
+      "uid": "2210991186"
+    },
+    {
+      "name": "ADITYA CHAUHAN",
+      "uid": "2210991190"
+    },
+    {
+      "name": "ADITYA KAPILA",
+      "uid": "2210991193"
+    },
+    {
+      "name": "ADITYA PRATAP SINGH",
+      "uid": "2210991195"
+    },
+    {
+      "name": "ADITYA PUNDIR",
+      "uid": "2210991196"
+    },
+    {
+      "name": "ADITYA RAGHAV",
+      "uid": "2210991197"
+    },
+    {
+      "name": "ADITYA SHARMA",
+      "uid": "2210991198"
+    },
+    {
+      "name": "ADITYA SHARMA",
+      "uid": "2210991199"
+    },
+    {
+      "name": "ADITYA SHARMA",
+      "uid": "2210991200"
+    },
+    {
+      "name": "ADITYA SINGH SOLANKI",
+      "uid": "2210991201"
+    },
+    {
+      "name": "AGAM",
+      "uid": "2210991206"
+    },
+    {
+      "name": "AJAY KUMAR",
+      "uid": "2210991210"
+    },
+    {
+      "name": "AJAY RAJ",
+      "uid": "2210991211"
+    },
+    {
+      "name": "AKANKSHA CHOPRA",
+      "uid": "2210991212"
+    },
+    {
+      "name": "AKRITI",
+      "uid": "2210991220"
+    },
+    {
+      "name": "AKRITI SHARMA",
+      "uid": "2210991222"
+    },
+    {
+      "name": "AKSHAT VASHISHT",
+      "uid": "2210991229"
+    },
+    {
+      "name": "AKSHIT",
+      "uid": "2210991234"
+    },
+    {
+      "name": "ARYAN ANDORIA",
+      "uid": "2210991376"
+    },
+    {
+      "name": "ARYAN THAKUR",
+      "uid": "2210991392"
+    }
+  ],
+  "HP": [
+    {
+      "name": "AASHIMA DUTTA",
+      "uid": "2211981003"
+    },
+    {
+      "name": "AKANKSHA",
+      "uid": "2211981034"
+    },
+    {
+      "name": "AKSHAY KUMAR",
+      "uid": "2211981040"
+    },
+    {
+      "name": "ARYAN GULERIA",
+      "uid": "2211981103"
+    },
+    {
+      "name": "DIVYANSHI SHARMA",
+      "uid": "2211981149"
+    },
+    {
+      "name": "HIMANSHU PRASAD",
+      "uid": "2211981172"
+    },
+    {
+      "name": "MUKESH SARDIWAL",
+      "uid": "2211981230"
+    },
+    {
+      "name": "NISHANT RAJ",
+      "uid": "2211981252"
+    },
+    {
+      "name": "NITIN RANA",
+      "uid": "2211981255"
+    },
+    {
+      "name": "PALASH MANNA",
+      "uid": "2211981256"
+    },
+    {
+      "name": "RUPAM MANNA",
+      "uid": "2211981324"
+    },
+    {
+      "name": "SHIVANK SHARMA",
+      "uid": "2211981371"
+    },
+    {
+      "name": "SHIVANSH SOOD",
+      "uid": "2211981374"
+    },
+    {
+      "name": "SHUBHAM BHOWMIK",
+      "uid": "2211981383"
+    },
+    {
+      "name": "SHUBHAM THAKUR",
+      "uid": "2211981385"
+    },
+    {
+      "name": "SOMYA KHOKHAR",
+      "uid": "2211981395"
+    },
+    {
+      "name": "SOUMYAJIT BHATTACHARJEE",
+      "uid": "2211981400"
+    },
+    {
+      "name": "SOURAV KUMAR",
+      "uid": "2211981402"
+    },
+    {
+      "name": "SRIJAN KUMAR",
+      "uid": "2211981406"
+    },
+    {
+      "name": "TANU PRIYA",
+      "uid": "2211981433"
+    },
+    {
+      "name": "VISHAKHA GAUTAM",
+      "uid": "2211981460"
+    },
+    {
+      "name": "ANSHITA",
+      "uid": "2211985009"
+    },
+    {
+      "name": "LAKSHYA RINWA",
+      "uid": "2211985030"
+    },
+    {
+      "name": "YUGAL KAUSHAL",
+      "uid": "2211985059"
+    }
+  ],
+  "G17": [
+    {
+      "name": "AKSHAT KHOSLA",
+      "uid": "2210991226"
+    },
+    {
+      "name": "AKSHAT MITTAL",
+      "uid": "2210991228"
+    },
+    {
+      "name": "AKSHAY KUMAR SHARMA",
+      "uid": "2210991231"
+    },
+    {
+      "name": "AMRIT PAL SINGH",
+      "uid": "2210991255"
+    },
+    {
+      "name": "ANIRUDH JAMWAL",
+      "uid": "2210991267"
+    },
+    {
+      "name": "ANISH THAKUR",
+      "uid": "2210991272"
+    },
+    {
+      "name": "ANISH THAKUR",
+      "uid": "2210991273"
+    },
+    {
+      "name": "ANISHA SINGH",
+      "uid": "2210991274"
+    },
+    {
+      "name": "ANKIT",
+      "uid": "2210991276"
+    },
+    {
+      "name": "ANKIT GARG",
+      "uid": "2210991277"
+    },
+    {
+      "name": "ANKITA",
+      "uid": "2210991280"
+    },
+    {
+      "name": "ANKUR YADAV",
+      "uid": "2210991282"
+    },
+    {
+      "name": "ANMOL SINGH",
+      "uid": "2210991286"
+    },
+    {
+      "name": "ANRIKA",
+      "uid": "2210991287"
+    },
+    {
+      "name": "ANSH",
+      "uid": "2210991288"
+    },
+    {
+      "name": "ANSH ARORA",
+      "uid": "2210991290"
+    },
+    {
+      "name": "ANSH DABRA",
+      "uid": "2210991291"
+    },
+    {
+      "name": "ANSH DUVEDI",
+      "uid": "2210991292"
+    },
+    {
+      "name": "ANSH GARG",
+      "uid": "2210991293"
+    },
+    {
+      "name": "ANSH MARWAHA",
+      "uid": "2210991296"
+    },
+    {
+      "name": "ANSH SHUKLA",
+      "uid": "2210991300"
+    },
+    {
+      "name": "ANSHIKA",
+      "uid": "2210991303"
+    },
+    {
+      "name": "ANSHIKA SINGH",
+      "uid": "2210991305"
+    },
+    {
+      "name": "ANSHIKA THAKUR",
+      "uid": "2210991306"
+    },
+    {
+      "name": "ANSHUL GARG",
+      "uid": "2210991309"
+    },
+    {
+      "name": "ANSHUL JAMWAL",
+      "uid": "2210991310"
+    },
+    {
+      "name": "ANSHUL MISHRA",
+      "uid": "2210991311"
+    },
+    {
+      "name": "ANSHUMAN",
+      "uid": "2210991312"
+    },
+    {
+      "name": "ANUBHA KHANNA",
+      "uid": "2210991313"
+    },
+    {
+      "name": "ANUBHAV GARG",
+      "uid": "2210991314"
+    },
+    {
+      "name": "ANUJ ANAND",
+      "uid": "2210991315"
+    },
+    {
+      "name": "ANURAG",
+      "uid": "2210991319"
+    },
+    {
+      "name": "ANURAG KUMAR",
+      "uid": "2210991320"
+    },
+    {
+      "name": "ANURAG THAKUR",
+      "uid": "2210991321"
+    },
+    {
+      "name": "ANUSHKA",
+      "uid": "2210991322"
+    },
+    {
+      "name": "ANVI",
+      "uid": "2210991324"
+    },
+    {
+      "name": "ARADHANA",
+      "uid": "2210991330"
+    },
+    {
+      "name": "ARMAAN MEHLAWAT",
+      "uid": "2210991342"
+    },
+    {
+      "name": "ARMAN",
+      "uid": "2210991343"
+    },
+    {
+      "name": "ARMAN MAHAJAN",
+      "uid": "2210991344"
+    },
+    {
+      "name": "ARMAN THAKUR",
+      "uid": "2210991345"
+    },
+    {
+      "name": "ARNAV AGARWAL",
+      "uid": "2210991346"
+    },
+    {
+      "name": "ARNAV GARG",
+      "uid": "2210991348"
+    },
+    {
+      "name": "ARPIT KAUL",
+      "uid": "2210991355"
+    },
+    {
+      "name": "ARPIT MAHAJAN",
+      "uid": "2210991356"
+    },
+    {
+      "name": "ARPIT REKTA",
+      "uid": "2210991357"
+    },
+    {
+      "name": "ASHISH",
+      "uid": "2210991399"
+    },
+    {
+      "name": "ATUL SHARMA",
+      "uid": "2210991412"
+    },
+    {
+      "name": "AVINASH SINGH",
+      "uid": "2210991414"
+    },
+    {
+      "name": "AYUSH PALAD",
+      "uid": "2210991426"
+    },
+    {
+      "name": "AYUSH RAGHUVANSHI",
+      "uid": "2210991428"
+    },
+    {
+      "name": "AYUSH RANA",
+      "uid": "2210991429"
+    },
+    {
+      "name": "AYUSHMAN BANSAL",
+      "uid": "2210991431"
+    },
+    {
+      "name": "BAIBHAV KUMAR",
+      "uid": "2210991433"
+    },
+    {
+      "name": "BALBIR SINGH",
+      "uid": "2210991434"
+    },
+    {
+      "name": "ARMAAN ARORA",
+      "uid": "2210992577"
+    },
+    {
+      "name": "ANANYA MAHAJAN",
+      "uid": "2210991260"
+    }
+  ],
+  "G18": [
+    {
+      "name": "AKSHANT KUMAR",
+      "uid": "2210991223"
+    },
+    {
+      "name": "AKSHAT GUPTA",
+      "uid": "2210991225"
+    },
+    {
+      "name": "AKSHIT",
+      "uid": "2210991235"
+    },
+    {
+      "name": "AKSHIT GARG",
+      "uid": "2210991238"
+    },
+    {
+      "name": "AMAN",
+      "uid": "2210991243"
+    },
+    {
+      "name": "AMAN SHARMA",
+      "uid": "2210991248"
+    },
+    {
+      "name": "AMBER DHAMA",
+      "uid": "2210991251"
+    },
+    {
+      "name": "AMOL SHARMA",
+      "uid": "2210991254"
+    },
+    {
+      "name": "ANIKET GARG",
+      "uid": "2210991264"
+    },
+    {
+      "name": "ARYAN",
+      "uid": "2210991375"
+    },
+    {
+      "name": "ARYAN RATHOR",
+      "uid": "2210991385"
+    },
+    {
+      "name": "ARYAN TIWARI",
+      "uid": "2210991393"
+    },
+    {
+      "name": "ASHMEET MONGA",
+      "uid": "2210991406"
+    },
+    {
+      "name": "AYUSH GARG",
+      "uid": "2210991423"
+    },
+    {
+      "name": "BALJEET SINGH",
+      "uid": "2210991435"
+    },
+    {
+      "name": "BHOOMI DUA",
+      "uid": "2210991445"
+    },
+    {
+      "name": "BHUPESH RELAN",
+      "uid": "2210991447"
+    },
+    {
+      "name": "BHUVESH MITTAL",
+      "uid": "2210991450"
+    },
+    {
+      "name": "CHAITANYA CHADHA",
+      "uid": "2210991451"
+    },
+    {
+      "name": "CHANDER KANT",
+      "uid": "2210991455"
+    },
+    {
+      "name": "CHETAN GOYAL",
+      "uid": "2210991457"
+    },
+    {
+      "name": "CHETAN KUMAR",
+      "uid": "2210991458"
+    },
+    {
+      "name": "CHIRAG",
+      "uid": "2210991461"
+    },
+    {
+      "name": "CHIRAG",
+      "uid": "2210991463"
+    },
+    {
+      "name": "CHIRAG MITTAL",
+      "uid": "2210991465"
+    },
+    {
+      "name": "CHIRAG SINGLA",
+      "uid": "2210991466"
+    },
+    {
+      "name": "DAKSH",
+      "uid": "2210991470"
+    },
+    {
+      "name": "DAKSH GUPTA",
+      "uid": "2210991472"
+    },
+    {
+      "name": "DAKSH JASROTIA",
+      "uid": "2210991473"
+    },
+    {
+      "name": "DAKSH RANA",
+      "uid": "2210991475"
+    },
+    {
+      "name": "DEEPAK",
+      "uid": "2210991479"
+    },
+    {
+      "name": "DEEPAK CHANDEL",
+      "uid": "2210991481"
+    },
+    {
+      "name": "DEEPIKA",
+      "uid": "2210991485"
+    },
+    {
+      "name": "DEV MIGLANI",
+      "uid": "2210991488"
+    },
+    {
+      "name": "DEVANSH",
+      "uid": "2210991490"
+    },
+    {
+      "name": "DEVANSH ANTHAL",
+      "uid": "2210991491"
+    },
+    {
+      "name": "DEVANSHU KANSAL",
+      "uid": "2210991497"
+    },
+    {
+      "name": "DEVARSH UPADHYAY",
+      "uid": "2210991498"
+    },
+    {
+      "name": "DEVASHISH YADAV",
+      "uid": "2210991500"
+    },
+    {
+      "name": "DEVESH KANWAR",
+      "uid": "2210991501"
+    },
+    {
+      "name": "DHRUV CHOUDHARY",
+      "uid": "2210991504"
+    },
+    {
+      "name": "DHRUV GARG",
+      "uid": "2210991505"
+    },
+    {
+      "name": "DIGANTA MITRA",
+      "uid": "2210991514"
+    },
+    {
+      "name": "DISHA GOYAL",
+      "uid": "2210991521"
+    },
+    {
+      "name": "DISHANT BHASIN",
+      "uid": "2210991524"
+    },
+    {
+      "name": "DISHANT JARYAL",
+      "uid": "2210991525"
+    },
+    {
+      "name": "DIVAM SINGH",
+      "uid": "2210991526"
+    },
+    {
+      "name": "DIVESH SAINI",
+      "uid": "2210991527"
+    },
+    {
+      "name": "DIVIL THAKUR",
+      "uid": "2210991529"
+    },
+    {
+      "name": "DIVYA",
+      "uid": "2210991530"
+    },
+    {
+      "name": "DIVYAM MEHTA",
+      "uid": "2210991534"
+    },
+    {
+      "name": "DIVYESH THAKUR",
+      "uid": "2210991539"
+    },
+    {
+      "name": "DAKSH AGGARWAL",
+      "uid": "2210992580"
+    },
+    {
+      "name": "DIVYA SHARMA",
+      "uid": "2210992581"
+    }
+  ],
+  "G19": [
+    {
+      "name": "Divyam Garg",
+      "uid": "2210931004"
+    },
+    {
+      "name": "AADITYA THAKUR",
+      "uid": "2210991106"
+    },
+    {
+      "name": "AARYAN KUMAR GOYAL",
+      "uid": "2210991120"
+    },
+    {
+      "name": "ARYAN",
+      "uid": "2210991373"
+    },
+    {
+      "name": "ARYAN CHHABRA",
+      "uid": "2210991377"
+    },
+    {
+      "name": "ASHI SRIVASTAVA",
+      "uid": "2210991396"
+    },
+    {
+      "name": "ASHIMA",
+      "uid": "2210991398"
+    },
+    {
+      "name": "DHEERAJ KUMAR SHARMA",
+      "uid": "2210991503"
+    },
+    {
+      "name": "DHUN",
+      "uid": "2210991513"
+    },
+    {
+      "name": "DIXIT SHARMA",
+      "uid": "2210991541"
+    },
+    {
+      "name": "DIYA GUPTA",
+      "uid": "2210991545"
+    },
+    {
+      "name": "DIYA SAINI",
+      "uid": "2210991547"
+    },
+    {
+      "name": "DRISHTI MONGA",
+      "uid": "2210991550"
+    },
+    {
+      "name": "EKTA",
+      "uid": "2210991554"
+    },
+    {
+      "name": "GAGAN",
+      "uid": "2210991557"
+    },
+    {
+      "name": "GARIMA",
+      "uid": "2210991561"
+    },
+    {
+      "name": "GARIMA",
+      "uid": "2210991563"
+    },
+    {
+      "name": "GARV TAYAL",
+      "uid": "2210991564"
+    },
+    {
+      "name": "GARVIT GOYAL",
+      "uid": "2210991565"
+    },
+    {
+      "name": "GAURANG SHARMA",
+      "uid": "2210991569"
+    },
+    {
+      "name": "GEETIKA",
+      "uid": "2210991581"
+    },
+    {
+      "name": "GOURAV GOYAL",
+      "uid": "2210991584"
+    },
+    {
+      "name": "GOURVI SHARMA",
+      "uid": "2210991585"
+    },
+    {
+      "name": "GUNN",
+      "uid": "2210991591"
+    },
+    {
+      "name": "GUNNIDHI",
+      "uid": "2210991592"
+    },
+    {
+      "name": "JASHAN",
+      "uid": "2210991697"
+    },
+    {
+      "name": "JASHANDEEP SINGH SANDHU",
+      "uid": "2210991699"
+    },
+    {
+      "name": "JASKIRAT KAUR",
+      "uid": "2210991701"
+    },
+    {
+      "name": "JASNOOR KAUR",
+      "uid": "2210991704"
+    },
+    {
+      "name": "JASSIKA",
+      "uid": "2210991705"
+    },
+    {
+      "name": "JATIN AHUJA",
+      "uid": "2210991706"
+    },
+    {
+      "name": "JATIN BANSAL",
+      "uid": "2210991707"
+    },
+    {
+      "name": "JATIN DHINGRA",
+      "uid": "2210991708"
+    },
+    {
+      "name": "JATIN KANSAL",
+      "uid": "2210991710"
+    },
+    {
+      "name": "JATIN SHARMA",
+      "uid": "2210991714"
+    },
+    {
+      "name": "JATIN SINGH",
+      "uid": "2210991715"
+    },
+    {
+      "name": "JATIN SINGH DADWAL",
+      "uid": "2210991716"
+    },
+    {
+      "name": "JATINPAL SINGH",
+      "uid": "2210991717"
+    },
+    {
+      "name": "JAY SHREE PATEL",
+      "uid": "2210991718"
+    },
+    {
+      "name": "JITESH BARWAL",
+      "uid": "2210991721"
+    },
+    {
+      "name": "JIYA JAIN",
+      "uid": "2210991723"
+    },
+    {
+      "name": "JOBANPREET SINGH",
+      "uid": "2210991725"
+    },
+    {
+      "name": "K R SATISH",
+      "uid": "2210991727"
+    },
+    {
+      "name": "KANHAIYA SAINI",
+      "uid": "2210991734"
+    },
+    {
+      "name": "KANIKA GUPTA",
+      "uid": "2210991736"
+    },
+    {
+      "name": "KANISHKA GUPTA",
+      "uid": "2210991740"
+    },
+    {
+      "name": "KANISKA MAITY",
+      "uid": "2210991741"
+    },
+    {
+      "name": "KANNAN ROOPRAI",
+      "uid": "2210991742"
+    },
+    {
+      "name": "KANUSHI GUPTA",
+      "uid": "2210991743"
+    },
+    {
+      "name": "KAPIL",
+      "uid": "2210991744"
+    },
+    {
+      "name": "KAPIL",
+      "uid": "2210991745"
+    },
+    {
+      "name": "KARAN",
+      "uid": "2210991748"
+    },
+    {
+      "name": "KARAN ARORA",
+      "uid": "2210991749"
+    },
+    {
+      "name": "JATIN",
+      "uid": "2210992583"
+    }
+  ],
+  "G20": [
+    {
+      "name": "AKASHDEEP SINGLA",
+      "uid": "2210991215"
+    },
+    {
+      "name": "AKHIL ACHARYA",
+      "uid": "2210991216"
+    },
+    {
+      "name": "AKHIL KUMAR",
+      "uid": "2210991218"
+    },
+    {
+      "name": "AKSHAT WAHI",
+      "uid": "2210991230"
+    },
+    {
+      "name": "AKSHIT",
+      "uid": "2210991236"
+    },
+    {
+      "name": "ALISHA",
+      "uid": "2210991241"
+    },
+    {
+      "name": "AMAN GUPTA",
+      "uid": "2210991244"
+    },
+    {
+      "name": "AMAN SHARMA",
+      "uid": "2210991249"
+    },
+    {
+      "name": "ARYAN GIRDHAR",
+      "uid": "2210991379"
+    },
+    {
+      "name": "ARYAN GUPTA",
+      "uid": "2210991380"
+    },
+    {
+      "name": "ARYAN SURI",
+      "uid": "2210991390"
+    },
+    {
+      "name": "ARYAN THAKUR",
+      "uid": "2210991391"
+    },
+    {
+      "name": "AVAM KANSAL",
+      "uid": "2210991413"
+    },
+    {
+      "name": "AYUSH BATRA",
+      "uid": "2210991420"
+    },
+    {
+      "name": "AYUSH GUPTA",
+      "uid": "2210991424"
+    },
+    {
+      "name": "DILPREET SINGH",
+      "uid": "2210991516"
+    },
+    {
+      "name": "GAURI KUMARI",
+      "uid": "2210991575"
+    },
+    {
+      "name": "GURKUNWAR SINGH",
+      "uid": "2210991595"
+    },
+    {
+      "name": "GURSEERAT SINGH",
+      "uid": "2210991598"
+    },
+    {
+      "name": "GURSEWAK SINGH",
+      "uid": "2210991600"
+    },
+    {
+      "name": "GURVEER SINGH",
+      "uid": "2210991602"
+    },
+    {
+      "name": "HANISH BANSAL",
+      "uid": "2210991603"
+    },
+    {
+      "name": "HARDIK BAJAJ",
+      "uid": "2210991606"
+    },
+    {
+      "name": "HARDIL",
+      "uid": "2210991608"
+    },
+    {
+      "name": "HARIOM TIWARI",
+      "uid": "2210991609"
+    },
+    {
+      "name": "HARNEET ATWAL",
+      "uid": "2210991611"
+    },
+    {
+      "name": "HARSH BANSAL",
+      "uid": "2210991615"
+    },
+    {
+      "name": "HARSH CHOKRIWAL",
+      "uid": "2210991617"
+    },
+    {
+      "name": "HARSH GOYAL",
+      "uid": "2210991618"
+    },
+    {
+      "name": "HARSH KUMAR SAHU",
+      "uid": "2210991620"
+    },
+    {
+      "name": "HARSH KUMAR SINGH",
+      "uid": "2210991621"
+    },
+    {
+      "name": "HARSH RAJ",
+      "uid": "2210991623"
+    },
+    {
+      "name": "HARSH SHARMA",
+      "uid": "2210991624"
+    },
+    {
+      "name": "HARSH VARDHAN JASROTIA",
+      "uid": "2210991626"
+    },
+    {
+      "name": "HARSH VARDHAN SINGH",
+      "uid": "2210991627"
+    },
+    {
+      "name": "HARSH VIG",
+      "uid": "2210991628"
+    },
+    {
+      "name": "HARSHDEEP SINGH",
+      "uid": "2210991630"
+    },
+    {
+      "name": "HARSHIL SINGH SODHI",
+      "uid": "2210991631"
+    },
+    {
+      "name": "HARSHIT",
+      "uid": "2210991632"
+    },
+    {
+      "name": "HARSHIT",
+      "uid": "2210991633"
+    },
+    {
+      "name": "HARSHIT BAGGA",
+      "uid": "2210991634"
+    },
+    {
+      "name": "HARSHIT KUMAR",
+      "uid": "2210991635"
+    },
+    {
+      "name": "HARSHIT RANA",
+      "uid": "2210991639"
+    },
+    {
+      "name": "HARSHIT SHARMA",
+      "uid": "2210991640"
+    },
+    {
+      "name": "HARSHITA LAKHANPAL",
+      "uid": "2210991644"
+    },
+    {
+      "name": "HARSHWARDHAN SINGH THAKUR",
+      "uid": "2210991648"
+    },
+    {
+      "name": "HEMANGI BATRA",
+      "uid": "2210991650"
+    },
+    {
+      "name": "HEMANT SHARMA",
+      "uid": "2210991651"
+    },
+    {
+      "name": "HIMANSHI",
+      "uid": "2210991654"
+    },
+    {
+      "name": "HIMANSHI",
+      "uid": "2210991655"
+    },
+    {
+      "name": "HIMANSHU BANSAL",
+      "uid": "2210991658"
+    },
+    {
+      "name": "HIMANSHU JOSHI",
+      "uid": "2210991660"
+    },
+    {
+      "name": "HIMANSHU KUMAR TIWARI",
+      "uid": "2210991662"
+    },
+    {
+      "name": "HIMANSHU RANA",
+      "uid": "2210991665"
+    },
+    {
+      "name": "HITAISHI",
+      "uid": "2210991666"
+    },
+    {
+      "name": "HITAKSHI GHAI",
+      "uid": "2210991667"
+    },
+    {
+      "name": "HITANSHI",
+      "uid": "2210991668"
+    },
+    {
+      "name": "HITESH SAINI",
+      "uid": "2210991670"
+    },
+    {
+      "name": "ISHA JAIN",
+      "uid": "2210991678"
+    },
+    {
+      "name": "KARTIK",
+      "uid": "2210991752"
+    },
+    {
+      "name": "KARTIK",
+      "uid": "2210991754"
+    },
+    {
+      "name": "KARTIK KATWAL",
+      "uid": "2210991755"
+    },
+    {
+      "name": "KARTIK KAUSHAL",
+      "uid": "2210991756"
+    },
+    {
+      "name": "KARTIK KUMAR",
+      "uid": "2210991757"
+    },
+    {
+      "name": "KARTIK SHARMA",
+      "uid": "2210991759"
+    },
+    {
+      "name": "Nandini Jindal",
+      "uid": "2210992586"
+    },
+    {
+      "name": "DIYA",
+      "uid": "2210991543"
+    }
+  ],
+  "G22": [
+    {
+      "name": "ARPITA RANA",
+      "uid": "2210991359"
+    },
+    {
+      "name": "ARSH THAKUR",
+      "uid": "2210991362"
+    },
+    {
+      "name": "ARSH VERMA",
+      "uid": "2210991363"
+    },
+    {
+      "name": "ARSHDEEP",
+      "uid": "2210991364"
+    },
+    {
+      "name": "ARSHDEEP SINGH",
+      "uid": "2210991366"
+    },
+    {
+      "name": "ARSHIKA",
+      "uid": "2210991369"
+    },
+    {
+      "name": "GURPREET KAUR",
+      "uid": "2210991597"
+    },
+    {
+      "name": "ISHAN SHARMA",
+      "uid": "2210991684"
+    },
+    {
+      "name": "ISHANESH SRIVASTAVA",
+      "uid": "2210991685"
+    },
+    {
+      "name": "ISHIKA",
+      "uid": "2210991686"
+    },
+    {
+      "name": "ISHIKA",
+      "uid": "2210991687"
+    },
+    {
+      "name": "ISHIKA",
+      "uid": "2210991688"
+    },
+    {
+      "name": "ISHIKA GOEL",
+      "uid": "2210991690"
+    },
+    {
+      "name": "ISHNEET KAUR",
+      "uid": "2210991691"
+    },
+    {
+      "name": "JATIN KUMAR",
+      "uid": "2210991712"
+    },
+    {
+      "name": "KANIKA",
+      "uid": "2210991735"
+    },
+    {
+      "name": "Kavay",
+      "uid": "2210991772"
+    },
+    {
+      "name": "MANDEEP KAUR WALIA",
+      "uid": "2210991879"
+    },
+    {
+      "name": "MIMANSA",
+      "uid": "2210991926"
+    },
+    {
+      "name": "NAINA",
+      "uid": "2210991949"
+    },
+    {
+      "name": "NANDINI KAUSHIK",
+      "uid": "2210991958"
+    },
+    {
+      "name": "NIMISH SHARMA",
+      "uid": "2210991986"
+    },
+    {
+      "name": "NISHIT RANJAN",
+      "uid": "2210991991"
+    },
+    {
+      "name": "NUTAN BORA",
+      "uid": "2210992005"
+    },
+    {
+      "name": "PARTH KAUSHAL",
+      "uid": "2210992030"
+    },
+    {
+      "name": "PARUL",
+      "uid": "2210992033"
+    },
+    {
+      "name": "PRABHAT KUMAR",
+      "uid": "2210992048"
+    },
+    {
+      "name": "PRABHDEEP SINGH BHATIA",
+      "uid": "2210992050"
+    },
+    {
+      "name": "PRABHJEET KAUR",
+      "uid": "2210992051"
+    },
+    {
+      "name": "PRAJWAL",
+      "uid": "2210992057"
+    },
+    {
+      "name": "PRATHAM MIDHA",
+      "uid": "2210992076"
+    },
+    {
+      "name": "PRINCE",
+      "uid": "2210992088"
+    },
+    {
+      "name": "PRINCE KUMAR",
+      "uid": "2210992090"
+    },
+    {
+      "name": "PRINCE THAKUR",
+      "uid": "2210992092"
+    },
+    {
+      "name": "SACHIDANAND GUPTA",
+      "uid": "2210992202"
+    },
+    {
+      "name": "SACHIN KUMAR",
+      "uid": "2210992204"
+    },
+    {
+      "name": "SAHIL",
+      "uid": "2210992208"
+    },
+    {
+      "name": "SAHIL",
+      "uid": "2210992211"
+    },
+    {
+      "name": "SAHIL SAHARAN",
+      "uid": "2210992213"
+    },
+    {
+      "name": "SAHIL SINGH RANOUT",
+      "uid": "2210992214"
+    },
+    {
+      "name": "SAI KRISHNA",
+      "uid": "2210992215"
+    },
+    {
+      "name": "SAIKAT HAZRA",
+      "uid": "2210992216"
+    },
+    {
+      "name": "SAKET BANSAL",
+      "uid": "2210992217"
+    },
+    {
+      "name": "SAKSHAM",
+      "uid": "2210992218"
+    },
+    {
+      "name": "SAKSHAM CHHABRA",
+      "uid": "2210992219"
+    },
+    {
+      "name": "SAKSHAM DUTTA",
+      "uid": "2210992220"
+    },
+    {
+      "name": "SAKSHAM GARG",
+      "uid": "2210992221"
+    },
+    {
+      "name": "SAKSHAM GUPTA",
+      "uid": "2210992222"
+    },
+    {
+      "name": "SALONI",
+      "uid": "2210992231"
+    },
+    {
+      "name": "SALONI KUMARI",
+      "uid": "2210992232"
+    },
+    {
+      "name": "SAMAR",
+      "uid": "2210992233"
+    },
+    {
+      "name": "SAMAR SATNAM SINGH",
+      "uid": "2210992234"
+    },
+    {
+      "name": "SAMARPIT SHARMA",
+      "uid": "2210992235"
+    },
+    {
+      "name": "SAMIKSHA SINGH",
+      "uid": "2210992238"
+    },
+    {
+      "name": "SAMREEN KAUR",
+      "uid": "2210992240"
+    },
+    {
+      "name": "SAMRIDHI SACHDEVA",
+      "uid": "2210992243"
+    },
+    {
+      "name": "SAMRIDHI SHARMA",
+      "uid": "2210992244"
+    },
+    {
+      "name": "SANISTH TARA",
+      "uid": "2210992247"
+    },
+    {
+      "name": "SANJAL JAIN",
+      "uid": "2210992248"
+    },
+    {
+      "name": "SANSKAR SAHOO",
+      "uid": "2210992251"
+    },
+    {
+      "name": "SANSKRITI",
+      "uid": "2210992252"
+    },
+    {
+      "name": "SANYA",
+      "uid": "2210992255"
+    },
+    {
+      "name": "SARBRAJ SINGH",
+      "uid": "2210992258"
+    },
+    {
+      "name": "ISHAAN SINGLA",
+      "uid": "2210992582"
+    },
+    {
+      "name": "SAMBHAV GUPTA",
+      "uid": "2210992236"
+    }
+  ],
+  "G23": [
+    {
+      "name": "NIKHIL VERMA",
+      "uid": "2210991983"
+    },
+    {
+      "name": "NIKUNJ SINGLA",
+      "uid": "2210991985"
+    },
+    {
+      "name": "NITIN",
+      "uid": "2210991997"
+    },
+    {
+      "name": "PALAK",
+      "uid": "2210992012"
+    },
+    {
+      "name": "PARAMVEER SINGH UDAWAT",
+      "uid": "2210992019"
+    },
+    {
+      "name": "PARAS AGGARWAL",
+      "uid": "2210992020"
+    },
+    {
+      "name": "PARTHA PRATIM TAMULY",
+      "uid": "2210992031"
+    },
+    {
+      "name": "PIYUSH ARORA",
+      "uid": "2210992040"
+    },
+    {
+      "name": "PIYUSH BHARDWAJ",
+      "uid": "2210992041"
+    },
+    {
+      "name": "PIYUSH GAUR",
+      "uid": "2210992042"
+    },
+    {
+      "name": "PRANAV BANSAL",
+      "uid": "2210992061"
+    },
+    {
+      "name": "PRANIT",
+      "uid": "2210992063"
+    },
+    {
+      "name": "PRANJAL",
+      "uid": "2210992064"
+    },
+    {
+      "name": "PRASHANT SHEORAN",
+      "uid": "2210992070"
+    },
+    {
+      "name": "PRATHAM BAJAJ",
+      "uid": "2210992072"
+    },
+    {
+      "name": "PRATYUSH KUMAR",
+      "uid": "2210992082"
+    },
+    {
+      "name": "PRIYA SINGLA",
+      "uid": "2210992097"
+    },
+    {
+      "name": "PRIYANK MAHAJAN",
+      "uid": "2210992099"
+    },
+    {
+      "name": "PRIYANSH",
+      "uid": "2210992100"
+    },
+    {
+      "name": "PRIYANSHU KUMAR",
+      "uid": "2210992103"
+    },
+    {
+      "name": "PULKIT GARG",
+      "uid": "2210992104"
+    },
+    {
+      "name": "PULKIT VERMA",
+      "uid": "2210992105"
+    },
+    {
+      "name": "PUNISTHA",
+      "uid": "2210992106"
+    },
+    {
+      "name": "RACHIT JOSHI",
+      "uid": "2210992111"
+    },
+    {
+      "name": "RADHIKA SHARMA",
+      "uid": "2210992113"
+    },
+    {
+      "name": "RAGHAV BHATIA",
+      "uid": "2210992118"
+    },
+    {
+      "name": "RAGHAV MEHTA",
+      "uid": "2210992120"
+    },
+    {
+      "name": "RAGHAV SAROCHAYA",
+      "uid": "2210992122"
+    },
+    {
+      "name": "RAHUL",
+      "uid": "2210992126"
+    },
+    {
+      "name": "RAHUL DOGRA",
+      "uid": "2210992128"
+    },
+    {
+      "name": "RAJAT CHAUHAN",
+      "uid": "2210992131"
+    },
+    {
+      "name": "RAJAT SINGH",
+      "uid": "2210992132"
+    },
+    {
+      "name": "RAJVEER SHAKTAWAT",
+      "uid": "2210992133"
+    },
+    {
+      "name": "RAKSHIT KAMBOJ",
+      "uid": "2210992134"
+    },
+    {
+      "name": "RAKSHITA",
+      "uid": "2210992136"
+    },
+    {
+      "name": "RAO FAEEZ",
+      "uid": "2210992138"
+    },
+    {
+      "name": "RASHIKA ANAND",
+      "uid": "2210992139"
+    },
+    {
+      "name": "RAVANT DHIR",
+      "uid": "2210992141"
+    },
+    {
+      "name": "RAVINDER GILL",
+      "uid": "2210992143"
+    },
+    {
+      "name": "REHAAN OMKAR",
+      "uid": "2210992145"
+    },
+    {
+      "name": "RHYTHM GOYAL",
+      "uid": "2210992147"
+    },
+    {
+      "name": "RICHA",
+      "uid": "2210992150"
+    },
+    {
+      "name": "RIDHIMA",
+      "uid": "2210992151"
+    },
+    {
+      "name": "RISHABH AHUJA",
+      "uid": "2210992153"
+    },
+    {
+      "name": "RISHABHDEV",
+      "uid": "2210992156"
+    },
+    {
+      "name": "RISHAM GOYAL",
+      "uid": "2210992157"
+    },
+    {
+      "name": "RISHANT SINGH",
+      "uid": "2210992158"
+    },
+    {
+      "name": "RISHAV",
+      "uid": "2210992159"
+    },
+    {
+      "name": "RISHI RAGHAV SINGH",
+      "uid": "2210992162"
+    },
+    {
+      "name": "RISHIKA",
+      "uid": "2210992164"
+    },
+    {
+      "name": "RITIKA GOYAL",
+      "uid": "2210992168"
+    },
+    {
+      "name": "RIYA GUPTA",
+      "uid": "2210992171"
+    },
+    {
+      "name": "RIYA MANGAR",
+      "uid": "2210992172"
+    },
+    {
+      "name": "RIYA RAJ",
+      "uid": "2210992173"
+    },
+    {
+      "name": "RIYA SINGH",
+      "uid": "2210992174"
+    },
+    {
+      "name": "ROHAN SINGH",
+      "uid": "2210992176"
+    },
+    {
+      "name": "ROHIT KUMAR",
+      "uid": "2210992177"
+    },
+    {
+      "name": "ROHIT KUMAR SINGH",
+      "uid": "2210992178"
+    },
+    {
+      "name": "ROHIT MAHAJAN",
+      "uid": "2210992179"
+    },
+    {
+      "name": "ROHIT THAKUR",
+      "uid": "2210992180"
+    },
+    {
+      "name": "ROMANI GUPTA",
+      "uid": "2210992181"
+    },
+    {
+      "name": "ROMIT GHOSH",
+      "uid": "2210992182"
+    },
+    {
+      "name": "RONIT SACHDEVA",
+      "uid": "2210992184"
+    },
+    {
+      "name": "RONIT SHARMA",
+      "uid": "2210992185"
+    },
+    {
+      "name": "RONIT THAKUR",
+      "uid": "2210992186"
+    },
+    {
+      "name": "RUBEZ SINGLA",
+      "uid": "2210992188"
+    },
+    {
+      "name": "RUDRA NARAYAN BISWAL",
+      "uid": "2210992191"
+    },
+    {
+      "name": "RUDRAKSH TAYA",
+      "uid": "2210992192"
+    },
+    {
+      "name": "RUHANI",
+      "uid": "2210992194"
+    },
+    {
+      "name": "RUPIKA MANGAL",
+      "uid": "2210992195"
+    },
+    {
+      "name": "RUSHNEET KAUR",
+      "uid": "2210992196"
+    },
+    {
+      "name": "S. JASPREET SINGH KADA",
+      "uid": "2210992198"
+    }
+  ],
+  "G24": [
+    {
+      "name": "KAVYA SHARMA",
+      "uid": "2210990500"
+    },
+    {
+      "name": "KARTIKAY SINGH MANHAS",
+      "uid": "2210991761"
+    },
+    {
+      "name": "KASHISH",
+      "uid": "2210991764"
+    },
+    {
+      "name": "KASHISH",
+      "uid": "2210991765"
+    },
+    {
+      "name": "KASHISH GUPTA",
+      "uid": "2210991768"
+    },
+    {
+      "name": "KASHISH SHARMA",
+      "uid": "2210991770"
+    },
+    {
+      "name": "KAUSHAKI JHA",
+      "uid": "2210991771"
+    },
+    {
+      "name": "KAVITA JORA",
+      "uid": "2210991773"
+    },
+    {
+      "name": "KAVYA",
+      "uid": "2210991775"
+    },
+    {
+      "name": "KAVYA MITTAL",
+      "uid": "2210991778"
+    },
+    {
+      "name": "KESAR KUMARI",
+      "uid": "2210991780"
+    },
+    {
+      "name": "KESHAV MITTAL",
+      "uid": "2210991784"
+    },
+    {
+      "name": "KESHAV SHARMA",
+      "uid": "2210991785"
+    },
+    {
+      "name": "KESHAV SINGLA",
+      "uid": "2210991786"
+    },
+    {
+      "name": "KESHAV YOGI",
+      "uid": "2210991788"
+    },
+    {
+      "name": "KETAN MODGIL",
+      "uid": "2210991790"
+    },
+    {
+      "name": "KHUSHI",
+      "uid": "2210991793"
+    },
+    {
+      "name": "KHUSHI",
+      "uid": "2210991795"
+    },
+    {
+      "name": "KHUSHI",
+      "uid": "2210991796"
+    },
+    {
+      "name": "KHUSHI",
+      "uid": "2210991798"
+    },
+    {
+      "name": "KHUSHI AGARWAL",
+      "uid": "2210991799"
+    },
+    {
+      "name": "KHUSHPREET KAUR",
+      "uid": "2210991801"
+    },
+    {
+      "name": "KOUSTAV MANNA",
+      "uid": "2210991807"
+    },
+    {
+      "name": "KRISH BAJAJ",
+      "uid": "2210991808"
+    },
+    {
+      "name": "KRISHNA",
+      "uid": "2210991809"
+    },
+    {
+      "name": "KRISHNA KAPIL",
+      "uid": "2210991812"
+    },
+    {
+      "name": "KRISHNA KHANDELWAL",
+      "uid": "2210991813"
+    },
+    {
+      "name": "KRISHNA RAJ MITRA",
+      "uid": "2210991816"
+    },
+    {
+      "name": "KRISHNANSHU RATHOR",
+      "uid": "2210991818"
+    },
+    {
+      "name": "KSHITIJ BHARDWAJ",
+      "uid": "2210991819"
+    },
+    {
+      "name": "KUMAR GARG",
+      "uid": "2210991820"
+    },
+    {
+      "name": "KUMAR GAURAV",
+      "uid": "2210991821"
+    },
+    {
+      "name": "KUMAR KUNDAN",
+      "uid": "2210991822"
+    },
+    {
+      "name": "KUNAL SHARMA",
+      "uid": "2210991826"
+    },
+    {
+      "name": "KUNDAN TAMSOY",
+      "uid": "2210991827"
+    },
+    {
+      "name": "KUSHAL",
+      "uid": "2210991834"
+    },
+    {
+      "name": "LAKSHAY",
+      "uid": "2210991838"
+    },
+    {
+      "name": "LAKSHAY",
+      "uid": "2210991839"
+    },
+    {
+      "name": "LAKSHAY KUMAR",
+      "uid": "2210991841"
+    },
+    {
+      "name": "LAKSHAY MITTAL",
+      "uid": "2210991842"
+    },
+    {
+      "name": "LAKSHEY ASIJA",
+      "uid": "2210991843"
+    },
+    {
+      "name": "LAKSHYA PURI",
+      "uid": "2210991845"
+    },
+    {
+      "name": "LALIT JINDAL",
+      "uid": "2210991847"
+    },
+    {
+      "name": "LATIKA BANSAL",
+      "uid": "2210991849"
+    },
+    {
+      "name": "LAVISH PATYAL",
+      "uid": "2210991851"
+    },
+    {
+      "name": "LIZA",
+      "uid": "2210991853"
+    },
+    {
+      "name": "LLYWELLYN SANA THAOROIJAM",
+      "uid": "2210991854"
+    },
+    {
+      "name": "LOKESH",
+      "uid": "2210991855"
+    },
+    {
+      "name": "LOVISH BHATEJA",
+      "uid": "2210991857"
+    },
+    {
+      "name": "LOVISH GARG",
+      "uid": "2210991858"
+    },
+    {
+      "name": "LOVISHA GOYAL",
+      "uid": "2210991859"
+    },
+    {
+      "name": "MADHAV",
+      "uid": "2210991862"
+    },
+    {
+      "name": "MADHAV GARG",
+      "uid": "2210991863"
+    },
+    {
+      "name": "NISCHAY BAREJA",
+      "uid": "2210991987"
+    },
+    {
+      "name": "NISHTHA",
+      "uid": "2210991992"
+    },
+    {
+      "name": "NITIN CHOUDHARY",
+      "uid": "2210991999"
+    },
+    {
+      "name": "NITIN GOYAL",
+      "uid": "2210992000"
+    },
+    {
+      "name": "NITIN KUMAR",
+      "uid": "2210992001"
+    },
+    {
+      "name": "OCEAN KAJAL",
+      "uid": "2210992006"
+    },
+    {
+      "name": "OMIL GOEL",
+      "uid": "2210992007"
+    },
+    {
+      "name": "PIYUSH GOYAL",
+      "uid": "2210992044"
+    },
+    {
+      "name": "PRERANA THAKUR",
+      "uid": "2210992085"
+    },
+    {
+      "name": "PRIKSHIT KHURANA",
+      "uid": "2210992087"
+    },
+    {
+      "name": "PRINCE KUMAR",
+      "uid": "2210992091"
+    },
+    {
+      "name": "SAARTHAK TANEJA",
+      "uid": "2210992201"
+    },
+    {
+      "name": "KRISHNA GUPTA",
+      "uid": "2210991811"
+    }
+  ],
+  "G25": [
+    {
+      "name": "Rajat",
+      "uid": "2210931013"
+    },
+    {
+      "name": "MAHIT KUMAR",
+      "uid": "2210991866"
+    },
+    {
+      "name": "MANAN",
+      "uid": "2210991868"
+    },
+    {
+      "name": "MANAN JINDAL",
+      "uid": "2210991871"
+    },
+    {
+      "name": "MANAV",
+      "uid": "2210991877"
+    },
+    {
+      "name": "MANISH",
+      "uid": "2210991881"
+    },
+    {
+      "name": "MANKIRAT KAUR",
+      "uid": "2210991884"
+    },
+    {
+      "name": "MANN KASHYAP",
+      "uid": "2210991885"
+    },
+    {
+      "name": "MANNAN PURI",
+      "uid": "2210991886"
+    },
+    {
+      "name": "MANNAT PAL",
+      "uid": "2210991888"
+    },
+    {
+      "name": "MANPREET SINGH",
+      "uid": "2210991889"
+    },
+    {
+      "name": "MANSI GARG",
+      "uid": "2210991892"
+    },
+    {
+      "name": "MANSI SINGH",
+      "uid": "2210991893"
+    },
+    {
+      "name": "MANTHAN GUPTA",
+      "uid": "2210991894"
+    },
+    {
+      "name": "MANU GARG",
+      "uid": "2210991895"
+    },
+    {
+      "name": "MANYA BAJAJ",
+      "uid": "2210991897"
+    },
+    {
+      "name": "MANYA DHAND",
+      "uid": "2210991899"
+    },
+    {
+      "name": "MANYA SHARMA",
+      "uid": "2210991901"
+    },
+    {
+      "name": "MATALIKA DUTTA",
+      "uid": "2210991902"
+    },
+    {
+      "name": "MAYANK ATRE",
+      "uid": "2210991903"
+    },
+    {
+      "name": "MAYANK KAPOOR",
+      "uid": "2210991905"
+    },
+    {
+      "name": "MAYANK SAWHNEY",
+      "uid": "2210991908"
+    },
+    {
+      "name": "MD AHSAN IQBAL",
+      "uid": "2210991911"
+    },
+    {
+      "name": "MD UMAIR RASHIDI",
+      "uid": "2210991913"
+    },
+    {
+      "name": "MEDHA ANAND CHOMAL",
+      "uid": "2210991914"
+    },
+    {
+      "name": "MEDHA GOEL",
+      "uid": "2210991915"
+    },
+    {
+      "name": "MILAN",
+      "uid": "2210991924"
+    },
+    {
+      "name": "MIMANSA",
+      "uid": "2210991925"
+    },
+    {
+      "name": "MOHD AATIF ALAM ANSARI",
+      "uid": "2210991928"
+    },
+    {
+      "name": "MOHIT CHITKARA",
+      "uid": "2210991929"
+    },
+    {
+      "name": "MOHIT KUMAR",
+      "uid": "2210991931"
+    },
+    {
+      "name": "MOHIT KUMAR GUPTA",
+      "uid": "2210991932"
+    },
+    {
+      "name": "MOLIK BANSAL",
+      "uid": "2210991935"
+    },
+    {
+      "name": "MONASAVI",
+      "uid": "2210991936"
+    },
+    {
+      "name": "MOON",
+      "uid": "2210991938"
+    },
+    {
+      "name": "MUKUL DAHIYA",
+      "uid": "2210991943"
+    },
+    {
+      "name": "NAKUL JAIN",
+      "uid": "2210991950"
+    },
+    {
+      "name": "NAKUL POONIA",
+      "uid": "2210991951"
+    },
+    {
+      "name": "NAMAN ARORA",
+      "uid": "2210991953"
+    },
+    {
+      "name": "NAVAM SHARMA",
+      "uid": "2210991961"
+    },
+    {
+      "name": "NAVLEEN KAUR",
+      "uid": "2210991965"
+    },
+    {
+      "name": "NAVNEET RANI",
+      "uid": "2210991966"
+    },
+    {
+      "name": "NAVYA AGGARWAL",
+      "uid": "2210991967"
+    },
+    {
+      "name": "NEERAJ YADAV",
+      "uid": "2210991970"
+    },
+    {
+      "name": "NIHARIKA PATHANIA",
+      "uid": "2210991974"
+    },
+    {
+      "name": "NIHARKA SINGLA",
+      "uid": "2210991975"
+    },
+    {
+      "name": "NIKHIL",
+      "uid": "2210991977"
+    },
+    {
+      "name": "NIKHIL BHARDWAJ",
+      "uid": "2210991978"
+    },
+    {
+      "name": "NIKHIL KAUSHAL",
+      "uid": "2210991980"
+    },
+    {
+      "name": "NIKHIL SHARMA",
+      "uid": "2210991981"
+    },
+    {
+      "name": "NIKSHAY KATOCH",
+      "uid": "2210991984"
+    },
+    {
+      "name": "NISHANT",
+      "uid": "2210991988"
+    },
+    {
+      "name": "NISHANT KAMBOJ",
+      "uid": "2210991990"
+    },
+    {
+      "name": "PARMANAND SINGH",
+      "uid": "2210992024"
+    },
+    {
+      "name": "PARTH GOYAL",
+      "uid": "2210992029"
+    },
+    {
+      "name": "PRAKASH SINGH",
+      "uid": "2210992058"
+    },
+    {
+      "name": "PRANAV BANSAL",
+      "uid": "2210992060"
+    },
+    {
+      "name": "PRASHANT KUMAR DAS",
+      "uid": "2210992068"
+    },
+    {
+      "name": "PRATHAM CHAUDHARY",
+      "uid": "2210992074"
+    },
+    {
+      "name": "PRATIBHA",
+      "uid": "2210992079"
+    }
+  ],
+  "G26": [
+    {
+      "name": "SARGUNPREET SINGH",
+      "uid": "2210992260"
+    },
+    {
+      "name": "SARTHAK BANSAL",
+      "uid": "2210992261"
+    },
+    {
+      "name": "SARTHAK MALAN",
+      "uid": "2210992262"
+    },
+    {
+      "name": "SARTHAK SADHOTRA",
+      "uid": "2210992264"
+    },
+    {
+      "name": "SARTHAK SHARMA",
+      "uid": "2210992265"
+    },
+    {
+      "name": "SARTHAK SHARMA",
+      "uid": "2210992266"
+    },
+    {
+      "name": "SAURABH ABROL",
+      "uid": "2210992268"
+    },
+    {
+      "name": "SAURABH MALIK",
+      "uid": "2210992269"
+    },
+    {
+      "name": "SAURABH MIDDHA",
+      "uid": "2210992270"
+    },
+    {
+      "name": "SAURAV KUMAR PRIYADARSHI",
+      "uid": "2210992272"
+    },
+    {
+      "name": "SAYANDIP ATA",
+      "uid": "2210992276"
+    },
+    {
+      "name": "SEHDEV PRATAP",
+      "uid": "2210992278"
+    },
+    {
+      "name": "SHAKTI DHAR DUBEY",
+      "uid": "2210992282"
+    },
+    {
+      "name": "SHASHANK GOYAL",
+      "uid": "2210992288"
+    },
+    {
+      "name": "SHASHI KUMAR",
+      "uid": "2210992289"
+    },
+    {
+      "name": "SHASHWAT VIG",
+      "uid": "2210992293"
+    },
+    {
+      "name": "SHAURYA VASUDEVA",
+      "uid": "2210992297"
+    },
+    {
+      "name": "SHEENAM DUBEY",
+      "uid": "2210992298"
+    },
+    {
+      "name": "SHITIJ KALIA",
+      "uid": "2210992300"
+    },
+    {
+      "name": "SHIVAANJAY NARULA",
+      "uid": "2210992302"
+    },
+    {
+      "name": "SHIVAIN CHHIBBER",
+      "uid": "2210992303"
+    },
+    {
+      "name": "SHIVAM",
+      "uid": "2210992305"
+    },
+    {
+      "name": "SHIVAM CHAUDHARY",
+      "uid": "2210992307"
+    },
+    {
+      "name": "SHIVAM GUPTA",
+      "uid": "2210992309"
+    },
+    {
+      "name": "SHIVAM JHA",
+      "uid": "2210992310"
+    },
+    {
+      "name": "SHIVAM KHURANA",
+      "uid": "2210992311"
+    },
+    {
+      "name": "SHIVAM LAMBA",
+      "uid": "2210992313"
+    },
+    {
+      "name": "SHIVAM SHARMA",
+      "uid": "2210992316"
+    },
+    {
+      "name": "SHIVANSH BANYAL",
+      "uid": "2210992318"
+    },
+    {
+      "name": "SHIVANSH BHATIA",
+      "uid": "2210992319"
+    },
+    {
+      "name": "SHIVANSH DUTTA",
+      "uid": "2210992320"
+    },
+    {
+      "name": "SHIVANSH KHUNGER",
+      "uid": "2210992324"
+    },
+    {
+      "name": "SHIVANSH MAKHIJA",
+      "uid": "2210992325"
+    },
+    {
+      "name": "SHIVANSH SETIA",
+      "uid": "2210992327"
+    },
+    {
+      "name": "SHIVANSHU",
+      "uid": "2210992329"
+    },
+    {
+      "name": "SHIWALI",
+      "uid": "2210992334"
+    },
+    {
+      "name": "SHREIYA",
+      "uid": "2210992338"
+    },
+    {
+      "name": "SHRESTH KUMAR",
+      "uid": "2210992340"
+    },
+    {
+      "name": "SHREYA GARG",
+      "uid": "2210992341"
+    },
+    {
+      "name": "SHREYA SINGH",
+      "uid": "2210992343"
+    },
+    {
+      "name": "SHREYA THAKUR",
+      "uid": "2210992344"
+    },
+    {
+      "name": "SHREYANSH MAHESHWARI",
+      "uid": "2210992345"
+    },
+    {
+      "name": "SHREYASHI SINGH",
+      "uid": "2210992348"
+    },
+    {
+      "name": "SHRIJA SHARMA",
+      "uid": "2210992350"
+    },
+    {
+      "name": "SHRUTI",
+      "uid": "2210992354"
+    },
+    {
+      "name": "SHUBHAM DHIMAN",
+      "uid": "2210992362"
+    },
+    {
+      "name": "SHUBHAM DHONI",
+      "uid": "2210992363"
+    },
+    {
+      "name": "SIDDHARTH GARG",
+      "uid": "2210992375"
+    },
+    {
+      "name": "SITANSHU GUPTA",
+      "uid": "2210992385"
+    },
+    {
+      "name": "SOUVIK DHAR",
+      "uid": "2210992402"
+    },
+    {
+      "name": "SUBHAJIT MISRA",
+      "uid": "2210992410"
+    },
+    {
+      "name": "SUBHAM DAS",
+      "uid": "2210992411"
+    },
+    {
+      "name": "VASU DEV",
+      "uid": "2210992518"
+    },
+    {
+      "name": "VIKAS RANAUT",
+      "uid": "2210992525"
+    },
+    {
+      "name": "VINAY SHARMA",
+      "uid": "2210992529"
+    },
+    {
+      "name": "VINIT KUMAR",
+      "uid": "2210992532"
+    },
+    {
+      "name": "VISHAL RAJ",
+      "uid": "2210992537"
+    },
+    {
+      "name": "VISHAL TYAGI",
+      "uid": "2210992538"
+    }
+  ],
+  "G28": [
+    {
+      "name": "SATYANSH KUMAR",
+      "uid": "2210931014"
+    },
+    {
+      "name": "ABHAY SHARMA",
+      "uid": "2210990028"
+    },
+    {
+      "name": "AGRIM",
+      "uid": "2210990079"
+    },
+    {
+      "name": "AKSHAT PALYAL",
+      "uid": "2210990087"
+    },
+    {
+      "name": "AKSHAY MEHTA",
+      "uid": "2210990088"
+    },
+    {
+      "name": "AKSHIT KANSAL",
+      "uid": "2210990092"
+    },
+    {
+      "name": "ANKUSH",
+      "uid": "2210990119"
+    },
+    {
+      "name": "ANMOL",
+      "uid": "2210990120"
+    },
+    {
+      "name": "ANMOL SAINI",
+      "uid": "2210990124"
+    },
+    {
+      "name": "SERENA BALYAN",
+      "uid": "2210992281"
+    },
+    {
+      "name": "SHRUTI SHARMA",
+      "uid": "2210992358"
+    },
+    {
+      "name": "SHUBHAM MITTAL",
+      "uid": "2210992367"
+    },
+    {
+      "name": "SIDDHAM JAIN",
+      "uid": "2210992374"
+    },
+    {
+      "name": "SIDHANT SINGH BHADAURIYA",
+      "uid": "2210992377"
+    },
+    {
+      "name": "SIDHARTH SHARMA",
+      "uid": "2210992379"
+    },
+    {
+      "name": "SNEHA SHARMA",
+      "uid": "2210992392"
+    },
+    {
+      "name": "SRISHTI MADAAN",
+      "uid": "2210992407"
+    },
+    {
+      "name": "SRISHTI MALHOTRA",
+      "uid": "2210992408"
+    },
+    {
+      "name": "SUHANA KAURA",
+      "uid": "2210992414"
+    },
+    {
+      "name": "SUKHPREET SINGH",
+      "uid": "2210992416"
+    },
+    {
+      "name": "SUKRITI",
+      "uid": "2210992417"
+    },
+    {
+      "name": "SUMANYU SHARMA",
+      "uid": "2210992418"
+    },
+    {
+      "name": "SUMMIT SINGLA",
+      "uid": "2210992420"
+    },
+    {
+      "name": "SWARIT SHARMA",
+      "uid": "2210992430"
+    },
+    {
+      "name": "SWASTIK CHAUHAN",
+      "uid": "2210992431"
+    },
+    {
+      "name": "SWASTIK GARG",
+      "uid": "2210992432"
+    },
+    {
+      "name": "SWASTIK TARA",
+      "uid": "2210992433"
+    },
+    {
+      "name": "SWAYAM SHARMA",
+      "uid": "2210992434"
+    },
+    {
+      "name": "TAMANNA KANSAL",
+      "uid": "2210992436"
+    },
+    {
+      "name": "TANISH SINGLA",
+      "uid": "2210992438"
+    },
+    {
+      "name": "TANISHA",
+      "uid": "2210992439"
+    },
+    {
+      "name": "TANISHA",
+      "uid": "2210992440"
+    },
+    {
+      "name": "TANISHA MOHAPATRA",
+      "uid": "2210992442"
+    },
+    {
+      "name": "VIKRAMJEET SINGH MONGA",
+      "uid": "2210992526"
+    },
+    {
+      "name": "VINAY KUMAR MANGAL",
+      "uid": "2210992528"
+    },
+    {
+      "name": "VIPUL SHARMA",
+      "uid": "2210992534"
+    },
+    {
+      "name": "VIVEK",
+      "uid": "2210992545"
+    },
+    {
+      "name": "VIVEK ANAND",
+      "uid": "2210992547"
+    },
+    {
+      "name": "VRINDA PURI",
+      "uid": "2210992549"
+    },
+    {
+      "name": "YAJUR MITTAL",
+      "uid": "2210992550"
+    },
+    {
+      "name": "YASH",
+      "uid": "2210992553"
+    },
+    {
+      "name": "YASH RAWAT",
+      "uid": "2210992559"
+    },
+    {
+      "name": "YASHVARDHAN PANNU",
+      "uid": "2210992566"
+    },
+    {
+      "name": "YASHVARDHAN SINGH",
+      "uid": "2210992567"
+    },
+    {
+      "name": "YATHARTH",
+      "uid": "2210992568"
+    },
+    {
+      "name": "YOGESH KISSLAY",
+      "uid": "2210992570"
+    },
+    {
+      "name": "YUVRAJ PRAJAPAT",
+      "uid": "2210992573"
+    },
+    {
+      "name": "YUVRAJ SONI",
+      "uid": "2210992574"
+    },
+    {
+      "name": "ABSAR NAZIR",
+      "uid": "2210992575"
+    },
+    {
+      "name": "ADITYA SHARMA",
+      "uid": "2210992588"
+    },
+    {
+      "name": "Devansh Mahajan",
+      "uid": "2210992589"
+    },
+    {
+      "name": "Lavanya Sharma",
+      "uid": "2210992590"
+    },
+    {
+      "name": "KHUSHI SIKKA",
+      "uid": "2210992592"
+    }
+  ],
+  "G29": [
+    {
+      "name": "Krishna Bajaj",
+      "uid": "2210931008"
+    },
+    {
+      "name": "RAJVARDHAN TIWARI",
+      "uid": "2210990710"
+    },
+    {
+      "name": "ROHAN",
+      "uid": "2210990737"
+    },
+    {
+      "name": "SAURAV KUMAR SINGH",
+      "uid": "2210992273"
+    },
+    {
+      "name": "SHUBHAM",
+      "uid": "2210992360"
+    },
+    {
+      "name": "SHUBHAM BANSAL",
+      "uid": "2210992361"
+    },
+    {
+      "name": "SHUBHAM JAIN",
+      "uid": "2210992365"
+    },
+    {
+      "name": "SHUBHAM THAKUR",
+      "uid": "2210992371"
+    },
+    {
+      "name": "SHUBHAM VERMA",
+      "uid": "2210992372"
+    },
+    {
+      "name": "SIDHARTH",
+      "uid": "2210992378"
+    },
+    {
+      "name": "SIMRAN",
+      "uid": "2210992381"
+    },
+    {
+      "name": "SIMRIT GARG",
+      "uid": "2210992384"
+    },
+    {
+      "name": "SIYA BANSAL",
+      "uid": "2210992386"
+    },
+    {
+      "name": "SUDEEP",
+      "uid": "2210992412"
+    },
+    {
+      "name": "SURYA DEV SINGH",
+      "uid": "2210992423"
+    },
+    {
+      "name": "SURYANSH CHABBA",
+      "uid": "2210992424"
+    },
+    {
+      "name": "SURYANSH RANA",
+      "uid": "2210992425"
+    },
+    {
+      "name": "TANIYA",
+      "uid": "2210992447"
+    },
+    {
+      "name": "TANIYA",
+      "uid": "2210992448"
+    },
+    {
+      "name": "TANMAY GUPTA",
+      "uid": "2210992449"
+    },
+    {
+      "name": "TANVI",
+      "uid": "2210992450"
+    },
+    {
+      "name": "TANYA GULATI",
+      "uid": "2210992452"
+    },
+    {
+      "name": "TARANVIR SINGH",
+      "uid": "2210992455"
+    },
+    {
+      "name": "TARUN KUMAR",
+      "uid": "2210992459"
+    },
+    {
+      "name": "TEJ RAJ",
+      "uid": "2210992461"
+    },
+    {
+      "name": "TISHA",
+      "uid": "2210992465"
+    },
+    {
+      "name": "TRIPTI JINDAL",
+      "uid": "2210992466"
+    },
+    {
+      "name": "TRISH PALIA",
+      "uid": "2210992467"
+    },
+    {
+      "name": "TUSHAR SINGLA",
+      "uid": "2210992470"
+    },
+    {
+      "name": "TUSHAR SOURAV",
+      "uid": "2210992471"
+    },
+    {
+      "name": "UDAY SINGH",
+      "uid": "2210992473"
+    },
+    {
+      "name": "UJJAWAL",
+      "uid": "2210992477"
+    },
+    {
+      "name": "UJJWAL",
+      "uid": "2210992478"
+    },
+    {
+      "name": "UJJWAL",
+      "uid": "2210992479"
+    },
+    {
+      "name": "VAIBHAV",
+      "uid": "2210992485"
+    },
+    {
+      "name": "VAIBHAV KHANNA",
+      "uid": "2210992486"
+    },
+    {
+      "name": "VAIBHAV RANA",
+      "uid": "2210992488"
+    },
+    {
+      "name": "VAIBHAV SHEORAN",
+      "uid": "2210992490"
+    },
+    {
+      "name": "VAIBHAV TIWARI",
+      "uid": "2210992491"
+    },
+    {
+      "name": "VAIBHAV VERMA",
+      "uid": "2210992492"
+    },
+    {
+      "name": "VAISHNAVI SINGH",
+      "uid": "2210992494"
+    },
+    {
+      "name": "VAMIKA",
+      "uid": "2210992495"
+    },
+    {
+      "name": "VANI VERMA",
+      "uid": "2210992496"
+    },
+    {
+      "name": "VANSH PANT",
+      "uid": "2210992498"
+    },
+    {
+      "name": "VANSH THAKUR",
+      "uid": "2210992499"
+    },
+    {
+      "name": "VANSHAJ SHARMA",
+      "uid": "2210992500"
+    },
+    {
+      "name": "VANSHIK",
+      "uid": "2210992501"
+    },
+    {
+      "name": "VANSHIKA",
+      "uid": "2210992502"
+    },
+    {
+      "name": "VANSHIKA",
+      "uid": "2210992505"
+    },
+    {
+      "name": "VANSHIKA",
+      "uid": "2210992506"
+    },
+    {
+      "name": "VANSHIKA KAMRA",
+      "uid": "2210992508"
+    },
+    {
+      "name": "VANSHIT",
+      "uid": "2210992509"
+    },
+    {
+      "name": "VANSHUL RANA",
+      "uid": "2210992511"
+    },
+    {
+      "name": "VANSHUL THAKUR",
+      "uid": "2210992512"
+    },
+    {
+      "name": "VEDANSH KATYAL",
+      "uid": "2210992519"
+    },
+    {
+      "name": "VEDANT LODHI",
+      "uid": "2210992520"
+    },
+    {
+      "name": "VIBHA",
+      "uid": "2210992521"
+    },
+    {
+      "name": "VIBHOR VERMA",
+      "uid": "2210992522"
+    },
+    {
+      "name": "VINAYAK MEHTA",
+      "uid": "2210992530"
+    },
+    {
+      "name": "VINIT",
+      "uid": "2210992531"
+    },
+    {
+      "name": "VINIT VIKAS",
+      "uid": "2210992533"
+    }
+  ],
+  "G30": [
+    {
+      "name": "ARYAN",
+      "uid": "2210990174"
+    },
+    {
+      "name": "ARYAN",
+      "uid": "2210990175"
+    },
+    {
+      "name": "ASHISH TANTUBAI",
+      "uid": "2210990188"
+    },
+    {
+      "name": "AVINASH KUMAR JHA",
+      "uid": "2210990200"
+    },
+    {
+      "name": "AYUSH BHARTI",
+      "uid": "2210990204"
+    },
+    {
+      "name": "BHAVIKA",
+      "uid": "2210990219"
+    },
+    {
+      "name": "DEVANG KUMAR",
+      "uid": "2210990257"
+    },
+    {
+      "name": "DEVANSH MITTAL",
+      "uid": "2210990260"
+    },
+    {
+      "name": "DHRUV KINGER",
+      "uid": "2210990275"
+    },
+    {
+      "name": "DIKSHANT SOHAL",
+      "uid": "2210990283"
+    },
+    {
+      "name": "DIVYANJALI SINGLA",
+      "uid": "2210990296"
+    },
+    {
+      "name": "GURINDER SINGH",
+      "uid": "2210990337"
+    },
+    {
+      "name": "GURKIRAT SINGH",
+      "uid": "2210990339"
+    },
+    {
+      "name": "GURSIMRAN KAUR",
+      "uid": "2210990350"
+    },
+    {
+      "name": "GYANARANJAN BISWAL",
+      "uid": "2210990354"
+    },
+    {
+      "name": "HIMANI",
+      "uid": "2210990401"
+    },
+    {
+      "name": "HIMANSHI",
+      "uid": "2210990403"
+    },
+    {
+      "name": "HIMANSHU MEHTA",
+      "uid": "2210990406"
+    },
+    {
+      "name": "JANVI JAIN",
+      "uid": "2210990430"
+    },
+    {
+      "name": "JATIN",
+      "uid": "2210990455"
+    },
+    {
+      "name": "KARTIK",
+      "uid": "2210990485"
+    },
+    {
+      "name": "KESHAV GUPTA",
+      "uid": "2210990505"
+    },
+    {
+      "name": "KRISHNA SINGH",
+      "uid": "2210990521"
+    },
+    {
+      "name": "KUNISHA DHIR",
+      "uid": "2210990528"
+    },
+    {
+      "name": "KUSHAGRA JUNEJA",
+      "uid": "2210990533"
+    },
+    {
+      "name": "LAKSHAY KUMAR",
+      "uid": "2210990536"
+    },
+    {
+      "name": "LAVISH JAIN",
+      "uid": "2210990541"
+    },
+    {
+      "name": "LISHA GOEL V",
+      "uid": "2210990542"
+    },
+    {
+      "name": "MUGDHA",
+      "uid": "2210990585"
+    },
+    {
+      "name": "MUKUL SAINI",
+      "uid": "2210990586"
+    },
+    {
+      "name": "NABH JINDAL",
+      "uid": "2210990592"
+    },
+    {
+      "name": "NIKHAL PATHAN",
+      "uid": "2210990608"
+    },
+    {
+      "name": "NIKHIL SINGH",
+      "uid": "2210990611"
+    },
+    {
+      "name": "NIKHITA GUPTA",
+      "uid": "2210990613"
+    },
+    {
+      "name": "NIPUN SHARMA",
+      "uid": "2210990616"
+    },
+    {
+      "name": "NITIKA BANSAL",
+      "uid": "2210990623"
+    },
+    {
+      "name": "PAARTH SHARMA",
+      "uid": "2210990630"
+    },
+    {
+      "name": "PARTH MEHTA",
+      "uid": "2210990644"
+    },
+    {
+      "name": "PAYAL DHIMAN",
+      "uid": "2210990647"
+    },
+    {
+      "name": "PIYUSH TAYAL",
+      "uid": "2210990654"
+    },
+    {
+      "name": "PRANAV",
+      "uid": "2210990664"
+    },
+    {
+      "name": "PRITAM KUMAR",
+      "uid": "2210990683"
+    },
+    {
+      "name": "PURAB VATS",
+      "uid": "2210990692"
+    },
+    {
+      "name": "RUDRAKSH CHIB",
+      "uid": "2210990745"
+    },
+    {
+      "name": "RUPINDEEP SINGH",
+      "uid": "2210990750"
+    },
+    {
+      "name": "SAKSHAM",
+      "uid": "2210990761"
+    },
+    {
+      "name": "SANIYA SINGLA",
+      "uid": "2210990789"
+    },
+    {
+      "name": "SANYAM MIGLANI",
+      "uid": "2210990796"
+    },
+    {
+      "name": "SHIBAM HALDER",
+      "uid": "2210990818"
+    },
+    {
+      "name": "SHIVAM LAUL",
+      "uid": "2210990824"
+    },
+    {
+      "name": "SNEHA",
+      "uid": "2210990856"
+    },
+    {
+      "name": "SRISHTI AHUJA",
+      "uid": "2210990866"
+    },
+    {
+      "name": "SULABH GARG",
+      "uid": "2210990871"
+    },
+    {
+      "name": "SUMAN RANJAN",
+      "uid": "2210990872"
+    },
+    {
+      "name": "SWAYAM BANSAL",
+      "uid": "2210990883"
+    },
+    {
+      "name": "TANISHQ DHAWAN",
+      "uid": "2210990897"
+    },
+    {
+      "name": "VAANI",
+      "uid": "2210990930"
+    },
+    {
+      "name": "VANSHIKA",
+      "uid": "2210990943"
+    },
+    {
+      "name": "VANSHIKA GOYAL",
+      "uid": "2210990946"
+    },
+    {
+      "name": "VARNIKA SOM",
+      "uid": "2210990951"
+    },
+    {
+      "name": "SWYAM HARJAI",
+      "uid": "2210990997"
+    }
+  ]
+}

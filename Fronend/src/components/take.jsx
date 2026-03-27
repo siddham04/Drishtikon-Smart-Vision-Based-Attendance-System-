@@ -1,8 +1,9 @@
-import React, { useState, useRef, useCallback } from 'react';
+import React, { useState, useRef, useCallback, useEffect } from 'react';
+import { API_URL } from '../config';
 import TakeIcon from '../assets/take.svg';
 
-const CAPTURE_DURATION_MS = 8000;
-const CAPTURE_INTERVAL_MS = 400;
+const CAPTURE_DURATION_MS = 10000;
+const RECOGNIZE_INTERVAL_MS = 900;
 
 const TakeAtt = ({ group }) => {
     const [showModal, setShowModal] = useState(false);
@@ -10,15 +11,19 @@ const TakeAtt = ({ group }) => {
     const [progress, setProgress] = useState(0);
     const [results, setResults] = useState(null);
     const [error, setError] = useState('');
+    const [liveFaces, setLiveFaces] = useState([]);
 
     const videoRef = useRef(null);
     const canvasRef = useRef(null);
+    const overlayRef = useRef(null);
     const streamRef = useRef(null);
-    const intervalRef = useRef(null);
+    const recognizeRef = useRef(null);
     const timerRef = useRef(null);
+    const framesRef = useRef([]);
+    const recognizedRef = useRef(new Set());
 
     const stopCamera = useCallback(() => {
-        if (intervalRef.current) { clearInterval(intervalRef.current); intervalRef.current = null; }
+        if (recognizeRef.current) { clearInterval(recognizeRef.current); recognizeRef.current = null; }
         if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; }
         if (streamRef.current) {
             streamRef.current.getTracks().forEach(t => t.stop());
@@ -33,12 +38,15 @@ const TakeAtt = ({ group }) => {
         setProgress(0);
         setResults(null);
         setError('');
+        setLiveFaces([]);
+        framesRef.current = [];
+        recognizedRef.current = new Set();
     }, [stopCamera]);
 
     const startCamera = useCallback(async () => {
         try {
             const stream = await navigator.mediaDevices.getUserMedia({
-                video: { width: 640, height: 480, facingMode: 'user' }
+                video: { width: 640, height: 480, facingMode: 'user' },
             });
             streamRef.current = stream;
             if (videoRef.current) videoRef.current.srcObject = stream;
@@ -47,43 +55,80 @@ const TakeAtt = ({ group }) => {
         }
     }, []);
 
-    const startCapture = useCallback(() => {
-        setPhase('capturing');
-        setProgress(0);
-        setError('');
+    const drawOverlay = useCallback((faces) => {
+        const video = videoRef.current;
+        const overlay = overlayRef.current;
+        if (!video || !overlay) return;
 
-        const frames = [];
-        const startTime = Date.now();
+        const vw = video.videoWidth;
+        const vh = video.videoHeight;
+        overlay.width = overlay.clientWidth;
+        overlay.height = overlay.clientHeight;
+        const ctx = overlay.getContext('2d');
+        ctx.clearRect(0, 0, overlay.width, overlay.height);
 
-        intervalRef.current = setInterval(() => {
-            if (!videoRef.current || !canvasRef.current) return;
-            const video = videoRef.current;
-            const canvas = canvasRef.current;
-            canvas.width = video.videoWidth;
-            canvas.height = video.videoHeight;
-            canvas.getContext('2d').drawImage(video, 0, 0);
-            frames.push(canvas.toDataURL('image/jpeg', 0.7));
-        }, CAPTURE_INTERVAL_MS);
+        const scaleX = overlay.width / vw;
+        const scaleY = overlay.height / vh;
 
-        timerRef.current = setInterval(() => {
-            const elapsed = Date.now() - startTime;
-            const pct = Math.min((elapsed / CAPTURE_DURATION_MS) * 100, 100);
-            setProgress(pct);
-            if (elapsed >= CAPTURE_DURATION_MS) {
-                clearInterval(intervalRef.current);
-                clearInterval(timerRef.current);
-                intervalRef.current = null;
-                timerRef.current = null;
-                stopCamera();
-                submitFrames(frames);
+        faces.forEach(face => {
+            const mirroredX = vw - face.x - face.w;
+            const x = mirroredX * scaleX;
+            const y = face.y * scaleY;
+            const w = face.w * scaleX;
+            const h = face.h * scaleY;
+
+            const known = face.name !== 'Unknown';
+            ctx.strokeStyle = known ? '#22c55e' : '#ef4444';
+            ctx.lineWidth = 2;
+            ctx.strokeRect(x, y, w, h);
+
+            const label = known ? `${face.name} (${Math.round(face.confidence * 100)}%)` : 'Unknown';
+            ctx.font = '13px sans-serif';
+            const textW = ctx.measureText(label).width + 10;
+            ctx.fillStyle = known ? 'rgba(34,197,94,0.85)' : 'rgba(239,68,68,0.85)';
+            ctx.fillRect(x, y - 22, textW, 22);
+            ctx.fillStyle = '#fff';
+            ctx.fillText(label, x + 5, y - 6);
+        });
+    }, []);
+
+    const captureFrame = useCallback(() => {
+        if (!videoRef.current || !canvasRef.current) return null;
+        const video = videoRef.current;
+        const canvas = canvasRef.current;
+        canvas.width = video.videoWidth;
+        canvas.height = video.videoHeight;
+        canvas.getContext('2d').drawImage(video, 0, 0);
+        return canvas.toDataURL('image/jpeg', 0.7);
+    }, []);
+
+    const recognizeOne = useCallback(async () => {
+        const frame = captureFrame();
+        if (!frame) return;
+        framesRef.current.push(frame);
+        try {
+            const res = await fetch(`${API_URL}/recognize-frame`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ frame, group }),
+            });
+            const data = await res.json();
+            if (data.faces) {
+                setLiveFaces(data.faces);
+                drawOverlay(data.faces);
+                data.faces.forEach(f => {
+                    if (f.name !== 'Unknown') recognizedRef.current.add(`${f.name},${f.uid}`);
+                });
             }
-        }, 100);
-    }, [stopCamera]);
+        } catch {
+            /* network hiccup during real-time scan — ignore */
+        }
+    }, [captureFrame, drawOverlay, group]);
 
     const submitFrames = useCallback(async (frames) => {
         setPhase('processing');
         try {
-            const response = await fetch('http://localhost:5000/take-attendance', {
+            const response = await fetch(`${API_URL}/take-attendance`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ group, frames }),
@@ -102,11 +147,39 @@ const TakeAtt = ({ group }) => {
         }
     }, [group]);
 
+    const startCapture = useCallback(() => {
+        setPhase('capturing');
+        setProgress(0);
+        setError('');
+        setLiveFaces([]);
+        framesRef.current = [];
+        recognizedRef.current = new Set();
+
+        const startTime = Date.now();
+
+        recognizeRef.current = setInterval(() => recognizeOne(), RECOGNIZE_INTERVAL_MS);
+
+        timerRef.current = setInterval(() => {
+            const elapsed = Date.now() - startTime;
+            const pct = Math.min((elapsed / CAPTURE_DURATION_MS) * 100, 100);
+            setProgress(pct);
+            if (elapsed >= CAPTURE_DURATION_MS) {
+                clearInterval(recognizeRef.current);
+                clearInterval(timerRef.current);
+                recognizeRef.current = null;
+                timerRef.current = null;
+                stopCamera();
+                submitFrames(framesRef.current);
+            }
+        }, 100);
+    }, [stopCamera, submitFrames, recognizeOne]);
+
     const handleOpen = () => {
         setShowModal(true);
         setPhase('ready');
         setResults(null);
         setError('');
+        setLiveFaces([]);
         setTimeout(() => startCamera(), 100);
     };
 
@@ -153,10 +226,24 @@ const TakeAtt = ({ group }) => {
                                             style={{ transform: 'scaleX(-1)' }}
                                         />
                                         <canvas ref={canvasRef} className="hidden" />
+                                        <canvas
+                                            ref={overlayRef}
+                                            className="absolute inset-0 w-full h-full pointer-events-none"
+                                            style={{ transform: 'scaleX(1)' }}
+                                        />
 
                                         {phase === 'capturing' && (
                                             <div className="absolute top-3 right-3 bg-red-500 text-white text-xs px-2.5 py-1 rounded-full animate-pulse">
                                                 REC
+                                            </div>
+                                        )}
+                                        {phase === 'capturing' && liveFaces.length > 0 && (
+                                            <div className="absolute bottom-3 left-3 flex gap-1.5 flex-wrap">
+                                                {liveFaces.filter(f => f.name !== 'Unknown').map((f, i) => (
+                                                    <span key={i} className="bg-green-600/90 text-white text-[11px] px-2 py-0.5 rounded-full">
+                                                        {f.name}
+                                                    </span>
+                                                ))}
                                             </div>
                                         )}
                                         {phase === 'processing' && (
